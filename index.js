@@ -1,6 +1,6 @@
 const cheerio = require('cheerio')
 const { Feed } = require('feed')
-const { readFile, writeFile } = require('fs/promises')
+const { readFile, utimes, writeFile } = require('fs/promises')
 const fetchOpts = {headers: {'User-Agent': 'Googlebot'}}
 const fetchDomain = 'https://www.elderscrollsonline.com'
 
@@ -178,8 +178,9 @@ async function saveFeed(results) {
 	for (const item of results) {
 		feed.addItem(item)
 	}
-	
-	return writeFile('webroot/feed.rss', feed.rss2())
+
+	await writeFile('webroot/feed.rss', feed.rss2())
+	await utimes('webroot/feed.rss', results[0].date, results[0].date)
 }
 
 async function saveHtml(results) {
@@ -232,6 +233,7 @@ html += `
 	html += await readFile('footer.html', 'utf8')
 
 	await writeFile('webroot/index.html', html)
+	await utimes('webroot/index.html', results[0].date, results[0].date)
 }
 
 ;(async () => {
