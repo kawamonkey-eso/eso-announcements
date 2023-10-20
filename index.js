@@ -94,6 +94,17 @@ async function getThread(url) {
 	const output = []
 	let date
 
+	// expand beth.games links
+	for (const a of $('a[href^="https://beth.games/"]')) {
+		const link = $(a)
+		const href = link.attr('href')
+		const response = await fetch(href)
+		const url = new URL(response.url)
+		url.searchParams.delete('linkId')
+		link.html(link.html().replace(href, url.toString()))
+		link.attr('href', url.toString())
+	}
+
 	// iterate messages
 	for (const item of $('#Content .Item')) {
 		// only iterate over initial Staff items
@@ -117,7 +128,7 @@ async function getThread(url) {
 
 		// remove unwanted attributes
 		html = html.replace(/ (?:alt|class|rel|srcset)=".+?"/g, '')
-		
+
 		output.push(html)
 	}
 
