@@ -1,6 +1,6 @@
 const cheerio = require('cheerio')
 const { Feed } = require('feed')
-const { writeFile } = require('fs/promises')
+const { readFile, writeFile } = require('fs/promises')
 const fetchOpts = {headers: {'User-Agent': 'Googlebot'}}
 const fetchDomain = 'https://www.elderscrollsonline.com'
 
@@ -42,13 +42,13 @@ async function getNewsPost(slug) {
 		if (div.attribs.id.startsWith('blog_images')) {
 			// iterate images
 			for (const a of $(div).find('.zl-link')) {
-				content += `\n<p><img src="${a.attribs.href}" /></p>\n`
+				content += `\n<img src="${a.attribs.href}" />\n`
 			}
 		} else if (div.attribs.id.startsWith('blog_videos')) {
 			const embedUrl = $('a[href^="https://youtube.com/embed/"]', div).attr('href').replace('/embed/', '/v/')
 			const imgSrc = $('img.preview', div).attr('data-lazy-src')
 
-			content += `\n<p><a href="${embedUrl}"><img src="${imgSrc}" /></a></p>\n`
+			content += `\n<a href="${embedUrl}"><img src="${imgSrc}" /></a>\n`
 		} else if (div.attribs.id.startsWith('text_block')) {
 			// get child HTML contents
 			for (const child of div.children) {
@@ -60,7 +60,13 @@ async function getNewsPost(slug) {
 	}
 
 	// remove unwanted tags
-	content = content.replace(/ (?:class|data-.*?)=".+?"/g, '')
+	content = content
+		.replace(/ (?:class|data-.*?)=".+?"/g, '')
+		.replace(/ type="(?:circle|disc)"/g, '')
+
+	// fix formatting
+	content = content
+		.replace(/ align="(.+)"/g, ' style="text-align: $1;"')
 
 	// clean up whitespace
 	content = content
@@ -176,6 +182,56 @@ async function getForum() {
 	for (const item of results) {
 		feed.addItem(item)
 	}
-
+	
 	await writeFile('feed.rss', feed.rss2())
+
+	let html = await readFile('header.html', 'utf8')
+
+	for (const i in results) {
+		const item = results[i]
+
+		if (i % 2 == 0) {
+			html += `\n\t\t\t<div class="row mb-2">`
+		}
+
+		html += `
+				<div class="col-md-6">
+					<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+						<img src="${item.image ?? 'forums.jpg'}" />
+						<div class="col p-4 d-flex flex-column position-static">
+							<h3 class="mb-0">${item.title}</h3>
+							<div class="mb-1 text-muted">${item.date.toDateString()}</div>
+							<p class="card-text mb-auto">${item.description}</p>
+							<a data-bs-toggle="modal" data-bs-target="#modal${i}" class="stretched-link">Continue reading</a>
+						</div>
+					</div>
+				</div>`
+
+		if (i % 2 == 1) {
+			html += `\n\t\t\t</div>`
+		}
+	}
+
+	for (const i in results) {
+		const item = results[i]
+html += `
+<div class="modal modal-lg modal-dialog-scrollable fade" id="modal${i}" tabindex="-1" aria-labelledby="Modal${i}Label" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="Modal${i}Label" title="${item.date.toDateString()}">${item.title}</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				${item.content.replace(/<a /g, '<a target="_blank" ').replace(/\n/g, "\n\t\t\t\t")}
+			</div>
+		</div>
+	</div>
+</div>
+`
+	}
+
+	html += await readFile('footer.html', 'utf8')
+
+	await writeFile('index.html', html)
 })()
