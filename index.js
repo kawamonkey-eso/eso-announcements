@@ -164,11 +164,7 @@ async function getForum() {
 	return output
 }
 
-;(async () => {
-	let results = await Promise.all([getNews(), getForum()])
-	results = results.flat()
-	results.sort((a, b) => b.date - a.date)
-
+async function saveFeed(results) {
 	const feed = new Feed({
 		title: "ESO Announcements",
 		description: "Combined ESO blog and forum post announcements feed",
@@ -183,8 +179,10 @@ async function getForum() {
 		feed.addItem(item)
 	}
 	
-	await writeFile('feed.rss', feed.rss2())
+	return writeFile('webroot/feed.rss', feed.rss2())
+}
 
+async function saveHtml(results) {
 	let html = await readFile('header.html', 'utf8')
 
 	for (const i in results) {
@@ -197,7 +195,7 @@ async function getForum() {
 		html += `
 				<div class="col-md-6">
 					<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-						<img src="${item.image ?? 'forums.jpg'}" />
+						<img src="${item.image ?? 'img/forums.jpg'}" />
 						<div class="col p-4 d-flex flex-column position-static">
 							<h3 class="mb-0">${item.title}</h3>
 							<div class="mb-1 text-muted">${item.date.toDateString()}</div>
@@ -233,5 +231,13 @@ html += `
 
 	html += await readFile('footer.html', 'utf8')
 
-	await writeFile('index.html', html)
+	await writeFile('webroot/index.html', html)
+}
+
+;(async () => {
+	let results = await Promise.all([getNews(), getForum()])
+	results = results.flat()
+	results.sort((a, b) => b.date - a.date)
+
+	await Promise.all([saveFeed(results), saveHtml(results)])
 })()
