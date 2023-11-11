@@ -4,10 +4,18 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 19:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Share your tips for the Endless Archive for our console friends!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/646715/share-your-tips-for-the-endless-archive-for-our-console-friends</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/646715/share-your-tips-for-the-endless-archive-for-our-console-friends</guid>
+            <pubDate>Fri, 10 Nov 2023 19:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[Hi all! Our friends on console will be able to dive into the Endless Archive for the first time starting next Tuesday! With console launch quickly approaching, share some of your tips, tricks, or experience to help set new players for Endless Archive success! We also have some<a href="https://www.elderscrollsonline.com/en-us/news/post/64999"> community guides available here</a> for everyone to reference.]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Crown Store Showcase—November 2023]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/64957</link>
