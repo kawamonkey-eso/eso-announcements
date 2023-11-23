@@ -4,10 +4,26 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 21 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Ride This New Mount Toward Great Savings with the 2023 Black Fredas Bundle]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65031</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65031</guid>
+            <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Grab the 2023 Black Fredas bundle and get your hands on both great savings and the reins of a new mount!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/11/4cc8d38157ab7d94d6ab3cf6aa35a9ee.jpg" /><p><i>Grab the 2023 Black Fredas bundle and get your hands on both great savings and the reins of a new mount!</i></p> 
+<p>A special Black Fredas bundle is now available for purchase from the in-game Crown Store, providing you with an opportunity to save big while acquiring a brand-new mount! This bundle contains a host of items for a fraction of what they would cost individually—a mere 1,900 Crowns for 8,100 Crowns of value.</p> 
+<p>Check out the full list of the bundle's contents here:</p> 
+<ul><li>Black Fredas Senche-Lizard mount</li><li>10 Crown Experience Scrolls</li><li>10 Crown Lessons: Riding Speed </li><li>10 Crown Lessons: Riding Capacity</li><li>10 Crown Fortifying Meals</li><li>10 Crown Soul Gems</li><li>50 Crown Tri-Restoration Potions</li></ul> 
+<p>You'll find so much to enjoy in this great Crown Store bundle. Not only does it come with a unique mount, but it also has an array of useful consumables that can speed you along in your adventures in Tamriel.</p> 
+<p>This special offer is now available in the in-game Crown store and will <b>remain until November 30 at 10AM EST</b>. Be sure to take advantage of this fantastic deal! Are you going to ride out atop the Black Fredas Senche-Lizard? Let us know via <a href="https://twitter.com/TESOnline">X (Formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Crown Store</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/11/4cc8d38157ab7d94d6ab3cf6aa35a9ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Enjoy Savings on ESO: Necrom and Base Game during the 2023 Black Friday Sale!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65029</link>
@@ -1198,22 +1214,6 @@ This phase will encompass all other countries where ESO is available, that are n
 <ul><li>Some Czech Republic players may not have their country recognized, thus making them unable to upgrade the patch at this time. We are aware of the issue and working toward a solution.</li>
 </ul>]]></content:encoded>
             <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Delve into the Endless Archive & Update 40 during a Special Livestream Preview]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/64615</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/64615</guid>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get ready to tune in to Twitch.tv/Bethesda as we reveal the new challenges and base-game additions coming soon to The Elder Scrolls Online.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/a79856cb8f5452e3ee64d1b355c60970.jpg" /><p><i>Get ready to tune in to Twitch.tv/Bethesda as we reveal the new challenges and base-game additions coming soon to The Elder Scrolls Online.</i></p> 
-<p>Looking to learn more about the Endless Archive and upcoming base-game updates? The New Feature &amp; Update Preview: Endless Archive stream will go live on <a href="http://www.twitch.tv/Bethesda">Twitch.tv/Bethesda</a> on Thursday, September 14 at 3PM EDT. </p><p>During the show, Senior Community Manager Gina Bruno will be joined by Creative Director Rich Lambert and Lead Encounter Designer Mike Finnigan to dive deep into the new Endless Archive PvE activity and reveal some of the major changes arriving with the Update 40 base-game patch. This will be your first opportunity to see Endless Archive gameplay, so don't miss out!</p> 
-<p>Twitch Drops will be enabled for those watching, so be sure to <a href="https://help.elderscrollsonline.com/app/answers/detail/a_id/41809/">link your <i>ESO</i> and Twitch accounts</a> to be able to earn the new Tentacular Tome emote!</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/40e000679157a312a2e2d20eaa42b528.png" />
-<p>That's not all! Keep an eye on this blog closer to September 14 for details on additional livestreams and recap shows from members of the <i>ESO</i> global community team.</p> 
-<p>Be sure to join us on <a href="https://www.twitch.tv/Bethesda">Twitch.tv/Bethesda</a> Thursday, September 14 at 3PM EDT, to get a first look at what challenges and rewards await you within the Endless Archive—we'll see you there!</p>]]></content:encoded>
-            <category>News</category>
-            <category>Update 40</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/a79856cb8f5452e3ee64d1b355c60970.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dungeon Finder Known Issues]]></title>
