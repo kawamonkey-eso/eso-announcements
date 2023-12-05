@@ -4,10 +4,19 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 30 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 16:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Requesting Friends and Guild Holiday Photos!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/648287/requesting-friends-and-guild-holiday-photos</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/648287/requesting-friends-and-guild-holiday-photos</guid>
+            <pubDate>Mon, 04 Dec 2023 16:00:01 GMT</pubDate>
+            <content:encoded><![CDATA[Attention Adventurers of Tamriel! With the holiday season upon us, we know many of you will be gathering with friends and guildmates to celebrate as the year comes to a close. Whether it's hanging out for a guild holiday party, getting festive with Yuletide fashion contests, or spreading holiday cheer to new players in Tamriel, there are plenty of reasons to gather and be merry. We would love to highlight some of these group moments in our last community spotlight of the year. Simply take a screenshot of yourself with your group/ guild and leave a quick sentence or two captioning the photo letting us know how your guild is celebrating the season! We'll select several to highlight later in December.<br><br>
+We'll be accepting entries between now and Dec. 15th at 10am ET. ‘Tis the season for celebration in Tamriel!]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Crown Store Showcase—December 2023]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65065</link>
@@ -146,7 +155,7 @@
 <p><b>Stone Eagle Aerie</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/11/e9ec8231153a7311c0ed9409a56021d9.jpg" />
 <p><i>From its majestic position above the city of Markarth, the Stone Eagle Aerie features breathtaking views, several water features, and sturdy Dwarven stonework. Rumors claim a hidden exit provides easy access to the Markarth Outlaws Refuge.</i></p> 
-<p>The Stone Eagle Aerie returns to the Crown Store on all platforms for a limited time, from December 4 to December 21, 2023, at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
+<p>The Stone Eagle Aerie returns to the Crown Store on all platforms for a limited time, from December 7 to December 21, 2023, at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
 <p><b>Enchanted Snow Globe Home</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/11/930c1aee9fbe98f6ba3e711716b20177.jpg" />
 <p><i>Get small to go large: this miniature Snow Globe Home is tiny on the outside but expansive on the inside, proving shrunken real estate is a big bargain! And to make the interior cozier, the exterior features an eternally-festive gentle snowfall. Magical!</i></p> 
@@ -216,17 +225,6 @@
             <category>News</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/11/b1672459bfe07ca8c6f2544c4f04f551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Update: November 28 Maintenance & Daily Login Rewards]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/647966/update-november-28-maintenance-daily-login-rewards</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/647966/update-november-28-maintenance-daily-login-rewards</guid>
-            <pubDate>Wed, 29 Nov 2023 19:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone,<br><br>
-We want to thank you again for your patience during our extended maintenance that occurred yesterday, November 28. We understand this maintenance and the additional unplanned extension impacted the ability for some of you to claim the houseguest, Mizzik Thunderboots, offered through this month's Daily Login Rewards. With that said, if you have logged in for at least 19 days this month and are not able to claim the houseguest based on yesterday's maintenance, we'd like to invite you to contact our Customer Support team and they will assist in getting you the houseguest.<br><br>
-After logging into <a href="help.elderscrollsonline.com">help.elderscrollsonline.com</a>, please navigate to In-Game Support &gt; Platform Choice (PC/Xbox/PlayStation) &gt; I have an item issue &gt; Missing Item. In order to expedite your request, please also include a screenshot of your daily login calendar.<br><br>
-Thank you!]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Daily Login Rewards—December 2023]]></title>
