@@ -4,10 +4,26 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 11 Dec 2023 14:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[ESO Live: December 15 @2PM EST—Cooking December Delights with Matygon!]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65241</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65241</guid>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tune in this Friday as we celebrate the winter season with some tasty treats!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/f375d331bf824aef30c3d96791c3f49d.jpg" /><p><i>Tune in this Friday as we celebrate the winter season with some tasty treats!</i></p> 
+<p>Join us on <a href="https://www.twitch.tv/bethesda">Twitch.tv/Bethesda</a> this Friday, December 15 at 2PM EST, as Lead Community Manager Jessica Folsom and Senior Community Manager Gina Bruno are joined by special guest (and Stream Team member) <a href="https://www.twitch.tv/matygon">Matygon</a> to put on their chef hats and prepare some holiday delectables!</p> 
+<p>Follow along in what has become an annual tradition as the trio bake some scrumptious snacks from the comfort of their homes while reminiscing on all the exciting changes and updates to occur in <i>ESO</i> during this past year.</p> 
+<p>Twitch Drops will be enabled throughout the show (<a href="https://help.elderscrollsonline.com/#en/answer/41809" target="_blank">link your <i>ESO</i> and Twitch accounts here</a>), so be sure to tune in on <a href="https://www.twitch.tv/Bethesda">Twitch.tv/Bethesda</a> with your cookbooks ready this Friday, December 15 at 2PM EST. See you there!</p> 
+<p><i>ESO Live is your official Elder Scrolls Online stream, hosted on Twitch.tv/Bethesda by ESO's Community Team.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>ESO Live</category>
+            <category>Community</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/f375d331bf824aef30c3d96791c3f49d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“Endless Archive” Name Change to “Infinite Archive”]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/648632/endless-archive-name-change-to-infinite-archive</link>
@@ -1158,38 +1174,6 @@ We appreciate everyone's understanding and patience while we get this solution u
             <category>Update 40</category>
             <category>Infinite Archive</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/09/c8b8140f7b9eb2781b4630adc616a1ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Update 39 Base-Game Patch Now Live on All Platforms]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/64551</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/64551</guid>
-            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover the host of additions and improvements arriving with the free Update 39 base-game patch.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/2e966846125f5b8145838f4247202990.jpg" /><p><i>Discover the host of additions and improvements arriving with the free Update 39 base-game patch. </i></p> <p>The Update 39 base-game patch is now live PC/Mac, Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5, and introduces a series of long-awaited improvements and additions to <i>The Elder Scrolls Online</i>, completely free of charge for all existing <i>ESO</i> players.<br></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/2aae9b31906a3c66e2128b4d1cf5b7d1.jpg" />
-<p style="text-align: center;"><i>Update 39 Base Game Improvements</i></p> 
-<p>As a base-game patch, Update 39 includes a wide array of bug fixes, but also features a series of long-awaited improvements to your in-game experience. </p> 
-<p><b>Quest &amp; Content Improvements for New Players</b></p> 
-<p>If you're a new player feeling overwhelmed when first entering Tamriel, you can enjoy a series of changes that <b>reduce the volume and frequency of quests </b>offered to your low-level characters. This includes quests from NPCs for the main story, Fighters Guild, Mages Guild, Battlegrounds, Undaunted, and others. Instead, these quests are now delivered more gradually as you level up, helping your journal stay in a manageable state for longer!</p> 
-<p>Tamriel's navigator NPCs that can transport your characters between destinations have also received some improvements with this update. Now, these navigators <b>indicate whether they can transport you to a location for one of your tracked quests</b> (active or inactive.) When exploring, you now see the “door” pin above relevant navigator NPCs, indicating that they can help you in your journey. In addition, appropriate dialog lines with those same NPCs have similar pins, ensuring you make the right choice and go where you need to go—happy travels! </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/71d1ea150e994d1d9a33e1959bbe5942.jpg" />
-<p style="text-align: center;"><i>Taking your first steps into Tamriel is daunting</i></p> 
-<p><b>Inventory Management Improvements</b></p> 
-<p>If you're struggling with an overburdened Inventory, Update 39 also includes changes to key item types to help improve management and reduce clutter. Some (but not all) similar Crown Store items that came from separate sources (such as Tri-Restoration Potions) can now all be <b>stacked together using the “Stack All Items” option</b>. Also, this patch adds <b>better communication regarding which items in your Inventory can or cannot be sold</b>, helping you identify and clear out unwanted items and make a little gold in the process!</p> 
-<p><b>PvP Additions &amp; New Rewards </b></p> 
-<p>This update adds new rewards for Tamriel's PvP victors in the form of <b>three new monster mask sets</b>: Jerall Mountains Warchief, Nibenay Bay Battlereeve, and Colovian Highlands General. Each grants unique and powerful boons, and you can trade Alliance Points for these new masks with Cyrodiil Elite Gear Vendors within the Eastern Elsweyr Gate, Southern High Rock Gate, and Northern Morrowind Gate. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/07/02adb5389ad204fbd8e6c9ce6240f7d4.png" />
-<p style="text-align: center;"><i>Chase down new PvP rewards</i></p> 
-<p>In addition, you can now claim <b>new Unfeathered Battle Body and Face Markings</b> from Gladiator's Rucksacks (earned by completing Cyrodiil Conquest Mission Board daily quests), and the Imperial City's hapless <b>Treasure Scamps now</b> <b>drop even better loot </b>when hunted down. In particular, Cunning Scamps drop more Tel Var Stones and Trove Scamps drop tradable pieces of Imperial City gear sets. </p> 
-<p>Finally, while battling in Cyrodiil, the Imperial City, and Battlegrounds, you can now see <b>new death notifications</b> that help you plan your next move (or avoid that incoming zerg!).</p> 
-<p><b>Home Editor Improvements</b></p> 
-<p>With Update 39, this patch gives you the ability to <b>place a furnishing directly from your Inventory or Collectibles UI </b>while in your home. You can now find a “Place” option when viewing the specific furnishings. In addition, you can <b>preview Crown Store furnishings</b> in your home before you buy, helping you determine how a new item might look when placed. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/1c12c700d99b7f15c2d3bffeba283673.jpg" />
-<p style="text-align: center;"><i>Place furnishings from Inventory and Collectibles</i></p> 
-<p>Of course, these are just some of the changes and additions that arrive with Update 39. To see a complete list of everything this new base-game patch introduces to <i>ESO</i>, visit our <a href="https://forums.elderscrollsonline.com/en/discussion/641025/pc-mac-patch-notes-v9-1-5-update-39" target="_blank">Patch Notes forum</a>.</p><br><h2>Getting Started in Update 39</h2><p>As a base-game update, your version of <i>ESO</i> automatically updates on PC/Mac via the <i>ESO </i>Launcher. Note that to run <i>ESO</i> on PC/Mac, your machine needs to meet the game's requirements here: <a href="https://www.elderscrollsonline.com/en-us/newplayerguide/minspec">PC</a>, <a href="https://www.elderscrollsonline.com/en-us/newplayerguide/minspec">Mac</a>. Don't forget, Update 39 arrives on consoles September 5.</p><p>As mentioned above, this is a free base-game update for all <i>ESO</i> players. Anybody with access to the game can download and enjoy these new additions and changes. There is no previous purchase required (aside from the game itself).</p><h2>Tamriel Evolves</h2><p>With the free Update 39 base-game patch, you can enjoy the above improvements and more to help you get the most out of your time in Tamriel. Which of the above changes and additions are you most excited to experience? Let us know via <a href="https://twitter.com/TESOnline">Twitter</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, or <a href="https://www.facebook.com/ElderScrollsOnline">Facebook</a>.</p><p><i>The Update 39 base-game patch is now live PC/Mac, Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5.</i> </p>]]></content:encoded>
-            <category>News</category>
-            <category>Update 39</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/08/2e966846125f5b8145838f4247202990.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Patcher Rollout]]></title>
