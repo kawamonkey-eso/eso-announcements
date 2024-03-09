@@ -4,10 +4,27 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 06 Mar 2024 15:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 13:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[March Daily Login Reward Follow-Up]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/653864/march-daily-login-reward-follow-up</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/653864/march-daily-login-reward-follow-up</guid>
+            <pubDate>Fri, 08 Mar 2024 13:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[Hi Everyone, now that we have resolved the Orsinium Daily Login Reward issue from this past weekend, we want to provide a mini-retrospective on what happened. Additionally, we have follow-up information for players who are locked out of Day 30 and Day 31 rewards.<br><br>
+One of our goals here at ZOS is to continuously develop and launch new experiences for players. To do this without adding additional patches and downtime, we prepared a no-downtime hotfix that added the Orsinium DLC to the March Daily Login Rewards as well as additional support for the <a href="https://www.elderscrollsonline.com/en-us/news/post/65645">Orsinium Achievement Challenge</a>. ESO hotfixes are designed to be deployed without requiring a game realm restart, but in this case, the hotfix did not correctly update to existing game instances. It did apply correctly to newly created instances, which is why some players succeeded in claiming the reward while others did not.<br><br>
+We will be reviewing the hotfix process and method for delivering any similar future rewards via hotfix. (And a big thank you to our Live and Engineering teams who worked all weekend to debug the issue and unblock the Orsinium DLC claim for everyone.)<br><br>
+We hope this provides some clarity around the issues from this weekend -- and now let's talk about the locked-out Daily Login Rewards.<br><br>
+In addition to the above, we are aware that players who attempted to claim Daily Login Rewards during the beginning of the month are locked out of the Day 30 and 31 rewards, despite successfully claiming the Orisinium DLC. To make this right, players who logged in to ESO on February 29, March 1, or March 2 will be given the day 30 and day 31 rewards, 3000 Tel Var Stones and 5000 Gold.
+<ul><li>PC players will be granted these currencies during the Update 41 maintenance on <b>March 11.</b></li>
+<li>Console players will be granted these currencies during the realm reboots on <b>March 20.</b></li>
+</ul>
+This allows us to avoid additional downtime for these grants as well. Players will receive their currencies upon logging into ESO after maintenance.<br><br>
+Thanks to everyone for your patience and proactive reporting as we worked to address the Daily Login Rewards issue this past weekend. We hope you enjoy the rest of March's Orsinium activities!]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Update on Cyrodiil Repair Kits]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/653774/update-on-cyrodiil-repair-kits</link>
@@ -47,22 +64,6 @@ Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/po
             <category>10th Anniversary</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/698350b1f8f6b47d7aa8453f1a1347ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Issues with Daily Login Reward Day 2 For Orsinium DLC]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/653491/issues-with-daily-login-reward-day-2-for-orsinium-dlc</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/653491/issues-with-daily-login-reward-day-2-for-orsinium-dlc</guid>
-            <pubDate>Sat, 02 Mar 2024 05:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[Hi all, we have seen several reports on players on PC EU, PS EU, and XB EU of issues claiming the day two daily login rewards. We are aware of the issue and gathering information at this current time. We'll follow up once we have more information. Please note that it is the middle of the night currently, so we likely will not have additional updates tonight.<br><br>
-For those currently impacted, if you could note the following, it would help with providing our teams with added information.<br>
-Please note the following:
-<ul><li>What platform and megaserver are you playing on?</li>
-<li>If you claimed day one rewards?</li>
-<li>Do you own Orsinium already?</li>
-<li>Any additional updates?</li>
-</ul><br>
-For those on PC NA, PS NA, and XB NA, if you come across this issue once day two reset happens, please make note of that in this thread as well. Appreciate everyone's assistance as we gather information and work this out.]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Crown Store Showcase—March 2024]]></title>
@@ -627,7 +628,7 @@ For those on PC NA, PS NA, and XB NA, if you come across this issue once day two
             <title><![CDATA[Scions of Ithelia & Update 41 Now Available on the Public Test Server!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65487</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/65487</guid>
-            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/bcb714c613f899b39f711b44cf5f5988.jpg" /><p><i>Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server! </i></p> 
 <p>The Public Test Server (PTS) has been updated to include both the upcoming <i>Scions of Ithelia</i> dungeon DLC and Update 41 base-game patch and can be accessed via the PC/Mac <i>ESO</i> launcher. If you'd like to help us test <i>Scions of Ithelia</i>'s two challenging new dungeons or any of the changes, fixes, and improvements coming with Update 41, now is your chance! </p> 
