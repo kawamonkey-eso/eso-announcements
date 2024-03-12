@@ -4,10 +4,114 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 08 Mar 2024 13:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 21:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[PC/Mac Update 41 Known Issues]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues</guid>
+            <pubDate>Mon, 11 Mar 2024 21:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone,<br><br>
+In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><b>Achievement progress appears to be reset</b>
+<ul><li>STATUS: Working on a fix</li>
+<li>Note that achievement progress is not <i>actually</i> being lost and this is just a display issue. You are free to continue earning progress toward achievements without fear of your progress being lost.</li>
+</ul></li>
+<li><b>Outfit slots are being reset</b>
+<ul><li>STATUS: Investigating</li>
+<li>While we are investigating this issue, please refrain from rezoning (including accepting a queue) while your character is dead</li>
+</ul></li>
+<li><b>Cannot set online/offline status</b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+<li>WORKAROUND: You can swap to Gamepad Mode to set your online/offline status, or click a few pixels below the dropdown arrow to access the menu</li>
+</ul></li>
+<li><b>UI fonts are difficult to read</b>
+<ul><li>STATUS: Investigating</li>
+<li>While we did make changes to the UI font rendering in Update 41, we are tracking situations where the UI is too difficult to read and improvements can be made</li>
+<li>POTENTIAL WORKAROUNDS:
+<ul><li>Please ensure addons are either disabled or updated</li>
+<li>Update your resolution if you can do so</li>
+<li>Increase your Chat Window Font Size (Settings&gt;Social&gt;Chat Settings&gt;Text Size) or Interface Scale (Settings&gt;Video&gt;Interface&gt;Use Custom Scale)</li>
+</ul></li>
+</ul></li>
+<li><b>Old Rewards for the Worthy granting two item sets</b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+<li>You are free to open any Rewards of the Worthy containers – those earned before we launched Update 41 or current – and claim the items without any worry of being actioned</li>
+</ul></li>
+<li><b>Game is locking up or freezing after logging in</b>
+<ul><li>STATUS: Investigating</li>
+</ul></li>
+<li><b>Not all siege weaponry is stacking together</b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+<li><b>Missing Mystery Coffer from Urgarlag, Imperial City &amp; Shadows of the Hist coffers</b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+<li><b>Gamepad Mode causing framerate drops</b>
+<ul><li>STATUS: Resolved</li>
+<li>Disable any 3rd party controller support applications. In U41 we added PS4 controller support for PC. Using a controller with a 3rd party controller support application causes double input, which causes framerate issue.</li>
+</ul></li>
+<li><b>Grave Lord's Sacrifice is not currently buffing Animate Blastbones </b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+</ul>]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Scions of Ithelia & Update 41 Now Live on PC/Mac]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65641</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65641</guid>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" /><p><i>Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch. </i></p> <p>The <i>Scions of Ithelia</i> dungeon DLC game pack and free Update 41 base-game patch are now live on PC/Mac. If you play on Xbox or PlayStation, don't worry, the dungeon DLC arrives with the free update on consoles March 26. </p> <p>Venture into two new dungeons, Oathsworn Pit and Bedlam Veil, and prepare for the adventures to come in the upcoming <i>Gold Road</i> Chapter. </p>
+<a href="https://youtube.com/v/6V3SSlcry0Q?autoplay=1&rel=0"><img src="https://i.ytimg.com/vi/6V3SSlcry0Q/maxresdefault.jpg" /></a>
+<p>You can gain access to <i>Scions of Ithelia</i> via <a href="https://www.elderscrollsonline.com/en-us/esoplus">ESO Plus™ membership</a> or purchase it with crowns from the in-game <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store</a>.</p> 
+<p>This launch also features the Update 41 base-game patch, providing all <i>ESO</i> players with a series of free additions and improvements to the game. Check out the patch notes for both <i>Scions of Ithelia </i>and Update 41 on <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">our official forums</a>.</p> 
+<h2>Scions of Ithelia DLC Game Pack</h2> 
+<p>Discover new stories and challenges awaiting you and your strongest allies in two all-new PvE dungeons: <b>Oathsworn Pit</b> and <b>Bedlam Veil</b>. Earn unique rewards as you and your party battle your way through these two perilous adventures and uncover the malevolent forces at work in the upcoming <i>Gold Road</i> Chapter. </p> 
+<p><b>Oathsworn Pit</b></p> 
+<p>A training ground for Malacath's most-devoted followers has been invaded, and the God of Curses calls upon you to enact his revenge! Who are the Wood Elf invaders, and what are their plans for the Oathsworn survivors? You and your team must help the Orc Bazrag reclaim the pit's lodges and free its captives before all are lost.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/b819ce9921c2c2be684c7137e4c02c05.jpg" />
+<p style="text-align: center;"><i>Fight on behalf of Malacath</i></p> 
+<p>Find out more concerning the Oathsworn Pit in <a href="https://www.elderscrollsonline.com/en-us/news/post/65563">this preview blog</a>.</p> 
+<p><b>Bedlam Veil</b> </p> 
+<p>Located with Fa-Nuit-Hen's demiplane of Maelstrom, the Bedlam Veil is a storehouse, of sorts, for all manner of weapons, artifacts, and monsters. Now, a mysterious cult has begun looting the Demiprince's realm, and the “Multiplier of Motions Known” needs your help defending their hold and preventing the raiders from claiming a mysterious prize at its heart. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/462275728e42e9f5d29114261ac76f98.jpg" />
+<p style="text-align: center;"><i>Confront mirrored monstrosities</i></p> 
+<p>You can discover more about this dungeon in <a href="https://www.elderscrollsonline.com/en-us/news/post/65659">our recent preview</a>.</p> 
+<p><b>New Challenges and Rewards</b></p> 
+<p>You can attempt the Oathsworn Pit and Bedlam Veil dungeons in normal, veteran, and hard mode difficulties. In addition, each hosts its own rewards and Achievements, including six new item sets, two monster sets, and unique collectibles.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/f834d82b2a1c41f853e4d209d849b18e.jpg" />
+<p style="text-align: center;"><i>Scions of Ithelia dungeon rewards</i></p> 
+<h2>Getting Started</h2> 
+<p>You can access the <i>Scions of Ithelia</i> DLC via ESO Plus membership or by purchasing it from the Crown Store for 1,500 crowns (listed under DLC). If your ESO Plus membership lapses, you will lose access to the DLC until you renew your membership or purchase it with crowns. However, you will not lose any items, Achievements, or other rewards earned prior. </p> 
+<p>The <i>Scions of Ithelia </i>Deluxe Bundle is also available for 4,000 crowns and includes access to the DLC game pack, Ashbone Sabre Cat mount, Ashbone Echalette pet, and five Crown Experience Scrolls. You can purchase the Deluxe Bundle from the Featured section of the in-game Crown Store. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/dcf04ee0cbc67f136922edb9f4c415ee.jpg" />
+<p style="text-align: center;"><i>Scions of Ithelia Deluxe Bundle</i></p> 
+<p>Note that ALL ESO Plus members can claim the <i>Scions of Ithelia</i> Deluxe Bundle for <b>free during a two-week window </b>starting on each specific platform's launch (March 11 for PC/Mac and March 26 for Xbox and PlayStation consoles)—don't forget to claim it from the Crown Store while it's available!</p> 
+<p>Once you have access to the <i>Scions of Ithelia</i> dungeons, you can start both PvE challenges by the following methods: </p> 
+<ul><li>By teleporting directly into the two dungeons from your map</li><li>By using the Dungeon Finder tool</li><li>By walking up to the dungeon entrances within the Reach (Oathsworn Pit) and Wrothgar (Bedlam Veil) </li></ul> 
+<h2>Update 41 Base-Game Patch</h2> 
+<p>Launching at the same time as the <i>Scions of Ithelia</i> DLC, the Update 41 base-game patch is completely free for all current <i>ESO</i> players and includes a series of fixes, additions, and improvements to the game's core experience. </p> 
+<p><b>Stackable Siege Weaponry</b></p> 
+<p>Helping you lighten the inventory load in Cyrodiil with Update 41 is the addition of stackable siege weaponry. With this update, you can stack up to 20 similar siege weapons if they are at maximum health. When you have siege weapons in your quickslots, it will always use the weapon with the lowest health in your inventory. </p> 
+<p><b>New Rewards</b></p> 
+<p>This update also introduces some new Rewards for the Worthy PvP item set rewards. This includes the Oakfather's Retribution light armor set, the Blunted Blades medium armor set, and the Baan Dar's Blessing heavy armor set. These new item sets are sure to help you on Tamriel's myriad battlefields, so keep an eye out for them next time you open your Rewards for the Worthy boxes. </p> 
+<p>Additionally, the Unkindness of Ravens body and face marking is now available by acquiring and using the Runebound Tome: Unkindness of Ravens. You can acquire this tome for 100,000 Tel Var Stones, and it requires 50 Siege of Cyrodiil Merits to use. </p> 
+<p>In tandem with the new PvP sets is an all-new Mythic item you can acquire via the Antiquities system. The Torc of the Last Ayleid King necklace disables all other item set bonuses while increasing your Weapon and Spell Damage, boosting your Health, Magicka, and Stamina Recovery, and reducing your total damage taken by 15%.</p> 
+<p>This update also introduces style pages for the various Class Sets found in the Infinite Archive. Now, style pages for your specific class will drop within the archive, with other style pages also dropping once you've earned every page for your specific class. </p> 
+<p><b>Update to ESO's PC/Mac Min Spec</b></p> 
+<p>Finally, Update 41 also features an update to the game's min spec for PC and Mac. This change ensures a continued level of performance for older systems that can be maintained in newer content as well. Specifically, with Update 41, <i>ESO</i> no longer officially supports the Windows 7 operating system for future compatibility. You will still be able to play on Windows 7 machines but note that there's no guarantee that this will continue to be the case moving forward. </p> 
+<p>These Update 41 features and changes outlined above are just some of the highlights included in this base-game patch. You can see the full list of everything included in Update 41 by visiting our <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes forum</a>. As a base-game patch, Update 41 is free for all current <i>ESO </i>players—enjoy! </p> 
+<h2>Answer the Call to Arms</h2> 
+<p>Defend the demiplane of Maelstrom and enact revenge on behalf of the God of Curses in <i>Scions of Ithelia</i>, an all-new dungeon DLC pack for <i>ESO</i>'s PvE adventurers. Are you ready to delve into the Oathsworn Pit and Bedlam Veil? Are you excited for all the new rewards coming soon with Update 41? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
+<p><i>The Scions of Ithelia dungeon DLC pack and Update 41 is now live on PC/Mac, and will arrive March 26 for Xbox and PlayStation consoles.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Scions of Ithelia</category>
+            <category>Update 41</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[March Daily Login Reward Follow-Up]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/653864/march-daily-login-reward-follow-up</link>
@@ -628,7 +732,7 @@ Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/po
             <title><![CDATA[Scions of Ithelia & Update 41 Now Available on the Public Test Server!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65487</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/65487</guid>
-            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/bcb714c613f899b39f711b44cf5f5988.jpg" /><p><i>Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server! </i></p> 
 <p>The Public Test Server (PTS) has been updated to include both the upcoming <i>Scions of Ithelia</i> dungeon DLC and Update 41 base-game patch and can be accessed via the PC/Mac <i>ESO</i> launcher. If you'd like to help us test <i>Scions of Ithelia</i>'s two challenging new dungeons or any of the changes, fixes, and improvements coming with Update 41, now is your chance! </p> 
@@ -1002,232 +1106,6 @@ Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/po
 <p>Are you planning to join us for the big show? Let us know what you hope to see via <a href="https://twitter.com/TESOnline">X (Formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>—we'll see you there! </p>]]></content:encoded>
             <category>News</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/d084308b40c26d652d88fc3b29ecc89a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crown Store Showcase—January 2024]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65239</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65239</guid>
-            <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Start the new year off right by picking up something fun from the Crown Store this January.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/bbb9ed722d46779590b96775eb876a4b.jpg" /><p><i>Start the new year off right by picking up something fun from the Crown Store this January.</i></p> 
-<p>Check out the complete list of contents of items coming to the Crown Store in January 2024 below. Don't forget, you can head over to the <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store page</a> right now to view all offers currently available and visit the <a href="https://www.elderscrollsonline.com/en-us/buycrowns">Buy Crowns page</a> to pick up however many crowns you need. Certain items and offers will only be available for a limited time, so be sure to read their details below and don't miss out.</p><p><br></p><p> </p> 
-<h2>ESO Plus Deals</h2> 
-<p>All ESO Plus™ members have access to a monthly selection of exclusive deals and items. You can find more information about them in <a href="https://www.elderscrollsonline.com/en-us/news/post/54825">this article</a>.</p> 
-<p><b>Exclusive Free Items</b></p> 
-<p><b>Statuette: Dwemer Guardian</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/0b319ae6a33e1a39a8a74d15c4b385b7.jpg" />
-<p><i>A miniature statue of a sentinel found outside many Dwarven ruins in Morrowind.</i></p> 
-<p>The Statuette: Dwemer Guardian will be available in the Crown Store FREE exclusively to ESO Plus Members on all platforms for a limited time, from January 4 to February 15, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<h2>Adornments</h2> 
-<p><b>Hair</b></p> 
-<p><b>The Heroic Poet</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/609b0582b3d7203350d1ed0477c276e0.jpg" />
-<p><i>Oh, you romantic devil, tossing off quatrains and epigrams as you charge into battle to defend the underdog! You know who you are, and this is your hair.</i></p> 
-<p>The Heroic Poet hairstyle will be available in the Crown Store on all platforms for a limited time, from January 8 to January 11, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Hat</b></p> 
-<p><b>Deep Elf Executioner's Hood</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/bd502df3f0d2e4c6a71ae06086977db1.jpg" />
-<p><i>Ancient engravings tell us that a Dwarven executioner, or "Chun Abakch," always concealed his or her features under a hood of black spidersilk, a material that was also used by the Dwemer for funeral shrouds.</i></p> 
-<p>The Deep Elf Executioner's Hood Hat returns to the Crown Store on all platforms for a limited time, from January 8 to January 11, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>Tattoos</b></p> 
-<p><b>Meridian Sunburst Face Tattoos</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/3867adadae17a40d474d09abc7132ad1.jpg" />
-<p><i>Celebrate the brightest light of all the Lady's Infinite Energies with these glowing Meridian Sunburst Tattoos.</i></p> 
-<p>The Meridian Sunburst Face Tattoos will be available in the Crown Store on all platforms for a limited time, from January 11 to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Meridian Sunburst Body Tattoos</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/df97c18c01dd8db1f539100511aab0fc.jpg" />
-<p><i>Celebrate the brightest light of all the Lady's Infinite Energies with these glowing Meridian Sunburst Tattoos.</i></p> 
-<p>The Meridian Sunburst Body Tattoos will be available in the Crown Store on all platforms for a limited time, from January 11, 2024, to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<h2>Skins</h2> 
-<p><b>Opalescent Epidermis</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/1db81520828c7951a22e935c945bad54.jpg" />
-<p><i>Shimmer with a variety of hues, taking on the colors of the famed opals of Yokuda, with this skin. Perfect for star-strewn celebrations in Sentinel and beyond.</i></p> 
-<p>The Opalescent Epidermis skin will be available in the Crown Store on all platforms starting January 16 to January 22, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<h2>Wardrobe</h2> 
-<p><b>Costumes</b></p> 
-<p><b>Toxin Doctor</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/c6d43493ef3174f06fc87b818afd56d0.jpg" />
-<p><i>When you specialize in venoms and poison-making, you invest in special protective garb to keep from being poisoned by your own experiments—or else! And if your clients are just a little intimidated by your creepy attire, all the better.</i></p> 
-<p>The Toxin Doctor costume will be available in the Crown Store on all platforms for a limited time, from January 2 to January 8, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Auroran Knight</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/1f5691259d8f9e8ac659d06b87c488ea.jpg" />
-<p><i>Aurorans are idealized humanoid Daedra mainly in the service of Meridia, the Lady of Infinite Energies. Their armor usually appears golden in tone, but since they come from the Colored Rooms, they could be of any hue.</i></p> 
-<p>The Auroran Knight costume will be available in the Crown Store on all platforms for a limited time, from January 11 to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Gem Prospector</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/d5ed10b6b128b348365cacf114b6d488.jpg" />
-<p><i>If you love chipping away at rock until you reveal raw gemstone, garb yourself appropriately. Crafted from sturdy materials, this costume features pockets, pouches, and gear that allow you to better find and remove natural riches.</i></p> 
-<p>The Gem Prospector costume paired with the Gemcutter's Spectacles adornment will be available in the Crown Store on all platforms for a limited time, from January 16 to January 22, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Imperial Officer Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/1dc828487e8564137b7bba70ff5845e8.jpg" />
-<p><i>This pack includes costumes of three different armor sets as worn by Tribunes and Centurions of the Imperial Legions. Hail the Red Diamond!</i></p> 
-<p>The Imperial Officer Pack will be available in the Crown Store on all platforms for a limited time, from January 22 to January 25, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Orc Wise Woman's Vestment</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/d73f8faf7e13c652df4181dd44cdcd8b.jpg" />
-<p><i>"As the Wise Woman of your clan, or the Hunt-Wife on ceremonial days, you must project both grace and authority," says designer Borzighu the Tidy. "Count on my gilt-broidered vestment to provide that, and more!"</i></p> 
-<p>The Orc Wise Woman's Vestment costume will be available in the Crown Store on all platforms for a limited time, from January 25 to January 29, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Soul-Shriven Costume Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/4b4b8445193cc4c20fdb9236b0750c45.jpg" />
-<p><i>When the Soul-Shriven arrive in Coldharbour, they are garbed in cast-off armor taken from the dead. This pack includes costumes in various states of raggedness.</i></p> 
-<p>The Soul-Shriven Costume Pack will be available in the Crown Store on all platforms for a limited time, from January 29 to February 1, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<h2>Crafting</h2> 
-<p><b>Motifs</b></p> 
-<p><b>Crown Crafting Motif: Dreadhorn Style</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/f972fbe586c37a3f5b2ef04a4aba9ef3.jpg" />
-<p><i>Gherig Bullblood proclaims, “Wayward sons and daughters, embrace Domihaus and set to work to outfit our reborn clan—as the Dreadhorn!" Use of this motif enables crafting in the Dreadhorn style.</i></p> 
-<p>The Crown Crafting Motifs: Dreadhorn returns to the Crown Store on all platforms starting January 2 to January 8, 2024, at 10AM EST. Dreadhorn Motif chapters, and very rarely the complete book, have a chance to drop from Domihaus the Bloody-Horned in Falkreath Hold.</p><p><br></p> 
-<p><b>Crown Crafting Motif: Silver Dawn</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/77c5fa680136cb0f76cc4fef306ec12e.jpg" />
-<p><i>Hunt for heinous were-creatures with pride wearing and wielding the traditional arms and armor of the Order of the Silver Dawn! By the gleam of silver shall we slay! Use to learn the Silver Dawn crafting style.</i></p> 
-<p>The Crown Crafting Motif: Silver Dawn returns to the Crown Store on all platforms starting January 16 to January 22, 2024, at 10AM EST. Silver Dawn Motif chapters, and very rarely the complete book, have a chance to drop from Vykosa the Ascendant in Moon Hunter Keep.</p><p><br></p> 
-<p><b>Crown Crafting Motif: New Moon Priest</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/c6420d35ef8ce18917427bee398665fa.jpg" />
-<p><i>The Arcane Quartermaster of Order of the New Moon states, "Some believe that the order grows too quickly. This one says we should embrace newcomers and provide appropriate priestly garments! Fadai gladly offers guidance on crafting vestments and how best to incorporate aeonstones into them." Use to learn the New Moon Priest crafting style. Also acquired from the Dragonguard Supply Chest in the Dragonguard Santum.</i></p> 
-<p>The Crown Crafting Motif: New Moon Priest will be available in the Crown Store on all platforms starting January 25 to January 29, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item. New Moon Priest Motif chapters can be acquired from the Dragonguard Supply Chest in the Dragonguard Sanctum.</p><p><br></p> 
-<p><b>Outfit Styles</b></p> 
-<p><b>Elder Scrolls Artifact: Rueful Axe</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/539699f448344ec0ea5da162b69eb074.jpg" />
-<p><i>Alter your two-handed axe's Outfit style with a replica of the Rueful Axe Elder Scrolls Artifact, a weapon created by the Daedric Prince Clavicus Vile.</i></p> 
-<p>The Elder Scrolls Artifact: Rueful Axe will be available in the Crown Store on all platforms starting January 2 to January 11, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p><p> </p> 
-<p><b>Gloambound Arms Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/98e0006a0de4769a8e248832aadb075d.jpg" />
-<p><i>Need a weapon in a hurry? Let the Evergloam provide! Alter your weapon's appearance to match the Gloambound Weapons by using this complete set of Outfit styles. Stowing these weapons will hide them when equipped.</i></p> 
-<p>The Gloambound Arms Pack will be available in the Crown Store on all platforms starting January 4 to January 11, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p><p> </p> 
-<p><b>Lord Warden Arms Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/f3e0a07a6a0d3b53fc67121ce09557d5.jpg" />
-<p><i>Urgarlag Chief-bane notes to Undaunted pledgers, "The Lord Warden obsessively keeps record of every indignity he's inflicted. Wipe the record clean before you turn the tables on him." Alter your weapon's appearance to match the Undaunted Lord Warden awards by using this complete set of Outfit styles.</i></p> 
-<p>The Lord Warden Arms Pack will be available in the Crown Store on all platforms starting January 16 to January 22, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item. The matching mask page will have a small chance to drop from Lord Warden Dusk from Veteran Imperial City Prison. The matching shoulder page can be purchased from Urgarlag Chief-bane for 50 Undaunted keys, or has a chance of dropping from Urgarlag's Mystery Coffer for 1 key. Having the achievement “Lord Warden's Retaliation” increases the drop chances of both items.</p><p><br></p> 
-<p><b>Elder Scrolls Artifact: Dawnbreaker</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/6e38496cd868af4df734add8c7d98590.jpg" />
-<p><i>Alter your one-handed weapon's Outfit style with a replica of the Dawnbreaker Elder Scrolls Artifact, a weapon forged by the Daedric Prince Meridia. </i></p> 
-<p>The Elder Scrolls Artifact: Dawnbreaker will be available in the Crown Store on all platforms starting January 11 to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p><p> </p> 
-<p><b>Bristleback Hunter Arms Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/85a6b61806b4be5dfb5e041d371de324.jpg" />
-<p><i>Keama of Markarth says, “When I see someone wearing this gear swagger into the Hunter's Repose, I know we'll have a full night of near-death stories. Bristlebacks take skill and luck to kill.” Alter your weapon's appearance by using this complete set of Bristleback Hunter Outfit styles.</i></p> 
-<p>The new Bristleback Hunter Arms Pack will be available in the Crown Store on all platforms during the Guilds and Glory Celebration event. Matching armor pages will have a small chance to drop from Event Reward Boxes. Bound versions of the armor pages can be purchased from the Impresario for 5 Event Tickets each during the event.</p><p><br></p> 
-<h2>Crate</h2> 
-<p><b>Psijic Vault Crate </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/6da3926890653f7ebbefd9ec9b6bee11.jpg" />
-<p><i>A mystery collection of Psijic Order-related items! </i></p> 
-<p>Psijic Vault Crates return to the Crown Store on all platforms for a limited time, from January 18 to February 1, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<h2>Events </h2> 
-<p><b>Currency</b></p> 
-<p><b>Event Tickets</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/09/74f679e610302be57199309573dd3a29.jpg" />
-<p><i>A ticket used to purchase rare goods from The Impresario, Event Merchant. Curious as to what goods? Well, chat with her to see what she has to offer!</i></p> 
-<p>Single Event Tickets will be available in the Crown Store on all platforms for a limited time during the Guilds and Glory Celebration in-game event. Stay tuned for event details!</p><p><br></p><p> </p> 
-<h2>Bundles</h2> 
-<p><b>Highland Spotted Lynx Bundle</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/42442f097d78510b29f85f3e0e5b110f.jpg" />
-<p><i>From curious cub to lithe mount, the spotted lynxes found in the Colovian highlands help keep the area free of vermin and often serve as mounts to worthy souls. This feline bundle allows you to add these two furry friends to your adventures.</i></p> 
-<p>The new Highland Spotted Lynx Bundle will be available in the Crown Store on all platforms for a limited time, from January 22 to January 29, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<h2>Furniture </h2> 
-<p><b>Statue, Ancestor-King Auri-El</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/cecc6036940fc62449f7f4011321fa18.jpg" />
-<p><i>Ayleid artist-enchanters captured the might of the king of the Aldmer and his avian companion in this commanding statue! Light up this focal piece with the eagle's golden glow, Auri-El's lambent eyes, scintillating sunbeams, or a combination of these.</i></p> 
-<p>The Statue, Ancestor-King Auri-El will be available in the Crown Store on all platforms for a limited time, from January 4 to January 11, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Island Assortment Household Pack</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/35990c61d7b080072e9db4b2ac493d4e.jpg" />
-<p><i>A selection of household necessities drawn from cultures across southern Tamriel, ideal for the Grand Topal Hideaway.</i></p> 
-<p>The Island Assortment Household Pack returns to the Crown Store on all platforms for a limited time, from January 4 to January 11, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>Meridia, Lady of Infinite Energies</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/556e305df00cb09d4547ebecc34fe8b9.jpg" />
-<p><i>"[…] above all others they did venerate the Lady of Light, building for Merid-Nunda a chapel of colored rays and beams, which was for glory like a piece of Aetherius brought down to the mortal world […]"—The Whithering of Delodiil (Author Unknown)</i></p> 
-<p>The Meridia, Lady of Infinite Energies statue will be available in the Crown Store on all platforms for a limited time, from January 11, 2024, to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Music Box, Dawnbreaker's Forging</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/563b5889bd6efcad0278dc76eabebb31.jpg" />
-<p><i>When activated, plays a music box arrangement of the exultant "Dawnbreaker's Forging" composition. </i></p> 
-<p>The new Music Box, Dawnbreaker's Forging will be available in the Crown Store on all platforms for a limited time, from January 11 to January 18, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>Furnishing Pack: Malacath's Chosen </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2022/08/82f7d87a4b590e8b9947815d4b4125a5.jpg" />
-<p><i>Honor Malacath and his Orc-children with these furnishings from the ancient mountain strongholds of Wrothgar. </i></p> 
-<p>The Furnishing Pack: Malacath's Chosen will be available in the Crown Store on all platforms for a limited time, from January 18 to January 25, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Furnishing Pack: Hubalajad's Final Treasure</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/2249c8b4880594736df63dc25727982f.jpg" />
-<p><i>No Prince of the Ra Gada would be caught dead without the appropriate (and extravagant) funerary offerings for his tomb. Not to mention the requisite Mournful Aegis to welcome any unexpected guests!</i></p> 
-<p>The Furnishing Pack: Hubalajad's Final Treasure returns to the Crown Store on all platforms for a limited time, from January 25 to February 1, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<h2>Houses</h2> 
-<p><b>Colossal Aldmeri Grotto </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/4b463e5e6e147c67b73335bfa54f5171.jpg" />
-<p><i>Once a watering stop for the High Elf navy, this great cavernous grotto on the Summerset coast west of Dusk features shipboard compartments, magnificent Aldmeri ruins, weathered wood from several shipwrecks, and a sparkling subterranean waterfall.</i></p> 
-<p>The Colossal Aldmeri Grotto returns to the Crown Store on all platforms for a limited time, from January 4 to January 18, 2024, at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
-<p><b>Pariah's Pinnacle </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/29eea0827e86071816cd875c0eb607eb.jpg" />
-<p><i>The grand and majestic mountaintop retreat of Baloth Bloodtusk was sealed off in the First Era by King Joile, but its ancient Orcish halls were recently reopened by order of King Kurog. </i></p> 
-<p>The Pariah's Pinnacle returns to the Crown Store on all platforms for a limited time, from January 18 to January 25, 2024, at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
-<p><b>Thieves' Oasis</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/a6fab78fee45f5acab54bc17c53a7112.jpg" />
-<p><i>With its mix of Redguard architecture, both old and new, Thieves' Oasis features a stunning waterfall, ancient statues, and housing fit for a prince—whether that prince is a scholarly antiquarian or roguish thief.</i></p> 
-<p>The Thieves' Oasis returns to the Crown Store on all platforms for a limited time, from January 25 to February 8, 2024, at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
-<h2>Houseguests</h2> 
-<p><b>Captain Isara Davaux</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2022/09/4990e7e4fbb9e6bc244c12a5d4ea9138.jpg" />
-<p><i>Ghostly Isara may think she's still part of the All Flags Navy, fighting their ancient foes, but that just makes her a hauntingly novel guest. After adding Isara to your home, you can set her on a path, plus you and your visitors can speak with her.</i></p> 
-<p>Captain Isara Davaux returns to the Crown Store on all platforms for a limited time, from January 4 to January 11, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>M'aiq the Liar </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/6c495f6e8fe94c0b62f9db0b8ce6a85b.jpg" />
-<p><i>The Khajiit called M'aiq the Liar travels widely, speaking foolishly—or wisely, depending on whom you ask. Host him before deciding, yes? After adding M'aiq to your home, you can set him on a path, plus you and your visitors can speak with him. </i></p> 
-<p>M'aiq the Liar will be available in the Crown Store on all platforms for a limited time, from January 18 to January 25, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<h2>Mounts</h2> 
-<p><b>Snow Bear</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/3d0c410bf589cd4533118c5f554cd1b9.jpg" />
-<p><i>The Snow Bear makes a superior mount for northern climes, as it's undaunted by even the fiercest winter weather.</i></p> 
-<p>The Snow Bear mount will be available in the Crown Store on all platforms for a limited time, from January 2 to January 8, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Harpy's Bane Durzog</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/cad79414d8be811fab06eebe5e39f616.jpg" />
-<p><i>"All durzog are relentless in the pursuit of prey, but this sub-species is particularly vicious, especially when following a harpy's scent. Even experienced handlers sometimes struggle to contain their ferocity on the hunt."—Elsweyr: A Rider's Guide</i></p> 
-<p>The Harpy's Bane Durzog mount will be available to ESO Plus Members in the Crown Store on all platforms for a limited time, from January 2 to February 1, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>Auroran Zenith Warwolf</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/763ea0219cb7003e8b9b4d5837c53490.jpg" />
-<p><i>Followers of Meridia who assist Aurorans can gain enough favor to earn one of their wolf steeds. Trained for war, these wolves stay the course even in siege situations, making them excellent mounts for all manner of dangerous situations.</i></p> 
-<p>The Auroran Zenith Warwolf Mount will be available in the Crown Store on all platforms for a limited time, from January 11 to January 18, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p> 
-<p><i> </i></p> 
-<p><b>Great Elk</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/e97674071b7f840bbc2cd52153ecb499.jpg" />
-<p><i>Though the Reachmen of Markarth say they were the first to successfully domesticate the Great Elk of Skyrim and break them as mounts, the Nords of Haafingar say it was really all their idea.</i></p> 
-<p>The Great Elk Mount returns to the Crown Store on all platforms for a limited time, from January 11 to January 18, 2024, at 10AM EST. </p> 
-<p><i> </i></p> 
-<h2>Pets</h2> 
-<p><b>Blue Shock Nixad</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/634c4c54134533033d72feb70d5e4444.jpg" />
-<p><i>The rare and colorful Shock Nixad looks rather like a tiny, winged Storm Atronach, though without the whirling electric rocks. They make loyal companions—though they may also make your hair stand on end!</i></p> 
-<p>The Blue Shock Nixad pet will be available in the Crown Store on all platforms for a limited time, from January 2 to January 8, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p> 
-<p><b>Seht's Dovah-Fly </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/c1cc88be5ea7658a3f6e096048766a57.jpg" />
-<p><i>These are clearly fabricants, clockwork simulations of living creatures, with the distinctive appearance of the handiwork of Sotha Sil. But if so, how did they escape Clockwork City? What powers them? And why do they make such loyal pets? No one knows. </i></p> 
-<p>The Seht's Dovah-Fly pet<b> </b>will be available in the Crown Store on all platforms for a limited time, from January 8 to January 11, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p><b>Mudcrab of Eternal Doom</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/92d21405cef837b7251c5404429a8a78.jpg" />
-<p><i>Few can withstand the scorching heat and relentless desolation of the Deadlands. Those unlucky few who find themselves trapped there may encounter one of these scuttling horrors—a hideous reminder of their grim and eternal fate.</i></p> 
-<p>The Mudcrab of Eternal Doom pet returns to the Crown Store on all platforms for a limited time, from January 16 to January 22, 2024, at 10AM EST. </p> 
-<p> </p> 
-<p><b>Colovian Badger </b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/b7d6a325799cd1e3016632001f8eda05.jpg" />
-<p><i>Though Badgers mainly eat burrowing rodents, farmers hate them because they'll take chickens, kwama scribs, and bantam guar if they get the chance. Cranky and irritable, they make terrible pets—which makes them a favorite among the Undaunted. </i></p> 
-<p>The Colovian Badger pet will be available in the Crown Store on all platforms for a limited time, from January 22 to January 25, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p> 
-<p> </p> 
-<p><b>Psijic Mascot Bear Cub</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2021/12/3a392d97accc227a717510b0c959a43e.jpg" />
-<p><i>By tradition, the Psijic Mascot of the order's Ritemaster is always a Bear Cub—but since there's been only one Ritemaster, Iachesis, for over 3,000 years, the tradition hasn't had much opportunity to change. Fortunately, others can befriend them as well!</i></p> 
-<p>The Psijic Mascot Bear Cub pet will be available in the Crown Store on all platforms for a limited time, from January 25 to February 1, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p> 
-<p> </p> 
-<p><b>White River Ice Wolf Pup</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/6ab069568909301fbbb802fa5ed5593c.jpg" />
-<p><i>The Ice Wolves that lope along the White River of northeast Skyrim are associated with both the goddess Mara and the Wolf Totem of Atmora—but it's mighty hard to think of their mythic stature when you're rolling around in the snow with an Ice Wolf Puppy!</i></p> 
-<p>The White River Ice Wolf Pup pet will be available in the Crown Store on all platforms for a limited time, from January 29 to February 5, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p> 
-<p> </p> 
-<h2>Polymorph</h2> 
-<p><b>Draugr</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/6d10283e253a43e1b091c128ef24a05a.jpg" />
-<p><i>This guise makes the wearer appear to have withered flesh beneath ancient Nord armor—perfect for lurking in tombs.</i></p> 
-<p>The Draugr polymorph returns to the Crown Store on all platforms for a limited time, from January 8 to January 16, 2024, at 10AM EST.</p><p><br></p><p> </p> 
-<p><b>Wraith-of-Crows</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/12/3aa981b3b739614db2b55e1d3633e819.jpg" />
-<p><i>Pay homage to Nocturnal the Night Mistress by assuming the appearance of her horrific half-bird servant!</i></p> 
-<p>The Wraith-of-Crows polymorph will be available in the Crown Store on all platforms for a limited time, from January 25 to February 1, 2024, at 10AM EST. ESO Plus Members will receive a discount on this item.</p><p><br></p> 
-<p>Whether guided by Meridia or the New Moon, you'll dazzle everyone you meet in 2024 with January's new and returning Crown Store items. Don't forget to visit the <a href="https://www.elderscrollsonline.com/en-us/buycrowns">Buy Crowns page</a> if you need to stock up on crowns first. Even better, be sure to check out this month's <a href="https://www.elderscrollsonline.com/en-us/news/post/65237" target="_blank">Daily Login Rewards</a> and claim that free mount! Do any of the items in this month's Crown Store take your fancy? Tell us via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, or <a href="https://www.facebook.com/ElderScrollsOnline">Facebook</a>!</p>]]></content:encoded>
-            <category>News</category>
-            <category>Crown Store</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/bbb9ed722d46779590b96775eb876a4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
