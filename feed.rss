@@ -4,23 +4,44 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 11 Mar 2024 21:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
         <item>
-            <title><![CDATA[PC/Mac Update 41 Known Issues]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues</guid>
+            <title><![CDATA[Act Quickly to Make the Most of Your Gold Road Pre-Purchase with an Exclusive Pet]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65677</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65677</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[There's limited time to make the most of the pre-purchase offers on The Elder Scrolls Online: Gold Road, so check out how to get an exclusive pet added to your rewards before you miss your chance!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/697b13a1362bb0e705d291107cbf7562.jpg" /><p><i>There's limited time to make the most of the pre-purchase offers on The Elder Scrolls Online: Gold Road, so check out how to get an exclusive pet added to your rewards before you miss your chance!</i><br></p> 
+<p>Are you excited to travel across West Weald and confront the Forgotten Prince? There's still time to pre-purchase the upcoming <i>Gold Road</i> Chapter and get access to a host of special in-game rewards.</p> 
+<p>Pre-purchase any edition of <i>The Elder Scrolls Online: Gold Road</i>, and you'll get <b>immediate access</b> to the paired Welkyndstone Ruins Wolf mount and Welkyndstone Ruins Pup pet. Note that the Welkyndstone Ruins Pup pet is available as a pre-purchase reward from now until <b>March 18 only</b>, so don't wait to ensure you unlock this adorable armored animal to keep your matching mount company.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/2baedb6bdf3f5f68106dc9a5f17a4789.jpg" />
+<p style="text-align: center;"><i>Available only until March 18!</i></p> 
+<p>In addition to the mount and pet, <i>Gold Road</i> pre-purchases will also grant you access to the following bonus content at launch:</p> 
+<ul><li>Eyebright Raven pet</li><li>Strid River Fisherfolk costume</li><li>×1 Diamond Anniversary Crate</li><li>Gold Road Treasure Maps</li><li>×2 Experience scrolls (+100% for 1 hour)</li></ul>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/0c212799a57b494daca841f37cc41950.jpg" />
+<p style="text-align: center;"><i>Gold Road pre-purchase rewards</i></p> 
+<p>Unsure which edition of <i>Gold Road</i> suits you best? You can check out <a href="https://www.elderscrollsonline.com/en-us/news/post/65365">this blog</a> with the full details! Once you've read up on your options, you can pre-purchase <i>Gold Road</i> and unlock its various rewards using the button below.</p><p><br></p><p>Are you ready to explore West Weald, confront the forces of the Forgotten Prince, and uncover the secrets of Scribing? Or are you already venturing into other realms atop the Welkyndstone Ruins Wolf with your pup following close behind? Tell us via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p><p><i>The Elder Scrolls Online: Gold Road arrives for PC/Mac on June 3, 2024, and for Xbox and PlayStation consoles on June 18, 2024. Pre-purchase Gold Road now to receive unique bonus rewards at launch and immediate access to Welkyndstone Ruins Wolf mount and Welkyndstone Ruins Pup pet*. Don't miss out!</i> </p><p><i>*The Welkyndstone Ruins Pup pet is available only until March 18, 2024.</i> </p>]]></content:encoded>
+            <category>News</category>
+            <category>Gold Road</category>
+            <category>Update 42</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/697b13a1362bb0e705d291107cbf7562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PC/Mac Update 41 Known Issues [Updated March 12, 4pm EDT]]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-12-4pm-edt</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-12-4pm-edt</guid>
             <pubDate>Mon, 11 Mar 2024 21:07:34 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone,<br><br>
-In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><b>Achievement progress appears to be reset</b>
-<ul><li>STATUS: Working on a fix</li>
+In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><span style="color:red"><i>UPDATED!</i></span> <b>Achievement progress appears to be reset</b>
+<ul><li>STATUS: Hotfix in progress</li>
 <li>Note that achievement progress is not <i>actually</i> being lost and this is just a display issue. You are free to continue earning progress toward achievements without fear of your progress being lost.</li>
 </ul></li>
-<li><b>Outfit slots are being reset</b>
-<ul><li>STATUS: Investigating</li>
-<li>While we are investigating this issue, please refrain from rezoning (including accepting a queue) while your character is dead</li>
+<li><span style="color:red"><i>UPDATED!</i></span> <b>Outfit slots are being reset</b>
+<ul><li>STATUS: Hotfix in progress</li>
+<li>We are working on a hotfix for this issue. Once the hotfix is published (tentatively scheduled for March 13), your Outfit Style slots will no longer reset when you rezone while your character is dead. However, if you rezone while your character is dead, any Outfit Styles will be erroneously categorized under "Unavailable". This is a visual issue and you can still use any earned Outfit Styles; reloading the UI will fix this issue until we roll out a full fix for this. We will keep you posted on next steps for any lost Outfit Style presets.</li>
 </ul></li>
 <li><b>Cannot set online/offline status</b>
 <ul><li>STATUS: Working on a fix for future incremental patch</li>
@@ -54,6 +75,9 @@ In an effort to collate issues discovered after today's launch of Update 41, bel
 </ul></li>
 <li><b>Grave Lord's Sacrifice is not currently buffing Animate Blastbones </b>
 <ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+<li><b>Guild history data not populating properly </b>
+<ul><li>STATUS: Investigating</li>
 </ul></li>
 </ul>]]></content:encoded>
             <category>Forum</category>
@@ -732,7 +756,7 @@ Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/po
             <title><![CDATA[Scions of Ithelia & Update 41 Now Available on the Public Test Server!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65487</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/65487</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/bcb714c613f899b39f711b44cf5f5988.jpg" /><p><i>Help us test ESO's first big release of the year by jumping into Scions of Ithelia and Update 41 on the PC/Mac Public Test Server! </i></p> 
 <p>The Public Test Server (PTS) has been updated to include both the upcoming <i>Scions of Ithelia</i> dungeon DLC and Update 41 base-game patch and can be accessed via the PC/Mac <i>ESO</i> launcher. If you'd like to help us test <i>Scions of Ithelia</i>'s two challenging new dungeons or any of the changes, fixes, and improvements coming with Update 41, now is your chance! </p> 
@@ -1090,22 +1114,6 @@ Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/po
             <category>News</category>
             <category>Events</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/eaa278b215232163e12f83bb666f4e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Uncover the Future of Tamriel During the ESO 2024 Global Reveal]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65345</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65345</guid>
-            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Discover The Elder Scrolls Online's new adventures, challenges, and lore during the ESO 2024 Global Reveal livestream, hosted on Twitch.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/d084308b40c26d652d88fc3b29ecc89a.jpg" /><p><i>Discover The Elder Scrolls Online's new adventures, challenges, and lore during the ESO 2024 Global Reveal livestream, hosted on Twitch.</i></p> 
-<p>Are you ready to find out all about what 2024 has in store for <i>ESO</i>? The Global Reveal has you covered! Tune in to <a href="https://www.twitch.tv/bethesda">Twitch.tv/Bethesda</a> for <i>The Elder Scrolls Online</i> 2024 Global Reveal on Thursday, January 18 at 4PM EST (immediately following the <a href="https://news.xbox.com/en-us/2024/01/09/xbox-developer-direct-2024/">Xbox Developer_Direct</a>). During the show, we'll give you a first look at the upcoming Chapter, as well as a glimpse at our plans for the rest of the year. Join us to see a new (yet familiar) region of Tamriel, as well as the continuation of the story that began in last year's <i>Necrom </i>Chapter. </p> 
-<p>Watch the show and you'll also receive the brand-new Pyromancer's Quandary emote through Twitch Drops. Don't forget <a href="https://help.elderscrollsonline.com/app/answers/detail/a_id/41809/~/how-do-i-link-my-eso-account-to-twitch">to link your <i>ESO</i> and Twitch accounts</a> before the <i>ESO </i>2024 Global Reveal goes live so you're ready!</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/de580fb5814250550ed06726505441dc.png" />
-<p style="text-align: center;"><i>The Pyromancer's Quandary emote</i></p> 
-<p>We're crafting something special this year for <i>The</i> <i>Elder Scrolls Online</i>, so be sure to join the #ESOFam in watching the livestream via <a href="https://www.twitch.tv/bethesda">Twitch.tv/Bethesda</a> starting on Thursday, January 18 at 4PM EST.</p> 
-<p>Are you planning to join us for the big show? Let us know what you hope to see via <a href="https://twitter.com/TESOnline">X (Formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>—we'll see you there! </p>]]></content:encoded>
-            <category>News</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/d084308b40c26d652d88fc3b29ecc89a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
