@@ -30,18 +30,18 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/697b13a1362bb0e705d291107cbf7562.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PC/Mac Update 41 Known Issues [Updated March 12, 4pm EDT]]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-12-4pm-edt</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-12-4pm-edt</guid>
+            <title><![CDATA[PC/Mac Update 41 Known Issues [Updated March 13, 5pm EDT]]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-13-5pm-edt</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-13-5pm-edt</guid>
             <pubDate>Mon, 11 Mar 2024 21:07:34 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone,<br><br>
 In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><span style="color:red"><i>UPDATED!</i></span> <b>Achievement progress appears to be reset</b>
-<ul><li>STATUS: Hotfix in progress</li>
+<ul><li>STATUS: Hotfix complete</li>
 <li>Note that achievement progress is not <i>actually</i> being lost and this is just a display issue. You are free to continue earning progress toward achievements without fear of your progress being lost.</li>
 </ul></li>
 <li><span style="color:red"><i>UPDATED!</i></span> <b>Outfit slots are being reset</b>
-<ul><li>STATUS: Hotfix in progress</li>
-<li>We are working on a hotfix for this issue. Once the hotfix is published (tentatively scheduled for March 13), your Outfit Style slots will no longer reset when you rezone while your character is dead. However, if you rezone while your character is dead, any Outfit Styles will be erroneously categorized under "Unavailable". This is a visual issue and you can still use any earned Outfit Styles; reloading the UI will fix this issue until we roll out a full fix for this. We will keep you posted on next steps for any lost Outfit Style presets.</li>
+<ul><li>STATUS: Hotfix complete</li>
+<li>We have deployed a hotfix for this issue. As of the March 13th hotfix, your Outfit Style slots will no longer reset when you rezone while your character is dead. However, if you rezone while your character is dead, any Outfit Styles will be erroneously categorized under "Unavailable". This is a visual issue and you can still use any earned Outfit Styles; reloading the UI will fix this issue until we roll out a full fix for this. We will keep you posted on next steps for any lost Outfit Style presets.</li>
 </ul></li>
 <li><b>Cannot set online/offline status</b>
 <ul><li>STATUS: Working on a fix for future incremental patch</li>
@@ -160,19 +160,6 @@ Thanks to everyone for your patience and proactive reporting as we worked to add
             <pubDate>Wed, 06 Mar 2024 15:16:36 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone,<br><br>
 We want to give you a heads up that we recently ran across a critical issue involving the unified Cyrodiil Repair Kits and need to pull them from the Update 41 launch build. We know many of you are excited for this feature and we are doing everything we can to release them as soon as possible. We'll keep you posted when we have a planned release date for unified Cyrodiil Repair Kits. Please note this does not affect the unified Gear Repair Kits, which will be launching with Update 41 as planned.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Last Week To Get 10th Anniversary Celebration Tickets! W/ Special Music Guest Matthew K. Heafy!]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/653745/last-week-to-get-10th-anniversary-celebration-tickets-w-special-music-guest-matthew-k-heafy</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/653745/last-week-to-get-10th-anniversary-celebration-tickets-w-special-music-guest-matthew-k-heafy</guid>
-            <pubDate>Tue, 05 Mar 2024 21:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[<img src="https://us.v-cdn.net/5020507/uploads/editor/1b/hkz3571ug13e.jpg"><br>
-Official Article For, "<a href="https://www.elderscrollsonline.com/en-us/news/post/65679">Last Chance! Get Your Tickets For The 10th Anniversary Celebration Event Now!</a>"<br><br><i>"Tickets for the first 10th Anniversary Celebration in-person event in Amsterdam are available for only one more week—don't miss out!"</i><br><ul><li>Here is a list of all activities, include special musical guest Matthew K, Heafy of Trivium!</li>
-<li>If you're into cosplay, the entry period has been extended to March 14th!</li>
-<li>Plenty of developer panels exclusive to this event!</li>
-<li>Tons of fun activites to do with the attending #ESOFam!</li>
-</ul><br><a href="https://www.showclix.com/tickets/ESOTenYearCelebrationNL">Tickets Available Here</a>]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
