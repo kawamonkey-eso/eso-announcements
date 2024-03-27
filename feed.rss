@@ -4,10 +4,101 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 15:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[PC/Mac Update 41 Known Issues [Updated March 26, 5:04pm EDT]]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-26-5-04pm-edt</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-26-5-04pm-edt</guid>
+            <pubDate>Tue, 26 Mar 2024 15:58:04 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone,<br><br>
+In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><span style="color:red"><i>UPDATED!</i></span> <b>Achievement progress appears to be reset</b>
+<ul><li>STATUS: Hotfix complete</li>
+<li>Note that achievement progress is not <i>actually</i> being lost and this is just a display issue. You are free to continue earning progress toward achievements without fear of your progress being lost.</li>
+</ul></li>
+<li><span style="color:red"><i>UPDATED!</i></span> <b>Outfit slots are being reset</b>
+<ul><li>STATUS: Hotfix complete</li>
+<li>We have deployed a hotfix for this issue. As of the March 13th hotfix, your Outfit Style slots will no longer reset when you rezone while your character is dead. However, if you rezone while your character is dead, any Outfit Styles will be erroneously categorized under "Unavailable". This is a visual issue and you can still use any earned Outfit Styles; reloading the UI will fix this issue until we roll out a full fix for this. We will keep you posted on next steps for any lost Outfit Style presets.</li>
+<li>We have provided additional information regarding outfit change tokens and experience scrolls that will be granted during the March 25th incremental. For the full write up, please follow the link <a href="https://forums.elderscrollsonline.com/en/discussion/654462/update-on-outfit-resetting-march-14-2024">here</a>.</li>
+<li>Follow up on the issue where the outfit tokens were not granted on March 25. We have resolved the issue and they will be granted on April 8. For more information, please follow the link <a href="https://forums.elderscrollsonline.com/en/discussion/comment/8075827/#Comment_8075827">here</a>. Thanks!</li>
+</ul></li>
+<li><span style="color:red"><i>UPDATED!</i></span> <b>Cannot set online/offline status</b>
+<ul><li>STATUS: Fixed in March 25 Incremental</li>
+<li>WORKAROUND: You can swap to Gamepad Mode to set your online/offline status, or click a few pixels below the dropdown arrow to access the menu</li>
+</ul></li>
+<li><b>UI fonts are difficult to read</b>
+<ul><li>STATUS: Investigating</li>
+<li>While we did make changes to the UI font rendering in Update 41, we are tracking situations where the UI is too difficult to read and improvements can be made</li>
+<li>POTENTIAL WORKAROUNDS:
+<ul><li>Please ensure addons are either disabled or updated</li>
+<li>Update your resolution if you can do so</li>
+<li>Increase your Chat Window Font Size (Settings&gt;Social&gt;Chat Settings&gt;Text Size) or Interface Scale (Settings&gt;Video&gt;Interface&gt;Use Custom Scale)</li>
+</ul></li>
+</ul></li>
+<li><span style="color:red"><i>UPDATED!</i></span><b>Old Rewards for the Worthy granting two item sets</b>
+<ul><li>STATUS: Fixed in March 25 Incremental. Fix incorporated for console launch.</li>
+<li>You are free to open any Rewards of the Worthy containers – those earned before we launched Update 41 or current – and claim the items without any worry of being actioned</li>
+</ul></li>
+<li><b>Game is locking up or freezing after logging in</b>
+<ul><li>STATUS: Investigating</li>
+</ul></li>
+<li><b>Not all siege weaponry is stacking together</b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+<li><span style="color:red"><i>UPDATED!</i></span> <b>Missing Mystery Coffer from Urgarlag, Imperial City &amp; Shadows of the Hist coffers</b>
+<ul><li>STATUS: Fixed in March 25 incremental. Fix incorporated for console.</li>
+</ul></li>
+<li><b>Gamepad Mode causing framerate drops</b>
+<ul><li>STATUS: Resolved</li>
+<li>Disable any 3rd party controller support applications. In U41 we added PS4 controller support for PC. Using a controller with a 3rd party controller support application causes double input, which causes framerate issue.</li>
+</ul></li>
+<li><b>Grave Lord's Sacrifice is not currently buffing Animate Blastbones </b>
+<ul><li>STATUS: Working on a fix for future incremental patch</li>
+</ul></li>
+<li><b>Guild history data not populating properly </b>
+<ul><li>STATUS: Investigating</li>
+</ul></li>
+</ul>,Hi All, we updated this list to note items that have been fixed for console launch. We still have some fixes coming for both PC and Console in future incremental updates.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Scions of Ithelia & Update 41 Now Live on All Platforms]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65641</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65641</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" /><p><i>Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch. </i></p> <p>The <i>Scions of Ithelia</i> dungeon DLC game pack and free Update 41 base-game patch are now live on PC/Mac, Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5. <br></p> <p>Venture into two new dungeons, Oathsworn Pit and Bedlam Veil, and prepare for the adventures to come in the upcoming <i>Gold Road</i> Chapter. </p>
+<a href="https://youtube.com/v/6V3SSlcry0Q?autoplay=1&rel=0"><img src="https://i.ytimg.com/vi/6V3SSlcry0Q/maxresdefault.jpg" /></a>
+<p>You can gain access to <i>Scions of Ithelia</i> via <a href="https://www.elderscrollsonline.com/en-us/esoplus">ESO Plus™ membership</a> or purchase it with crowns from the in-game <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store</a>.</p> 
+<p>This launch also features the Update 41 base-game patch, providing all <i>ESO</i> players with a series of free additions and improvements to the game. Check out the patch notes for both <i>Scions of Ithelia </i>and Update 41 on <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">our official forums</a>.</p> 
+<h2>Scions of Ithelia DLC Game Pack</h2> 
+<p>Discover new stories and challenges awaiting you and your strongest allies in two all-new PvE dungeons: <b>Oathsworn Pit</b> and <b>Bedlam Veil</b>. Earn unique rewards as you and your party battle your way through these two perilous adventures and uncover the malevolent forces at work in the upcoming <i>Gold Road</i> Chapter. </p> 
+<p><b>Oathsworn Pit</b></p> 
+<p>A training ground for Malacath's most-devoted followers has been invaded, and the God of Curses calls upon you to enact his revenge! Who are the Wood Elf invaders, and what are their plans for the Oathsworn survivors? You and your team must help the Orc Bazrag reclaim the pit's lodges and free its captives before all are lost.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/b819ce9921c2c2be684c7137e4c02c05.jpg" />
+<p style="text-align: center;"><i>Fight on behalf of Malacath</i></p> 
+<p>Find out more concerning the Oathsworn Pit in <a href="https://www.elderscrollsonline.com/en-us/news/post/65563">this preview blog</a>.</p> 
+<p><b>Bedlam Veil</b> </p> 
+<p>Located with Fa-Nuit-Hen's demiplane of Maelstrom, the Bedlam Veil is a storehouse, of sorts, for all manner of weapons, artifacts, and monsters. Now, a mysterious cult has begun looting the Demiprince's realm, and the “Multiplier of Motions Known” needs your help defending their hold and preventing the raiders from claiming a mysterious prize at its heart. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/462275728e42e9f5d29114261ac76f98.jpg" />
+<p style="text-align: center;"><i>Confront mirrored monstrosities</i></p> 
+<p>You can discover more about this dungeon in <a href="https://www.elderscrollsonline.com/en-us/news/post/65659">our recent preview</a>.</p> 
+<p><b>New Challenges and Rewards</b></p> 
+<p>You can attempt the Oathsworn Pit and Bedlam Veil dungeons in normal, veteran, and hard mode difficulties. In addition, each hosts its own rewards and Achievements, including six new item sets, two monster sets, and unique collectibles.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/f834d82b2a1c41f853e4d209d849b18e.jpg" />
+<p style="text-align: center;"><i>Scions of Ithelia dungeon rewards</i></p> 
+<h2>Getting Started</h2> 
+<p>You can access the <i>Scions of Ithelia</i> DLC via ESO Plus membership or by purchasing it from the Crown Store for 1,500 crowns (listed under DLC). If your ESO Plus membership lapses, you will lose access to the DLC until you renew your membership or purchase it with crowns. However, you will not lose any items, Achievements, or other rewards earned prior. </p> 
+<p>The <i>Scions of Ithelia </i>Deluxe Bundle is also available for 4,000 crowns and includes access to the DLC game pack, Ashbone Sabre Cat mount, Ashbone Echalette pet, and five Crown Experience Scrolls. You can purchase the Deluxe Bundle from the Featured section of the in-game Crown Store. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/dcf04ee0cbc67f136922edb9f4c415ee.jpg" />
+<p style="text-align: center"><i>Scions of Ithelia Deluxe Bundle</i></p> <p>Note that ALL ESO Plus members can claim the <i>Scions of Ithelia</i> Deluxe Bundle for <b>free during a two-week window </b>starting on each specific platform's launch (March 11 for PC/Mac and March 26 for Xbox and PlayStation consoles)—don't forget to claim it from the Crown Store while it's available!</p> <p>Once you have access to the <i>Scions of Ithelia</i> dungeons, you can start both PvE challenges by the following methods: </p> <ul><li>By teleporting directly into the two dungeons from your map</li><li>By using the Dungeon Finder tool</li><li>By walking up to the dungeon entrances within the Reach (Oathsworn Pit) and Wrothgar (Bedlam Veil) </li></ul> <h2>Update 41 Base-Game Patch</h2> <p>Launching at the same time as the <i>Scions of Ithelia</i> DLC, the Update 41 base-game patch is completely free for all current <i>ESO</i> players and includes a series of fixes, additions, and improvements to the game's core experience. </p> <p><b>Stackable Siege Weaponry</b></p> <p>Helping you lighten the inventory load in Cyrodiil with Update 41 is the addition of stackable siege weaponry. With this update, you can stack up to 20 similar siege weapons if they are at maximum health. When you have siege weapons in your quickslots, it will always use the weapon with the lowest health in your inventory. </p> <p><b>New Rewards</b></p> <p>This update also introduces some new Rewards for the Worthy PvP item set rewards. This includes the Oakfather's Retribution light armor set, the Blunted Blades medium armor set, and the Baan Dar's Blessing heavy armor set. These new item sets are sure to help you on Tamriel's myriad battlefields, so keep an eye out for them next time you open your Rewards for the Worthy boxes. </p> <p>Additionally, the Unkindness of Ravens body and face marking is now available by acquiring and using the Runebound Tome: Unkindness of Ravens. You can acquire this tome for 100,000 Tel Var Stones, and it requires 50 Siege of Cyrodiil Merits to use. </p> <p>In tandem with the new PvP sets is an all-new Mythic item you can acquire via the Antiquities system. The Torc of the Last Ayleid King necklace disables all other item set bonuses while increasing your Weapon and Spell Damage, boosting your Health, Magicka, and Stamina Recovery, and reducing your total damage taken by 15%.</p> <p>This update also introduces style pages for the various Class Sets found in the Infinite Archive. Now, style pages for your specific class will drop within the archive, with other style pages also dropping once you've earned every page for your specific class. </p> <p><b>Update to ESO's PC/Mac Min Spec</b></p> <p>Finally, Update 41 also features an update to the game's min spec for PC and Mac. This change ensures a continued level of performance for older systems that can be maintained in newer content as well. Specifically, with Update 41, <i>ESO</i> no longer officially supports the Windows 7 operating system for future compatibility. You will still be able to play on Windows 7 machines but note that there's no guarantee that this will continue to be the case moving forward. </p> <p>These Update 41 features and changes outlined above are just some of the highlights included in this base-game patch. You can see the full list of everything included in Update 41 by visiting our <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes forum</a>. As a base-game patch, Update 41 is free for all current <i>ESO </i>players—enjoy! </p> <h2>Answer the Call to Arms</h2> <p>Defend the demiplane of Maelstrom and enact revenge on behalf of the God of Curses in <i>Scions of Ithelia</i>, an all-new dungeon DLC pack for <i>ESO</i>'s PvE adventurers. Are you ready to delve into the Oathsworn Pit and Bedlam Veil? Are you excited for all the new rewards coming soon with Update 41? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline;">Facebook</a>.</p> <p><i>The Scions of Ithelia dungeon DLC pack and Update 41 is now live on PC/Mac, Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5.</i><br></p>]]></content:encoded>
+            <category>News</category>
+            <category>Scions of Ithelia</category>
+            <category>Update 41</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shine Against the Darkness with the Order of the Lamp Crown Crates]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65723</link>
@@ -38,14 +129,6 @@
             <category>News</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/a5990d1ec2a32838bf0a85478193d3f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Help with ESOFam Feud!]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/654919/help-with-esofam-feud</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/654919/help-with-esofam-feud</guid>
-            <pubDate>Thu, 21 Mar 2024 20:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All, at the Amsterdam 10yr Anniversary Event, we're playing a trivia game called ESO Fam Feud! It's based on your answers to our survey listed below! If you have some time, we're love for you to take some time to answer these fun questions. Thanks!<br><br><a href="https://woobox.com/s6kovg?linkId=100000250442969">Click here to answer survey questions! </a>]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Laud the Looney and Earn Bonus Rewards During the Jester's Festival Event!]]></title>
@@ -155,114 +238,6 @@ Thanks again for flagging this issue and working with us to come to a resolution
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/697b13a1362bb0e705d291107cbf7562.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PC/Mac Update 41 Known Issues [Updated March 25, 10:00pm EDT]]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-25-10-00pm-edt</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/654125/pc-mac-update-41-known-issues-updated-march-25-10-00pm-edt</guid>
-            <pubDate>Mon, 11 Mar 2024 21:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone,<br><br>
-In an effort to collate issues discovered after today's launch of Update 41, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.<br><br><ul><li><span style="color:red"><i>UPDATED!</i></span> <b>Achievement progress appears to be reset</b>
-<ul><li>STATUS: Hotfix complete</li>
-<li>Note that achievement progress is not <i>actually</i> being lost and this is just a display issue. You are free to continue earning progress toward achievements without fear of your progress being lost.</li>
-</ul></li>
-<li><span style="color:red"><i>UPDATED!</i></span> <b>Outfit slots are being reset</b>
-<ul><li>STATUS: Hotfix complete</li>
-<li>We have deployed a hotfix for this issue. As of the March 13th hotfix, your Outfit Style slots will no longer reset when you rezone while your character is dead. However, if you rezone while your character is dead, any Outfit Styles will be erroneously categorized under "Unavailable". This is a visual issue and you can still use any earned Outfit Styles; reloading the UI will fix this issue until we roll out a full fix for this. We will keep you posted on next steps for any lost Outfit Style presets.</li>
-<li>We have provided additional information regarding outfit change tokens and experience scrolls that will be granted during the March 25th incremental. For the full write up, please follow the link <a href="https://forums.elderscrollsonline.com/en/discussion/654462/update-on-outfit-resetting-march-14-2024">here</a>.</li>
-</ul></li>
-<li><span style="color:red"><i>UPDATED!</i></span> <b>Cannot set online/offline status</b>
-<ul><li>STATUS: Fixed in March 25 Incremental</li>
-<li>WORKAROUND: You can swap to Gamepad Mode to set your online/offline status, or click a few pixels below the dropdown arrow to access the menu</li>
-</ul></li>
-<li><b>UI fonts are difficult to read</b>
-<ul><li>STATUS: Investigating</li>
-<li>While we did make changes to the UI font rendering in Update 41, we are tracking situations where the UI is too difficult to read and improvements can be made</li>
-<li>POTENTIAL WORKAROUNDS:
-<ul><li>Please ensure addons are either disabled or updated</li>
-<li>Update your resolution if you can do so</li>
-<li>Increase your Chat Window Font Size (Settings&gt;Social&gt;Chat Settings&gt;Text Size) or Interface Scale (Settings&gt;Video&gt;Interface&gt;Use Custom Scale)</li>
-</ul></li>
-</ul></li>
-<li><span style="color:red"><i>UPDATED!</i></span><b>Old Rewards for the Worthy granting two item sets</b>
-<ul><li>STATUS: Fixed in March 25 Incremental. Fix incorporated for console launch.</li>
-<li>You are free to open any Rewards of the Worthy containers – those earned before we launched Update 41 or current – and claim the items without any worry of being actioned</li>
-</ul></li>
-<li><b>Game is locking up or freezing after logging in</b>
-<ul><li>STATUS: Investigating</li>
-</ul></li>
-<li><b>Not all siege weaponry is stacking together</b>
-<ul><li>STATUS: Working on a fix for future incremental patch</li>
-</ul></li>
-<li><span style="color:red"><i>UPDATED!</i></span> <b>Missing Mystery Coffer from Urgarlag, Imperial City &amp; Shadows of the Hist coffers</b>
-<ul><li>STATUS: Fixed in March 25 incremental. Fix incorporated for console.</li>
-</ul></li>
-<li><b>Gamepad Mode causing framerate drops</b>
-<ul><li>STATUS: Resolved</li>
-<li>Disable any 3rd party controller support applications. In U41 we added PS4 controller support for PC. Using a controller with a 3rd party controller support application causes double input, which causes framerate issue.</li>
-</ul></li>
-<li><b>Grave Lord's Sacrifice is not currently buffing Animate Blastbones </b>
-<ul><li>STATUS: Working on a fix for future incremental patch</li>
-</ul></li>
-<li><b>Guild history data not populating properly </b>
-<ul><li>STATUS: Investigating</li>
-</ul></li>
-</ul>]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Scions of Ithelia & Update 41 Now Live on PC/Mac]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65641</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65641</guid>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" /><p><i>Delve into two new challenging dungeons and begin a story that will take you to West Weald in the Scions of Ithelia DLC and Update 41 base-game patch. </i></p> <p>The <i>Scions of Ithelia</i> dungeon DLC game pack and free Update 41 base-game patch are now live on PC/Mac. If you play on Xbox or PlayStation, don't worry, the dungeon DLC arrives with the free update on consoles March 26. </p> <p>Venture into two new dungeons, Oathsworn Pit and Bedlam Veil, and prepare for the adventures to come in the upcoming <i>Gold Road</i> Chapter. </p>
-<a href="https://youtube.com/v/6V3SSlcry0Q?autoplay=1&rel=0"><img src="https://i.ytimg.com/vi/6V3SSlcry0Q/maxresdefault.jpg" /></a>
-<p>You can gain access to <i>Scions of Ithelia</i> via <a href="https://www.elderscrollsonline.com/en-us/esoplus">ESO Plus™ membership</a> or purchase it with crowns from the in-game <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store</a>.</p> 
-<p>This launch also features the Update 41 base-game patch, providing all <i>ESO</i> players with a series of free additions and improvements to the game. Check out the patch notes for both <i>Scions of Ithelia </i>and Update 41 on <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">our official forums</a>.</p> 
-<h2>Scions of Ithelia DLC Game Pack</h2> 
-<p>Discover new stories and challenges awaiting you and your strongest allies in two all-new PvE dungeons: <b>Oathsworn Pit</b> and <b>Bedlam Veil</b>. Earn unique rewards as you and your party battle your way through these two perilous adventures and uncover the malevolent forces at work in the upcoming <i>Gold Road</i> Chapter. </p> 
-<p><b>Oathsworn Pit</b></p> 
-<p>A training ground for Malacath's most-devoted followers has been invaded, and the God of Curses calls upon you to enact his revenge! Who are the Wood Elf invaders, and what are their plans for the Oathsworn survivors? You and your team must help the Orc Bazrag reclaim the pit's lodges and free its captives before all are lost.</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/b819ce9921c2c2be684c7137e4c02c05.jpg" />
-<p style="text-align: center;"><i>Fight on behalf of Malacath</i></p> 
-<p>Find out more concerning the Oathsworn Pit in <a href="https://www.elderscrollsonline.com/en-us/news/post/65563">this preview blog</a>.</p> 
-<p><b>Bedlam Veil</b> </p> 
-<p>Located with Fa-Nuit-Hen's demiplane of Maelstrom, the Bedlam Veil is a storehouse, of sorts, for all manner of weapons, artifacts, and monsters. Now, a mysterious cult has begun looting the Demiprince's realm, and the “Multiplier of Motions Known” needs your help defending their hold and preventing the raiders from claiming a mysterious prize at its heart. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/462275728e42e9f5d29114261ac76f98.jpg" />
-<p style="text-align: center;"><i>Confront mirrored monstrosities</i></p> 
-<p>You can discover more about this dungeon in <a href="https://www.elderscrollsonline.com/en-us/news/post/65659">our recent preview</a>.</p> 
-<p><b>New Challenges and Rewards</b></p> 
-<p>You can attempt the Oathsworn Pit and Bedlam Veil dungeons in normal, veteran, and hard mode difficulties. In addition, each hosts its own rewards and Achievements, including six new item sets, two monster sets, and unique collectibles.</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/f834d82b2a1c41f853e4d209d849b18e.jpg" />
-<p style="text-align: center;"><i>Scions of Ithelia dungeon rewards</i></p> 
-<h2>Getting Started</h2> 
-<p>You can access the <i>Scions of Ithelia</i> DLC via ESO Plus membership or by purchasing it from the Crown Store for 1,500 crowns (listed under DLC). If your ESO Plus membership lapses, you will lose access to the DLC until you renew your membership or purchase it with crowns. However, you will not lose any items, Achievements, or other rewards earned prior. </p> 
-<p>The <i>Scions of Ithelia </i>Deluxe Bundle is also available for 4,000 crowns and includes access to the DLC game pack, Ashbone Sabre Cat mount, Ashbone Echalette pet, and five Crown Experience Scrolls. You can purchase the Deluxe Bundle from the Featured section of the in-game Crown Store. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/dcf04ee0cbc67f136922edb9f4c415ee.jpg" />
-<p style="text-align: center;"><i>Scions of Ithelia Deluxe Bundle</i></p> 
-<p>Note that ALL ESO Plus members can claim the <i>Scions of Ithelia</i> Deluxe Bundle for <b>free during a two-week window </b>starting on each specific platform's launch (March 11 for PC/Mac and March 26 for Xbox and PlayStation consoles)—don't forget to claim it from the Crown Store while it's available!</p> 
-<p>Once you have access to the <i>Scions of Ithelia</i> dungeons, you can start both PvE challenges by the following methods: </p> 
-<ul><li>By teleporting directly into the two dungeons from your map</li><li>By using the Dungeon Finder tool</li><li>By walking up to the dungeon entrances within the Reach (Oathsworn Pit) and Wrothgar (Bedlam Veil) </li></ul> 
-<h2>Update 41 Base-Game Patch</h2> 
-<p>Launching at the same time as the <i>Scions of Ithelia</i> DLC, the Update 41 base-game patch is completely free for all current <i>ESO</i> players and includes a series of fixes, additions, and improvements to the game's core experience. </p> 
-<p><b>Stackable Siege Weaponry</b></p> 
-<p>Helping you lighten the inventory load in Cyrodiil with Update 41 is the addition of stackable siege weaponry. With this update, you can stack up to 20 similar siege weapons if they are at maximum health. When you have siege weapons in your quickslots, it will always use the weapon with the lowest health in your inventory. </p> 
-<p><b>New Rewards</b></p> 
-<p>This update also introduces some new Rewards for the Worthy PvP item set rewards. This includes the Oakfather's Retribution light armor set, the Blunted Blades medium armor set, and the Baan Dar's Blessing heavy armor set. These new item sets are sure to help you on Tamriel's myriad battlefields, so keep an eye out for them next time you open your Rewards for the Worthy boxes. </p> 
-<p>Additionally, the Unkindness of Ravens body and face marking is now available by acquiring and using the Runebound Tome: Unkindness of Ravens. You can acquire this tome for 100,000 Tel Var Stones, and it requires 50 Siege of Cyrodiil Merits to use. </p> 
-<p>In tandem with the new PvP sets is an all-new Mythic item you can acquire via the Antiquities system. The Torc of the Last Ayleid King necklace disables all other item set bonuses while increasing your Weapon and Spell Damage, boosting your Health, Magicka, and Stamina Recovery, and reducing your total damage taken by 15%.</p> 
-<p>This update also introduces style pages for the various Class Sets found in the Infinite Archive. Now, style pages for your specific class will drop within the archive, with other style pages also dropping once you've earned every page for your specific class. </p> 
-<p><b>Update to ESO's PC/Mac Min Spec</b></p> 
-<p>Finally, Update 41 also features an update to the game's min spec for PC and Mac. This change ensures a continued level of performance for older systems that can be maintained in newer content as well. Specifically, with Update 41, <i>ESO</i> no longer officially supports the Windows 7 operating system for future compatibility. You will still be able to play on Windows 7 machines but note that there's no guarantee that this will continue to be the case moving forward. </p> 
-<p>These Update 41 features and changes outlined above are just some of the highlights included in this base-game patch. You can see the full list of everything included in Update 41 by visiting our <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes forum</a>. As a base-game patch, Update 41 is free for all current <i>ESO </i>players—enjoy! </p> 
-<h2>Answer the Call to Arms</h2> 
-<p>Defend the demiplane of Maelstrom and enact revenge on behalf of the God of Curses in <i>Scions of Ithelia</i>, an all-new dungeon DLC pack for <i>ESO</i>'s PvE adventurers. Are you ready to delve into the Oathsworn Pit and Bedlam Veil? Are you excited for all the new rewards coming soon with Update 41? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
-<p><i>The Scions of Ithelia dungeon DLC pack and Update 41 is now live on PC/Mac, and will arrive March 26 for Xbox and PlayStation consoles.</i></p>]]></content:encoded>
-            <category>News</category>
-            <category>Scions of Ithelia</category>
-            <category>Update 41</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/35204c162351d7ec78c18a29b0409270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[March Daily Login Reward Follow-Up]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/653864/march-daily-login-reward-follow-up</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/653864/march-daily-login-reward-follow-up</guid>
@@ -277,15 +252,6 @@ In addition to the above, we are aware that players who attempted to claim Daily
 </ul>
 This allows us to avoid additional downtime for these grants as well. Players will receive their currencies upon logging into ESO after maintenance.<br><br>
 Thanks to everyone for your patience and proactive reporting as we worked to address the Daily Login Rewards issue this past weekend. We hope you enjoy the rest of March's Orsinium activities!]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Update on Cyrodiil Repair Kits]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/653774/update-on-cyrodiil-repair-kits</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/653774/update-on-cyrodiil-repair-kits</guid>
-            <pubDate>Wed, 06 Mar 2024 15:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone,<br><br>
-We want to give you a heads up that we recently ran across a critical issue involving the unified Cyrodiil Repair Kits and need to pull them from the Update 41 launch build. We know many of you are excited for this feature and we are doing everything we can to release them as soon as possible. We'll keep you posted when we have a planned release date for unified Cyrodiil Repair Kits. Please note this does not affect the unified Gear Repair Kits, which will be launching with Update 41 as planned.]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
