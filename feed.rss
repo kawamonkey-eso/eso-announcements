@@ -4,17 +4,25 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 03 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 11:44:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Live Now: 10-Year Anniversary Celebration Livestream]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/655822/live-now-10-year-anniversary-celebration-livestream</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/655822/live-now-10-year-anniversary-celebration-livestream</guid>
+            <pubDate>Fri, 05 Apr 2024 11:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! The 10-Year Anniversary Celebration Livestream is live right now. We are in the preshow and will have the full show underway soon! Remember, Twitch Drops are live, so make sure your accounts are linked!<br><br><iframe src="https://player.twitch.tv/?channel=bethesda&amp;parent=forums.elderscrollsonline.com&amp;autoplay=false" height="360" width="640" frameborder="0" scrolling="no" autoplay="false" allowfullscreen="true">https://www.twitch.tv/bethesda</iframe>]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Claim Free ESO Currency and Consumables with Xbox Game Pass]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65763</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/65763</guid>
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sign up for Xbox Game Pass Ultimate and collect free perks including a series of in-game ESO rewards!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/901134287e494367781a362290170ecc.jpg" /><p><i>Sign up for Xbox Game Pass Ultimate and collect free perks including a series of in-game ESO rewards!</i></p> 
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/683b754a867a6be9f37c32434ca6921d.jpg" /><p><i>Sign up for Xbox Game Pass Ultimate and collect free perks including a series of in-game ESO rewards!</i></p> 
 <p>Starting today, if you're an Xbox player, you can unlock bonus in-game items via your <a href="https://www.xbox.com/en-US/xbox-game-pass">Xbox Game Pass Ultimate</a> subscription. The first set, 10<sup>th</sup> Anniversary Pack #1, is now available via your Ultimate subscription, with more rewards arriving in future packs later in 2024 (be sure to keep an eye out for them). </p> 
 <p>What's in 10<sup>th</sup> Anniversary Pack #1?</p> 
 <ul><li>3× Grand Gold Coast Experience Scrolls</li><li>500 Seals of Endeavor</li></ul> 
@@ -27,7 +35,7 @@
 <p><i>*Note: Items must be claimed within 180 days from in-game mail</i>. <i>Limit one pack per player, per account.</i></p>]]></content:encoded>
             <category>News</category>
             <category>Community</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/901134287e494367781a362290170ecc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/683b754a867a6be9f37c32434ca6921d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Begin Your Elder Scrolls Online Adventure During the April 2024 Free Play Event]]></title>
@@ -336,7 +344,7 @@
 <ul><li>As an extremely small chance from any fishing node during the Jubilee, you may find outfit style pages for the Trueflame Sword Replica. Yes, really!</li><li>Any Dolmen reward chest has a chance to contain a style page for the Staff of Worms Replica, in recognition (though not honor) of Mannimarco's dark deeds.</li><li>Any World Boss in Vvardenfell has a chance to drop a style page for either the Sunna'rah Replica or the Barbas Helmet Replica, as seen during that Chapter's story.</li><li>Any Geyser in Summerset has a chance to drop a style page for the Ul'vor Staff, as seen during that Chapter's story.</li></ul> 
 <h2>Event Tickets and Vendors</h2> 
 <p>When you've got as many Event Tickets as the Jubilee will award, you need things to spend them on. Fortunately, the Impresario came prepared with an extensive stock for her stall. In preparation for this year's festivities, she has filled her inventory with the following items:</p> 
-<ul><li>All three Molag Bal Illusion Imp pet fragments</li><ul><li>Anchor Chain Fragment</li><li>Dark Anchor Pinion</li><li>Effigy of the Dominator</li></ul><li>The first two fragments for the <b>new </b>Master of Schemes personality</li><ul><li>Cold Iron Gauntlet</li><li>Grim Iron Mask</li></ul><li>Bound style pages for the Earthbone Ayleid armor style</li><li>Anniversary Cake furnishings (note that these require you to own the respective year's cake memento to buy!)</li><li>Anniversary Cake Slice furnishings (unlike the full cakes, you do not need to own the respective year's cake memento to buy these!)</li><li>Jubilee Steed mount fragments</li><li>Bags of Jubilee Yesteryear, containing the following, providing only items you do not currently own:</li><ul><li>Bound Worm Cult motif chapters </li><li>Jephrine Paladin armor style pages</li><li>Imperial Champion armor style pages</li><li>Prophet armor style pages</li><li>Lyris armor style pages</li><li>Sai Sahan armor style pages</li><li>Abnur Tharn armor style pages</li><li>Bound Saberkeel armor style pages</li><li>Bound Bonemold armor style pages</li><li>Aurora Firepot Spider parts (excluding the instructions, which are available from the Impresario's assistant, Philius Dormier)</li><li>Desecrated Grave Soil (note that this is a chance in addition to whatever else the bag contains)</li></ul><li>Group Repair Kits</li><li>Companion Guild Commendations</li></ul>
+<ul><li>All three Molag Bal Illusion Imp pet fragments</li><ul><li>Anchor Chain Fragment</li><li>Dark Anchor Pinion</li><li>Effigy of the Dominator</li></ul><li>The first two fragments for the <b>new </b>Master of Schemes personality</li><ul><li>Cold Iron Gauntlet</li><li>Grim Iron Mask</li></ul><li>Bound style pages for the Earthbone Ayleid armor style</li><li>Anniversary Cake furnishings (note that these require you to own the respective year's cake memento to buy!)</li><li>Anniversary Cake Slice furnishings (unlike the full cakes, you do not need to own the respective year's cake memento to buy these!)</li><li>Jubilee Steed mount fragments</li><li>Bags of Jubilee Yesteryear, containing the following, providing only items you do not currently own:</li><ul><li>Bound Worm Cult motif chapters </li><li>Jephrine Paladin armor style pages</li><li>Imperial Champion weapon style pages</li><li>Prophet armor style pages</li><li>Lyris armor style pages</li><li>Sai Sahan armor style pages</li><li>Abnur Tharn armor style pages</li><li>Bound Saberkeel armor style pages</li><li>Bound Bonemold armor style pages</li><li>Aurora Firepot Spider parts (excluding the instructions, which are available from the Impresario's assistant, Philius Dormier)</li><li>Desecrated Grave Soil (note that this is a chance in addition to whatever else the bag contains)</li></ul><li>Group Repair Kits</li><li>Companion Guild Commendations</li></ul>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/0fe7e2881b27f875fd5955e6a61a4b01.jpg" />
 <p style="text-align: center;"><i>The Master of Schemes personality</i></p> 
 <p>All that inventory makes the Impresario quite well-stocked indeed! But what about her assistant, Philius Dormier? In addition to his usual wares, he will be stocking:</p> 
