@@ -4,7 +4,7 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 16 Apr 2024 21:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 22:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</guid>
-            <pubDate>Tue, 16 Apr 2024 21:11:56 GMT</pubDate>
+            <pubDate>Wed, 17 Apr 2024 22:45:04 GMT</pubDate>
             <content:encoded><![CDATA[Hi all, we currently have taken down access to PTS. We encountered an issue with PTS once the server went live. This has also caused an issue with the PC NA live server, so we will be temporarily taking down the PC NA live server as well. Once we have more information, we will update everyone. Thanks for your patience as we begin investigations.,Hi everyone, just wanted to let you know investigations are ongoing. To set expectations as we head into the evening, we're looking at several hours of downtime. We'll let you know when we have an update to share.,Just checking in to let everyone know investigations are continuing, and both PC NA and PTS will remain under maintenance until further notice. We'll provide another update in an hour or two regardless of the status.,Hi everyone,<br><br>
 Thanks for your patience while we investigated the issues affecting PC NA and the PTS. As some of you discovered, we ran into a problem where character saves on the PTS were affecting PC NA, and we locked both PTS and PC NA immediately. We have temporarily locked the affected accounts until we can restore them to a good state and will be notifying those players via email, and will be rolling back progress on PC NA from those accounts to April 15th at 9:30am EDT. This will take several days to complete and we will alert any affected players when their account is accessible again.<br><br>
 To be clear, the rollback will primarily affect accounts that logged onto the PTS after maintenance on April 15th.<br><br>
@@ -21,7 +21,21 @@ The current plan is to bring PC NA back online within the hour, followed by the 
 We will follow up in the coming days with more details summarizing what happened and will share any additional information at that time. We sincerely apologize for this inconvenience and thank you again for your patience during this matter.<br>,Hi everyone,<br><br>
 We'd like to start off by saying we know this situation is upsetting and we recognize many of you are angry. To say we're disappointed this happened is an understatement and we empathize with those that are still locked out of their accounts. Just know we are working around the clock on this and will share more information about what happened and what we plan to do to make things right later this week.<br><br>
 Today, the first priority is getting the PTS back online which should be finished in the next few hours. We will then focus on going through all the affected accounts to get everyone their accounts back as quickly as possible. We also want to clarify that any ill-gotten gains from this issue, such as items and all currency that may have been distributed, will be removed from the economy.<br><br>
-Thanks for sticking with us and we'll let you know when the PTS is back online.<br>,Just wanted to let everyone know as of 5:10pm EDT, the PTS is back online. We are continuing to work on all affected accounts that are currently locked or need to be rolled back, and we will provide the next update in the morning (eastern time). Thanks for the ongoing patience and understanding while we work through this issue.]]></content:encoded>
+Thanks for sticking with us and we'll let you know when the PTS is back online.<br>,Just wanted to let everyone know as of 5:10pm EDT, the PTS is back online. We are continuing to work on all affected accounts that are currently locked or need to be rolled back, and we will provide the next update in the morning (eastern time). Thanks for the ongoing patience and understanding while we work through this issue.,Good morning everyone,<br><br>
+As promised, we'd like to share an update to the PC NA server downtime we had Monday night.<br><br>
+First, to acknowledge that many of you lost playtime in the middle of an event, we will extend the Anniversary Jubilee event by two days on PC NA and EU to allow you a little extra time to obtain any items or event tickets. This puts the new end date for PC realms on April 25 at 9:59am EDT. Additionally, all PC NA players will be granted an extra 200 Seals of Endeavor.<br><br>
+For those who are still blocked from logging in, we are continuing to work on resolving the locked accounts and a small number of accounts will be unlocked later today. To set expectations, unlocking the remaining accounts and performing the necessary rollbacks will require server downtime and at that point, all remaining accounts will be unlocked at the same time. The <i>soonest </i>this will occur is by the end of the week but we will keep you posted on the timeline.<br><br>
+To that end, for anyone whose accounts have been affected by this issue and are currently locked or being rolled back, we will be emailing you an ESO game code so you can play ESO (either on the Live servers or the PTS) while you wait for your main account. Please note that this is not in any way intended to replace your current account, and we are continuing to work around the clock to restore all affected accounts. We are also discussing some additional in-game items we'd like to send to those that have their accounts locked, which we will share very soon.<br><br>
+Thanks again for your continued patience and understanding.,Just want to make sure this line was seen:<br><blockquote>
+<div>We are also discussing some additional in-game items we'd like to send to those that have their accounts locked, which we will share very soon.</div>
+</blockquote>
+<br>
+The game code and event extension is not the only thing we plan to do to make things right for those with locked accounts. We hope to share these details in the next day or so.,Hi All, we just wanted to clarify that everyone identified with a locked account as a result of the PTS issues - with the exception of a handful of players who seriously exploited - will receive future communication about additional in-game items.<br><br>,<blockquote>
+<div><a href="/en/profile/ZOS_GinaBruno">ZOS_GinaBruno</a> wrote: <a href="/en/discussion/comment/8091825#Comment_8091825"><span>»</span></a></div>
+<div>For those who are still blocked from logging in, we are continuing to work on resolving the locked accounts and a small number of accounts will be unlocked later today.</div>
+</blockquote>
+<br>
+Hi, everyone. We have completed the restoration work for the small number of accounts mentioned in the quote above. Those players have received an email notifying them that their accounts are now restored and available. Work on the rest is ongoing, and we will have another update for you tomorrow. Thank you for your continued patience.]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
