@@ -4,7 +4,7 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 17 Apr 2024 22:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 20:57:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</guid>
-            <pubDate>Wed, 17 Apr 2024 22:45:04 GMT</pubDate>
+            <pubDate>Thu, 18 Apr 2024 20:57:19 GMT</pubDate>
             <content:encoded><![CDATA[Hi all, we currently have taken down access to PTS. We encountered an issue with PTS once the server went live. This has also caused an issue with the PC NA live server, so we will be temporarily taking down the PC NA live server as well. Once we have more information, we will update everyone. Thanks for your patience as we begin investigations.,Hi everyone, just wanted to let you know investigations are ongoing. To set expectations as we head into the evening, we're looking at several hours of downtime. We'll let you know when we have an update to share.,Just checking in to let everyone know investigations are continuing, and both PC NA and PTS will remain under maintenance until further notice. We'll provide another update in an hour or two regardless of the status.,Hi everyone,<br><br>
 Thanks for your patience while we investigated the issues affecting PC NA and the PTS. As some of you discovered, we ran into a problem where character saves on the PTS were affecting PC NA, and we locked both PTS and PC NA immediately. We have temporarily locked the affected accounts until we can restore them to a good state and will be notifying those players via email, and will be rolling back progress on PC NA from those accounts to April 15th at 9:30am EDT. This will take several days to complete and we will alert any affected players when their account is accessible again.<br><br>
 To be clear, the rollback will primarily affect accounts that logged onto the PTS after maintenance on April 15th.<br><br>
@@ -35,7 +35,20 @@ The game code and event extension is not the only thing we plan to do to make th
 <div>For those who are still blocked from logging in, we are continuing to work on resolving the locked accounts and a small number of accounts will be unlocked later today.</div>
 </blockquote>
 <br>
-Hi, everyone. We have completed the restoration work for the small number of accounts mentioned in the quote above. Those players have received an email notifying them that their accounts are now restored and available. Work on the rest is ongoing, and we will have another update for you tomorrow. Thank you for your continued patience.]]></content:encoded>
+Hi, everyone. We have completed the restoration work for the small number of accounts mentioned in the quote above. Those players have received an email notifying them that their accounts are now restored and available. Work on the rest is ongoing, and we will have another update for you tomorrow. Thank you for your continued patience.,As mentioned in our <a href="https://forums.elderscrollsonline.com/en/discussion/comment/8091825/#Comment_8091825">post</a> yesterday, we plan to provide some additional in-game items for those that had their accounts locked due to this issue. This is in addition to the Anniversary Jubilee extension for all PC players until April 25 at 9:59am EDT, and the 200 Seals of Endeavor for PC NA players that were affected from the sudden downtime Monday evening.<br><br>
+The items we plan to grant to the accounts that were locked are as follows:
+<ul><li>16,000 Seals of Endeavor</li>
+<li>5x Glorious Anniversary Jubilee Gift Boxes</li>
+<li>Trueflame Replica Style Page</li>
+<li>Staff of Worms Replica Style Page</li>
+<li>Barbas Helmet Replica Style Page</li>
+<li>Sunna'rah Replica Style Page</li>
+<li>Ul'Vor Staff Replica Style Page</li>
+<li>25x Jubilee Confetti Packs</li>
+</ul>
+We do hope this helps lessen the inconvenience this situation has caused. We'll follow up when we know when these items will be delivered to you.<br><br>
+We'd also like to clarify that some locked accounts with an active ESO Plus membership through our account system <i>did </i>have their subscription renewal automatically cancelled; any time left from a current subscription is still active. Please note you will need to manually re-subscribe once you regain access to your account, should you decide to do so. If your subscription was through another storefront including Steam, Xbox or PlayStation, your subscription and renewal are still running. To make up for any lost subscription time, we will be granting one month of ESO Plus (including the crowns) to active ESO Plus subscribers whose accounts were locked as a result of this issue.<br><br>
+In the meantime, work continues on these locked accounts and the associated rollbacks. We hope to have an update on this by the end of the day and will keep you posted.<br>,As an addendum to the above post that details the items we plan to grant to the accounts that were locked, we want to clarify that we will be granting these on both EU <i>and</i> NA for anyone who lost access to their account.]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
