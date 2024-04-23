@@ -4,7 +4,7 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 19 Apr 2024 15:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 19:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</guid>
-            <pubDate>Fri, 19 Apr 2024 15:34:34 GMT</pubDate>
+            <pubDate>Mon, 22 Apr 2024 19:15:20 GMT</pubDate>
             <content:encoded><![CDATA[Hi all, we currently have taken down access to PTS. We encountered an issue with PTS once the server went live. This has also caused an issue with the PC NA live server, so we will be temporarily taking down the PC NA live server as well. Once we have more information, we will update everyone. Thanks for your patience as we begin investigations.,Hi everyone, just wanted to let you know investigations are ongoing. To set expectations as we head into the evening, we're looking at several hours of downtime. We'll let you know when we have an update to share.,Just checking in to let everyone know investigations are continuing, and both PC NA and PTS will remain under maintenance until further notice. We'll provide another update in an hour or two regardless of the status.,Hi everyone,<br><br>
 Thanks for your patience while we investigated the issues affecting PC NA and the PTS. As some of you discovered, we ran into a problem where character saves on the PTS were affecting PC NA, and we locked both PTS and PC NA immediately. We have temporarily locked the affected accounts until we can restore them to a good state and will be notifying those players via email, and will be rolling back progress on PC NA from those accounts to April 15th at 9:30am EDT. This will take several days to complete and we will alert any affected players when their account is accessible again.<br><br>
 To be clear, the rollback will primarily affect accounts that logged onto the PTS after maintenance on April 15th.<br><br>
@@ -51,7 +51,9 @@ We'd also like to clarify that some locked accounts with an active ESO Plus memb
 In the meantime, work continues on these locked accounts and the associated rollbacks. We hope to have an update on this by the end of the day and will keep you posted.<br>,As an addendum to the above post that details the items we plan to grant to the accounts that were locked, we want to clarify that we will be granting these on both EU <i>and</i> NA for anyone who lost access to their account.,Hi everyone,<br><br>
 As we head towards the weekend, we'd like to give you an update on where we stand with unlocking the remaining accounts. Work is still ongoing for any necessary data restoration and ensuring we remove all items and currency that may have made their way from the PTS to the PC NA server. This is a long and complicated process, and we want to ensure we get it right before moving onto the next step of unlocking these accounts.<br><br>
 On Monday, April 22, we have patches scheduled for both PTS and PC NA/EU. Once those maintenances are complete, we will discuss the best and soonest time to schedule the downtime needed on PC NA to perform the actual rollbacks and subsequently, unlock all remaining accounts. We'll let you know as soon as possible when plans are solidified but expect it to occur early next week. Additionally, the items we plan to grant to these accounts will be delivered at a later date, which we'll announce as soon as we know.<br><br>
-Once again, thank you for your ongoing patience and we'll follow up with everyone on Monday.<br>]]></content:encoded>
+Once again, thank you for your ongoing patience and we'll follow up with everyone on Monday.<br>,Hello everyone,<br><br>
+We completed the scheduled PC maintenance earlier today but maintenance on the PTS is ongoing. Additionally, we are continuing to perform extensive testing to ensure everything is correct once we perform the necessary rollbacks. Due to all this, in addition to already having console maintenance scheduled on Wednesday, currently the <i>earliest </i>we'll be able to schedule the needed maintenance on PC NA for the rollbacks and to unlock accounts is Thursday this week. We'll keep you posted as soon as we know the exact date and time.<br><br>
+In the meantime, given the length of time these accounts have been locked, we will also plan on granting the Cumberland Anniversary Attire costume to affected accounts, currently on day 21 in this month's daily login rewards.<br>]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
