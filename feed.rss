@@ -4,35 +4,15 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 20:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
         <item>
-            <title><![CDATA[Grab Your Tickets for the 2024 ESO Tavern in Germany Today!]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65965</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65965</guid>
-            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Meet up with your fellow fans to enjoy a weekend of mirth and merry fun during this year's ESO Tavern community event.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/bdc53e8669d3f6a4c05a29882a079080.jpg" /><p><i>Meet up with your fellow fans to enjoy a weekend of mirth and merry fun during this year's ESO Tavern community event.</i></p> 
-<p>The ESO Tavern returns once again this July as part of the year-long celebration of <i>ESO</i>'s 10-Year Anniversary Celebration! Since its inception in 2013, the ESO Tavern has remained the major European event for fans and developers alike to meet up and share their love for the game and community.</p> 
-<p>This year, the ESO Tavern is moving to Wasserburg Heldrungen in Thuringia, Germany, and will run from Saturday, July 13 at 2PM CEST, until Sunday, July 14 at 4PM CEST. Community members will gather at this gorgeous castle to mingle, take part in various fun activities, and enjoy live musical performances. </p> 
-<p>Throughout the weekend, Creative Director Rich Lambert, Art Director CJ Grebb, Project Lead Kira Ross Schlitt, Lead Encounter Designer Mike Finnigan, Lead Combat Designer Brian Wheeler, and Senior Community Manager Kai Schober will also be engaging with fans and celebrating <i>ESO</i>'s 10<sup>th</sup> anniversary. </p> 
-<p>Admissions will be managed via Eventbrite. Please follow <a href="https://www.eventbrite.de/e/eso-taverne-2024-tickets-875930500707" target="_blank">this link</a> to register for the ESO Tavern 2024. There are three distinct ticket packages available:</p> 
-<ul><li><b>The Weald package (€45)</b></li><ul><li>Includes a goodie bag with exclusive merch and codes, participation in all activities, access to musical performances, free campfire bread on a stick and marshmallows, as well as complimentary breakfast on Sunday.</li></ul><li><b>The Dawnwood package (€55)</b></li><ul><li>Includes everything from the Weald package plus one overnight stay in your own tent on the castle grounds, as well as car access to the site on arrival and departure.</li></ul><li><b>The Skingrad package (€75)</b></li><ul><li>Includes everything from the Weald package plus one overnight stay in one of the castle rooms*, and parking on the grounds.</li></ul></ul> 
-<p>After registering for a ticket, you will be placed on a waiting list. If you'd like to register as a group (or just generally increase your odds of admission), email us directly at <a href="mailto:community_de@bethsofteurope.com">community_de@bethsofteurope.com</a> with "Tavern 2024" in the subject line. Include the email address(es) you used to register on Eventbrite and let us know why you would love to be invited. If you are accepted, you will need to confirm and pay for your purchase within 28 days. Your ticket(s) will remain refundable up to seven days before the event.</p> 
-<p>Be sure to keep an eye out for further news on additional special guests and activities. Are you excited to continue celebrating <i>ESO</i>'s 10<sup>th</sup> birthday alongside your fellow fans in Germany? Let us know via <a href="https://twitter.com/TESOnline">X (Formerly Twitter</a>), <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
-<p><i>*Note that the accommodation in the castle consists of (comfortable) youth hostel rooms. A total of eight 2-bedrooms, four 3-bedrooms, five 4-bedrooms, six 5-bedrooms, four 6-bedrooms and two 8-bedrooms are available. If you are interested in the Skingrad package, please organize yourselves into groups in advance and send an email with the subject "Skingrad" to </i><a href="mailto:community_de@bethsofteurope.com"><i>community_de@bethsofteurope.com</i></a><i> so that we can allocate the beds fairly.</i></p>]]></content:encoded>
-            <category>News</category>
-            <category>Community</category>
-            <category>10th Anniversary</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/bdc53e8669d3f6a4c05a29882a079080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</guid>
-            <pubDate>Mon, 22 Apr 2024 19:15:20 GMT</pubDate>
+            <pubDate>Wed, 24 Apr 2024 20:59:41 GMT</pubDate>
             <content:encoded><![CDATA[Hi all, we currently have taken down access to PTS. We encountered an issue with PTS once the server went live. This has also caused an issue with the PC NA live server, so we will be temporarily taking down the PC NA live server as well. Once we have more information, we will update everyone. Thanks for your patience as we begin investigations.,Hi everyone, just wanted to let you know investigations are ongoing. To set expectations as we head into the evening, we're looking at several hours of downtime. We'll let you know when we have an update to share.,Just checking in to let everyone know investigations are continuing, and both PC NA and PTS will remain under maintenance until further notice. We'll provide another update in an hour or two regardless of the status.,Hi everyone,<br><br>
 Thanks for your patience while we investigated the issues affecting PC NA and the PTS. As some of you discovered, we ran into a problem where character saves on the PTS were affecting PC NA, and we locked both PTS and PC NA immediately. We have temporarily locked the affected accounts until we can restore them to a good state and will be notifying those players via email, and will be rolling back progress on PC NA from those accounts to April 15th at 9:30am EDT. This will take several days to complete and we will alert any affected players when their account is accessible again.<br><br>
 To be clear, the rollback will primarily affect accounts that logged onto the PTS after maintenance on April 15th.<br><br>
@@ -73,8 +53,38 @@ As we head towards the weekend, we'd like to give you an update on where we stan
 On Monday, April 22, we have patches scheduled for both PTS and PC NA/EU. Once those maintenances are complete, we will discuss the best and soonest time to schedule the downtime needed on PC NA to perform the actual rollbacks and subsequently, unlock all remaining accounts. We'll let you know as soon as possible when plans are solidified but expect it to occur early next week. Additionally, the items we plan to grant to these accounts will be delivered at a later date, which we'll announce as soon as we know.<br><br>
 Once again, thank you for your ongoing patience and we'll follow up with everyone on Monday.<br>,Hello everyone,<br><br>
 We completed the scheduled PC maintenance earlier today but maintenance on the PTS is ongoing. Additionally, we are continuing to perform extensive testing to ensure everything is correct once we perform the necessary rollbacks. Due to all this, in addition to already having console maintenance scheduled on Wednesday, currently the <i>earliest </i>we'll be able to schedule the needed maintenance on PC NA for the rollbacks and to unlock accounts is Thursday this week. We'll keep you posted as soon as we know the exact date and time.<br><br>
-In the meantime, given the length of time these accounts have been locked, we will also plan on granting the Cumberland Anniversary Attire costume to affected accounts, currently on day 21 in this month's daily login rewards.<br>]]></content:encoded>
+In the meantime, given the length of time these accounts have been locked, we will also plan on granting the Cumberland Anniversary Attire costume to affected accounts, currently on day 21 in this month's daily login rewards.<br>,Hi everyone,<br><br>
+Now that all scheduled maintenance has concluded on the PC, PTS and console megaservers, we'd like to outline next steps and what to expect in the coming days:<br><ul><li>Tomorrow, April 25 beginning at 6am EDT, we'll be taking the PC NA megaserver offline for maintenance. During this time, we'll be restoring affected PC NA accounts back to their state from Monday, April 15 at 9:30am EDT.</li>
+<li>Once PC NA maintenance concludes by 2pm EDT, anyone currently with a locked account due to the PTS issue last week, on any server, will once again have access to their accounts. You will also receive an email once your account is unlocked.</li>
+<li>Affected console players will have the items outlined in <a href="https://forums.elderscrollsonline.com/en/discussion/comment/8093012/#Comment_8093012">this post</a> upon logging into their accounts through in-game mail.</li>
+<li>On Monday, May 6, we will be granting the items outlined in <a href="https://forums.elderscrollsonline.com/en/discussion/comment/8093012/#Comment_8093012">this post</a> to affected PC NA and EU players, during the scheduled maintenance. Again, these items will be sent and claimed through in-game mail.</li>
+<li>Also on Monday, May 6, we will be granting the one month of ESO Plus with 1650 crowns to those whose accounts have been locked and have an active ESO Plus subscription through the ESO website.
+<ul><li>Note that this time will automatically be added to whatever remaining time you already have.</li>
+<li>For those that subscribe through another storefront including Steam, Xbox or PlayStation, we will keep you posted with any updates.</li>
+</ul></li>
+</ul>
+We'll let everyone know when maintenance is wrapping up tomorrow. Thanks, once again, for your ongoing patience.<br>]]></content:encoded>
             <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Grab Your Tickets for the 2024 ESO Tavern in Germany Today!]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65965</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65965</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Meet up with your fellow fans to enjoy a weekend of mirth and merry fun during this year's ESO Tavern community event.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/bdc53e8669d3f6a4c05a29882a079080.jpg" /><p><i>Meet up with your fellow fans to enjoy a weekend of mirth and merry fun during this year's ESO Tavern community event.</i></p> 
+<p>The ESO Tavern returns once again this July as part of the year-long celebration of <i>ESO</i>'s 10-Year Anniversary Celebration! Since its inception in 2013, the ESO Tavern has remained the major European event for fans and developers alike to meet up and share their love for the game and community.</p> 
+<p>This year, the ESO Tavern is moving to Wasserburg Heldrungen in Thuringia, Germany, and will run from Saturday, July 13 at 2PM CEST, until Sunday, July 14 at 4PM CEST. Community members will gather at this gorgeous castle to mingle, take part in various fun activities, and enjoy live musical performances. </p> 
+<p>Throughout the weekend, Creative Director Rich Lambert, Art Director CJ Grebb, Project Lead Kira Ross Schlitt, Lead Encounter Designer Mike Finnigan, Lead Combat Designer Brian Wheeler, and Senior Community Manager Kai Schober will also be engaging with fans and celebrating <i>ESO</i>'s 10<sup>th</sup> anniversary. </p> 
+<p>Admissions will be managed via Eventbrite. Please follow <a href="https://www.eventbrite.de/e/eso-taverne-2024-tickets-875930500707" target="_blank">this link</a> to register for the ESO Tavern 2024. There are three distinct ticket packages available:</p> 
+<ul><li><b>The Weald package (€45)</b></li><ul><li>Includes a goodie bag with exclusive merch and codes, participation in all activities, access to musical performances, free campfire bread on a stick and marshmallows, as well as complimentary breakfast on Sunday.</li></ul><li><b>The Dawnwood package (€55)</b></li><ul><li>Includes everything from the Weald package plus one overnight stay in your own tent on the castle grounds, as well as car access to the site on arrival and departure.</li></ul><li><b>The Skingrad package (€75)</b></li><ul><li>Includes everything from the Weald package plus one overnight stay in one of the castle rooms*, and parking on the grounds.</li></ul></ul> 
+<p>After registering for a ticket, you will be placed on a waiting list. If you'd like to register as a group (or just generally increase your odds of admission), email us directly at <a href="mailto:community_de@bethsofteurope.com">community_de@bethsofteurope.com</a> with "Tavern 2024" in the subject line. Include the email address(es) you used to register on Eventbrite and let us know why you would love to be invited. If you are accepted, you will need to confirm and pay for your purchase within 28 days. Your ticket(s) will remain refundable up to seven days before the event.</p> 
+<p>Be sure to keep an eye out for further news on additional special guests and activities. Are you excited to continue celebrating <i>ESO</i>'s 10<sup>th</sup> birthday alongside your fellow fans in Germany? Let us know via <a href="https://twitter.com/TESOnline">X (Formerly Twitter</a>), <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
+<p><i>*Note that the accommodation in the castle consists of (comfortable) youth hostel rooms. A total of eight 2-bedrooms, four 3-bedrooms, five 4-bedrooms, six 5-bedrooms, four 6-bedrooms and two 8-bedrooms are available. If you are interested in the Skingrad package, please organize yourselves into groups in advance and send an email with the subject "Skingrad" to </i><a href="mailto:community_de@bethsofteurope.com"><i>community_de@bethsofteurope.com</i></a><i> so that we can allocate the beds fairly.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>10th Anniversary</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/bdc53e8669d3f6a4c05a29882a079080.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Take a Look at What Players are Saying About the 10th Anniversary Celebration Event!]]></title>
