@@ -4,7 +4,7 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 24 Apr 2024 20:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 18:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</guid>
-            <pubDate>Wed, 24 Apr 2024 20:59:41 GMT</pubDate>
+            <pubDate>Thu, 25 Apr 2024 18:04:45 GMT</pubDate>
             <content:encoded><![CDATA[Hi all, we currently have taken down access to PTS. We encountered an issue with PTS once the server went live. This has also caused an issue with the PC NA live server, so we will be temporarily taking down the PC NA live server as well. Once we have more information, we will update everyone. Thanks for your patience as we begin investigations.,Hi everyone, just wanted to let you know investigations are ongoing. To set expectations as we head into the evening, we're looking at several hours of downtime. We'll let you know when we have an update to share.,Just checking in to let everyone know investigations are continuing, and both PC NA and PTS will remain under maintenance until further notice. We'll provide another update in an hour or two regardless of the status.,Hi everyone,<br><br>
 Thanks for your patience while we investigated the issues affecting PC NA and the PTS. As some of you discovered, we ran into a problem where character saves on the PTS were affecting PC NA, and we locked both PTS and PC NA immediately. We have temporarily locked the affected accounts until we can restore them to a good state and will be notifying those players via email, and will be rolling back progress on PC NA from those accounts to April 15th at 9:30am EDT. This will take several days to complete and we will alert any affected players when their account is accessible again.<br><br>
 To be clear, the rollback will primarily affect accounts that logged onto the PTS after maintenance on April 15th.<br><br>
@@ -63,7 +63,7 @@ Now that all scheduled maintenance has concluded on the PC, PTS and console mega
 <li>For those that subscribe through another storefront including Steam, Xbox or PlayStation, we will keep you posted with any updates.</li>
 </ul></li>
 </ul>
-We'll let everyone know when maintenance is wrapping up tomorrow. Thanks, once again, for your ongoing patience.<br>]]></content:encoded>
+We'll let everyone know when maintenance is wrapping up tomorrow. Thanks, once again, for your ongoing patience.<br>,Hi all, just to give you a quick update, maintenance is going well and we expect to open soon. We'll post here once the servers are open and accounts have been unlocked. Thanks!,PC NA is opening now and all previously locked accounts are now available. Please let us know if you run into any unexpected issues with your accounts, otherwise we will follow up as we approach the next update on May 6.,Everyone, we need to take PC NA offline to investigate an issue that just surfaced. Please stand by for further updates.,Thanks for everyone's patience with the sudden downtime; we needed to restore the data from a small number of accounts and have successfully done so. We should be re-opening the PC NA megaserver very soon!]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
