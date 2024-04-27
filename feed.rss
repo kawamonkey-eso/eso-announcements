@@ -4,10 +4,46 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 25 Apr 2024 18:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Gold Road Chapter & Update 42 Now Live on the PC/Mac Public Test Server!]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65909</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65909</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wander paths untraveled by testing the new Gold Road Chapter and Update 42 base-game patch on the PC/Mac Public Test Server!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/b3ce5e4d284add2fef4a606f415460ad351985.jpg" /><p><i>Wander paths untraveled by testing the new Gold Road Chapter and Update 42 base-game patch on the PC/Mac Public Test Server!</i></p> 
+<p>It's that time again—time to get an early look at <i>ESO</i>'s upcoming content and make the game better while you do so! The Public Test Server (PTS) has been updated to include the content from the <i>Gold Road</i> Chapter, including the new Scribing system, as well as the Update 42 base-game patch. To access the PTS environment, go to the Settings menu within the PC/Mac <i>ESO</i> launcher by toggling the “Show Public Test Environment” option. You can then download and access the test environment. Don't forget to leave feedback and report any bugs you come across by typing “/feedback” or “/bug” in chat.</p> 
+<p>The PTS is open to any PC/Mac players, regardless of whether they own <i>ESO</i> or have pre-purchased <i>Gold Road</i>, so if you'd like to get your first look at the upcoming Chapter and more, be sure to jump in! </p> 
+<p>For everything you need to know about <i>Gold Road</i>, Update 42, and this particular test, visit the <a href="https://forums.elderscrollsonline.com/en/discussion/656454/">PTS Patch Notes</a> on the official <i>ESO </i>forums.</p> 
+<p>Are you excited for your first in-game look at West Weald and the all-new Daedric Prince? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, or <a href="https://www.facebook.com/ElderScrollsOnline">Facebook</a>!</p> 
+<p><i>The Elder Scrolls Online: Gold Road and Update 42 arrive June 3 on PC/Mac, and June 18 for Xbox and PlayStation consoles.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>Update 42</category>
+            <category>Gold Road</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/b3ce5e4d284add2fef4a606f415460ad351985.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enjoy Mountain Dew to Unlock a Free Mount, Experience Scroll, & More]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/65855</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/65855</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Get your hands on some Mountain Dew and you'll unlock in-game rewards, including the Karthwolf Charger mount, XP scrolls, and more.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/fb1343a5009acb0888fcc83900e328e7289809.jpg" /><p><i>Get your hands on some Mountain Dew and you'll unlock in-game rewards, including the Karthwolf Charger mount, XP scrolls, and more. </i></p> 
+<p>Right now, when you grab specially marked bottles of Mountain Dew, you can earn unique codes that allow you to unlock free in-game <i>ESO</i> items including: </p> 
+<ul><li>Karthwolf Charger mount</li><li>Gold Coast Experience Scroll*</li></ul>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/5ac1bd7a337abd4f8b5d6ed793293c3c.jpg" />
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/2af627112155ed212f3db0dbaabf8d6b.jpg" />
+<p style="text-align: center;"><i>Unlock these rewards with Mountain Dew!</i></p> 
+<p>To get started, visit the <a href="https://www.mtndewgaming.com/">Mountain Dew Gaming Rewards official website</a>, select Enter Code, register an account, and follow the prompts. You can then enter codes from any specially marked bottle of Mountain Dew and claim gaming rewards, including the above mount and experience scroll plus other Xbox goodies. Note that this promotion is available only for those who reside in North America. </p> 
+<p>Enjoy a refreshing Mountain Dew and you'll unlock points for in-game rewards—easy! Are you planning to get your hands on the Karthwolf Charger mount and experience scroll? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
+<p><i>*Note: Gold Coast Experience Scrolls must be claimed within 14 days from in-game mail</i></p>]]></content:encoded>
+            <category>News</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/fb1343a5009acb0888fcc83900e328e7289809.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Temporarily taking down the PTS & the PC NA Live Server]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/656543/temporarily-taking-down-the-pts-the-pc-na-live-server</link>
@@ -1000,67 +1036,6 @@ In an effort to collate issues discovered after today's launch of Update 41, bel
             <category>News</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/2b931d95b37257e68241746103ac7a79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Ready for the 10th Anniversary Celebration by Claiming Orsinium (and More) for Free]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65645</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65645</guid>
-            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[The 10th Anniversary Celebration Event is kicking off this April, but we're getting the fun started early by giving you the Orsinium DLC (and more) free during the month of March!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/04489456c1a1844017ca36ecd7f2a7a7.jpg" /><p><i>The 10<sup>th</sup> Anniversary Celebration Event is kicking off this April, but we're getting the fun started early by giving you the Orsinium DLC (and more) free during the month of March! </i></p> 
-<h2>Discover Wrothgar for Free</h2> 
-<p><i>The Elder Scrolls Online</i>'s 10<sup>th</sup> Anniversary Celebration is right around the corner, but we're kicking the party off early by giving away the <i>Orsinium</i> DLC FREE as part of March 2024's upcoming Daily Login Rewards. </p> 
-<p>The <i>Orsinium</i> DLC is a long-time favorite of the #ESOFam and developers alike, and now anybody who <b>logs into the game twice</b> during the month of March can claim it for free. </p> 
-<p>Join us in exploring Orsinium, the long-abandoned capital city of the Orcs, and embark on an epic story where you must assist King Kurog in uniting the clans under a single banner. The <i>Orsinium</i> DLC gives you access to the Wrothgar zone (filled with quests, world bosses, public dungeons, delves, and more) and storyline in addition to the (in)famous Maelstrom Arena, and again, it's <b>all completely free</b>! </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/650311c62c5683fe975a632d32a6c258.jpg" />
-<p style="text-align: center"><i>Help unite the clans in Orsinium</i></p> <p>However, <i>Orsinium</i> isn't the only amazing reward you can claim this coming month. There's also a special Orc-themed pet, mount, and more. </p> <p>Check out the key highlights from March 2024's Daily Login Rewards <a href="https://www.elderscrollsonline.com/en-us/news/post/65635" target="_blank;">in this blog</a>, and keep a close eye out for even more amazing login rewards throughout the 10<sup>th</sup> Anniversary Celebration. </p> <h2>Earn Bonus Collectibles in Orsinium</h2> <p>In addition to being able to claim <i>Orsinium</i>, <b>from March 4 at 10AM ET until April 1 at 10AM ET</b>, we're also adding a series of free Crown Store collectibles that you can unlock by completing various zone achievements. </p> <p>Complete the <i>Orsinum</i> main questline and earn the Kingmaker achievement, and you can claim the fearsome Inkfur Ursauk mount. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/53135d127f9a0615f887aa071fd39b17.jpg" />
-<p style="text-align: center;"><i>Inkfur Ursauk mount</i></p> 
-<p>Defeat four different Wrothgar world bosses to earn the Defender of Orsinium achievement, and you'll also be able to claim the Eternity Tunic with Pants, the “Brilliance” Brocade Robes, and the Summit Lord's Silken Robes costumes—showcasing some of Orsinium's latest fashions! </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/b0fe63cdaaf371ea5b7cfc78a7de4752.jpg" />
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/9e718811d41ba7205b58e73be9ef1c6b.png" />
-<p style="text-align: center;"><i>Eternity Tunic with Pants &amp; “Brilliance” Brocade Robes costumes</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/d440a779bcb87f0171a370de37310e26.jpg" />
-<p style="text-align: center;"><i>The Summit Lord's Silken Robes costume</i></p> 
-<p>You can unlock these collectibles as free Crown Store items only via <i>Orsinium</i>'s achievements and only from March 4 at 10AM ET until April 1 at 10AM ET, so don't miss out on your chance to get it all for free. If you have already unlocked these achievements, great! You can claim these additional rewards when they arrive in the Crown Store.</p> 
-<h2>Celebrate Early with Us! </h2> 
-<p>Don't worry, this is only the beginning of the 10<sup>th</sup> Anniversary fun. You can discover even more amazing ways to celebrate (and be rewarded for doing so) a decade of <i>ESO</i> with us in April, when we kick off the 10<sup>th</sup> Anniversary Celebration in earnest. Are you excited to begin the festivities with us a little early? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p>]]></content:encoded>
-            <category>News</category>
-            <category>10th Anniversary</category>
-            <category>Orsinium</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/04489456c1a1844017ca36ecd7f2a7a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily Login Rewards–March 2024]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65635</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65635</guid>
-            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Unlock a fan- and developer-favorite DLC, a mount, and much more via March 2024's Daily Login Rewards!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/2bb1b90c5a6771eee0f8d16c42924832.jpg" /><p><i>Unlock a fan- and developer-favorite DLC, a mount, and much more via March 2024's Daily Login Rewards!</i></p> 
-<p>This month's Daily Login Rewards introduce a host of collectibles and items, including full access to the <i>Orsinium</i> DLC game pack! However, <i>Orsinium</i> isn't the only amazing reward you can claim this March. Check out even more Malacath-approved items below. Want to find out more about Daily Login Rewards? Be sure to read <a href="https://help.elderscrollsonline.com/#en/answer/41950">this help article</a>.</p><p><br></p> 
-<p><b>Scalecaller Crown Crates—Days 1, 3-6</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/2932ada73131bbbbcb240aec61327ca8.jpg" />
-<p style="text-align: center;"><i>Open these deathly crates</i></p> 
-<p>Claim a selection of Scalecaller Crown Crates, first released in 2018, and discover items and collectibles touched by the sinister forces of Scalecaller Peak and Fang Lair. This includes <b>10 regular Scalecaller Crown Crates</b> in total. You can preview the kinds of items available in Scalecaller Crown Crates <a href="https://www.elderscrollsonline.com/en-us/news/post/26329">in this blog</a>.</p><p><br></p><p> </p> 
-<p><b>Orsinium DLC—Day 2</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/0a448012cb939787501f96e823862466.jpg" />
-<p style="text-align: center;"><i>Venture into Orsinium for free</i></p> <p>As mentioned above, you can discover the home of the Orcs and explore the snow-capped region of Wrothgar with the <i>Orsinium</i> DLC. First released in 2015, <i>Orsinium</i> was <i>ESO</i>'s first major story and zone DLC and could be considered the foundation for the game's later Chapter releases. You can claim this legendary DLC for free on Day 2!</p><p>Already have access to <i>Orsinium </i>via ESO Plus membership? Don't worry, ALL ESO Plus members can claim the <i>Scions of Ithelia</i> Collector's Bundle for free during a two-week window starting on each specific platform's launch (March 11 for PC/Mac and March 26 for Xbox and PlayStation consoles). The <i>Scions of Ithelia</i> Collector's Bundle grants access to the dungeon DLC game pack, the Ashbone Sabre Cat mount, the Ashbone Echalette pet, and five Crown Experience Scrolls. That's 4000 crowns of value—don't forget to claim it from the Crown Store while it's available!</p><p><br></p><p> </p> <p><b>Seals of Endeavor—Day 7</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/10/cbf054f9fa4122ee9be26996607da8d2.jpg" />
-<p style="text-align: center;"><i>No actual endeavor required!</i></p> 
-<p>Seal the deal on that Crown Crate item you've had your eye on with a HUGE number of Seals of Endeavor. How huge? You can claim a whopping <b>500 Seals </b>on Day 7! You can learn more about Seals of Endeavor <a href="https://www.elderscrollsonline.com/en-us/news/post/59925">in this blog</a>.</p><p><br></p> 
-<p><b>Craglorn Welwa Pet—Day 14</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/58311e5a500e1acb7f093b5b44475f4e.jpg" />
-<p style="text-align: center;"><i>Fierce AND kind of adorable?</i></p> 
-<p>While native to nearby Craglorn, the Craglorn Welwa pet makes a suitable companion as you begin your adventures in Wrothgar. Just make sure it's well fed before you try to pet it!</p><p><br></p> 
-<p><b>Iron Orc Welwa Mount—Day 21</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/3f80091c12b65a10e38801d9bceef94a.jpg" />
-<p style="text-align: center;"><i>Built and bred for battle (and you)</i></p> 
-<p>Few foes would dare stand in your way while you're charging into battle upon an Iron Orc Welwa mount—you can barrel through friend and foe alike atop this near-indestructible beast. If only you could take it into the Maelstrom Arena …</p><p><br></p> 
-<p>Of course, these are but a few of the goodies you can claim this month. To review the full list, log in to the game on March 1! There's even more 10<sup>th</sup> Anniversary-related fun arriving in March, so <a href="https://www.elderscrollsonline.com/en-us/news/post/65645" target="_blank">check out this blog</a> for all the details. </p> 
-<p>Are you ready to venture into the home of the Orcs with the <i>Orsinium </i>DLC? Perhaps you're most excited about that battle-tested mount? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p>]]></content:encoded>
-            <category>News</category>
-            <category>Daily Rewards</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/02/2bb1b90c5a6771eee0f8d16c42924832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
