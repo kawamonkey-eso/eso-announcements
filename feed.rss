@@ -4,10 +4,157 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 31 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 19:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[PC/Mac Update 42 Known Issues]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/659638/pc-mac-update-42-known-issues</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/659638/pc-mac-update-42-known-issues</guid>
+            <pubDate>Mon, 03 Jun 2024 19:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone,<br><br>
+In an effort to collate issues discovered after today's launch of Update 42, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.
+<ul><li><b>Cannot travel to Eyevea Wayshrine</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: Attempting to jump to this Wayshrine will still deduct gold</li>
+</ul></li>
+<li><b>Resource bars appear to be buffed when buffs are not active</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: This is just a UI/visual issue</li>
+</ul></li>
+<li><b>Health bars have a permanent glow</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: This is just a UI/visual issue</li>
+</ul></li>
+<li><b>Game can occasionally crash</b> (both in-game or prior to logging in)
+<ul><li>STATUS: Investigating</li>
+</ul></li>
+<li><b>A second Arcane Knot can appear in rare circumstances if the player character holding the Knot dies to damage from the Knot</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+</ul></li>
+<li><b>Abilities appear to be duplicating on the ability bar after using a Skill Respec Scroll and swapping skills on your ability bar</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: This is just a visual issue affecting the icon; the correct ability will still be used</li>
+</ul></li>
+<li><b>Wrathsun Staff and Basalt Blooded Staff visuals are incorrect</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: This visual issue may be all staves with this specific model - we are investigating.</li>
+</ul></li>
+<li><b>Incorrect directions out of Scholarium during Scribing tutorial</b>
+<ul><li>STATUS: To be fixed in Update 43</li>
+<li>After entering the Scholarium during the Scribing tutorial, while on other quests you are being directed to leave the area via a portal that hasn't yet been unlocked</li>
+</ul></li>
+<li><b>Dragon is occasionally missing during Wing of the Dragon quest</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+<li>NOTE: You can still interact with an invisible Dragon, should she not appear</li>
+</ul></li>
+<li><b>"How To Scribe" Tutorial Book is currently set as an item instead of a Collectible</b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+</ul></li>
+<li><b>One of the components required for the achievement "Gold Sword for Hire" states "Gold Road Sojourner" instead of the intended "Gold Road Professional" </b>
+<ul><li>STATUS: To be fixed in upcoming incremental</li>
+</ul></li>
+</ul>]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome To Gold Road! Your One Stop Shop For Gold Road Launch Content]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/659603/welcome-to-gold-road-your-one-stop-shop-for-gold-road-launch-content</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/659603/welcome-to-gold-road-your-one-stop-shop-for-gold-road-launch-content</guid>
+            <pubDate>Mon, 03 Jun 2024 14:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://us.v-cdn.net/5020507/uploads/editor/mh/sq1zda5ebpdj.jpg"><br>
+Hello everyone and welcome to The Elder Scrolls Online: Gold Road Launch Day for PC/Mac! We hope everyone is excited to enter the West Weald for the first time. There are plenty of new content to tackle, like Scribing. And remember, we also have Ithelia's secrets to uncover, a brand new Daedric Prince to discover and learn about! To see everything Gold Road and Update 42 have to offer, <a href="https://forums.elderscrollsonline.com/en/discussion/659550/pc-mac-patch-notes-v10-0-5-gold-road-update-42#latest">please check out our patch notes, here</a>.<br><br>
+As with any launch, our goal is to make it as smooth as possible for everyone to hop in and play. However, unintended issues sometimes come up. If you run into any issues, please be sure to post your issues in the <a href="https://forums.elderscrollsonline.com/en/categories/bug-reports">bug reports section</a> of the forum. You can also keep update to date on our responses to bugs and other issues <a href="https://forums.elderscrollsonline.com/en/tracker">here, on the Dev Tracker</a>. We keep this section up to date as we get information to share.<br><br>
+We do have an active list of known issues for Gold Road. You can view the list <a href="https://forums.elderscrollsonline.com/en/discussion/659638/pc-mac-update-42-known-issues#latest">here</a>.<br><br>
+As mentioned earlier, with Gold Road, you will now have access to Scribing! This precursor to spell crafting will give you flexibility in ability customization. We're excited to see what abilities all of you create with Scribing. And as with any new system, there is always room for improvement. So please make sure to sound off on what can be improved here on the forum!<br><br>
+As many of you are starting your journey into Gold Road, we have a list of several blog posts you can reference to catch up on any missing information regarding the chapter. We have those listed out below.
+<ul><li><a href="https://www.elderscrollsonline.com/en-us/news/post/65899">Scribing 101 Dev Video</a></li>
+<li><a href="https://www.elderscrollsonline.com/en-us/news/post/66091">Gold Road Preview- Designing Ithelia and Gold Road</a></li>
+<li><a href="https://www.elderscrollsonline.com/en-us/news/post/66085">Gold Road Preview- Lucent Citadel and Mirrormoor Incursions</a></li>
+<li><a href="https://www.elderscrollsonline.com/en-us/news/post/66003">Gold Road Preview- West Weald</a></li>
+<li><a href="https://www.elderscrollsonline.com/en-us/news/post/66155">June ESO Survival Guide</a></li>
+<li><a href="https://www.elderscrollsonline.com/en-us/news/post/66071">Anniversary Spotlight- Earn A Multi-Rider Mount With Scribing</a></li>
+<li>Meet the Character- <a href="https://www.elderscrollsonline.com/en-us/news/post/65995">Nahlia</a> and <a href="https://www.elderscrollsonline.com/en-us/news/post/65981">Tribune Alea</a></li>
+</ul><br>
+Lastly, if you are looking for a bit of hype or a last nudge to hop into Gold Road, you should check out our the Final Gameplay trailer below. Thanks everyone for taking the time to read this and welcome to Gold Road!<br><span><span data-youtube="youtube-vw8UuwAAd8U?autoplay=1"><span><a href="https://www.youtube.com/watch?v=vw8UuwAAd8U"><img src="https://img.youtube.com/vi/vw8UuwAAd8U/0.jpg" width="640" height="385" border="0" style="height: 385px; width: 640px">https://youtu.be/vw8UuwAAd8U</a></span><span></span></span></span>]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[The Elder Scrolls Online: Gold Road & Update 42 Now Live on PC/Mac]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66077</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66077</guid>
+            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Uncover the mystery of the Forgotten Prince with the Gold Road Chapter and Update 42 base-game patch, now live on PC/Mac!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/ab7441b3abfa4ddc788528fb315ab9e1.jpg" /><p><i>Uncover the mystery of the Forgotten Prince with the Gold Road Chapter and Update 42 base-game patch, now live on PC/Mac!</i></p> 
+<p><i>The Elder Scrolls Online: Gold Road</i> is now live on PC/Mac, Steam, and Epic Game Store. This new Chapter for <i>The Elder Scrolls Online</i> introduces a new zone to explore, West Weald, along with a new system to master called Scribing. It also concludes the story of Ithelia, the Forgotten Prince, which began with 2023's Shadows Over Morrowind saga. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/459638ba6ddd36869757f1ff8004d442.jpg" />
+<p style="text-align: center;"><i>The Forgotten Prince returns</i></p> 
+<p>In addition to the Chapter, this release also includes the U42 base-game patch, introducing a host of bug fixes, balance changes, and other improvements free for all <i>ESO </i>players. You can view the full patch notes for <i>Gold Road</i> and Update 42 <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">on our official forums</a>. </p> 
+<h2>Gold Road Chapter</h2> 
+<p>In <i>The Elder Scrolls Online: Gold Road</i> you can venture into the heart of Colovian Imperial culture as you unravel the mystery of the return of a never-before-seen Daedric Prince—Ithelia. While <i>Gold Road</i> continues (and concludes) the Shadow Over Morrowind narrative that began in 2023, you can experience and enjoy the latest Chapter's storyline without having to play any of the game's previous content. </p> 
+<p><b>West Weald Zone</b></p> 
+<p>Located along Cyrodiil's southwest border and neighboring Valenwood and the Gold Coast, this new Chapter allows you to <a href="https://www.elderscrollsonline.com/en-us/news/post/66003">explore West Weald</a>, a wealthy Imperial province thrown into chaos. Home to the proud and cosmopolitan Colovians, West Weald has found itself besieged by mysterious unknown Daedra. Even worse, a large part of the region has seemingly overnight become overgrown by the vast jungles of Valenwood, resulting in the migration of local Wood Elves. </p>
+<a href="https://youtube.com/v/znogunEB5V0?autoplay=1&rel=0"><img src="https://i.ytimg.com/vi/znogunEB5V0/maxresdefault.jpg" /></a>
+<p>Within this new zone, you can explore the city of Skingrad in addition to both the Gold Road region and emergent Dawnwood, where you'll discover a multitude of new side quests, world bosses, delves, public dungeons, and more. Discover more about the zone in <a href="https://www.elderscrollsonline.com/en-us/news/post/66003">this preview blog</a>. </p> 
+<p><b>Scribing System</b></p> 
+<p>An all-new system introduced with <i>Gold Road</i>, Scribing grants you the ability to craft and <a href="https://www.elderscrollsonline.com/en-us/news/post/66057">customize your own handmade abilities</a>. With Scribing, you can select a base Grimoire and tailor it with scripts to create an ability that perfectly fits your playstyle and build. </p>
+<a href="https://youtube.com/v/_yWOpQ6_T0M?autoplay=1&rel=0"><img src="https://i.ytimg.com/vi/_yWOpQ6_T0M/maxresdefault.jpg" /></a>
+<p>With this new system, you'll discover a robust questline that has you restore an ancient Scholarium while diving deep into the mysteries of magicka in Tamriel. Whether you're looking for greater power, versatility, or roleplaying opportunities, Scribing introduces a powerful new way to tailor your builds and play your way. </p> 
+<p><b>Group Activities</b></p> 
+<p>In addition to the zone's multiple world bosses, delves, and public dungeons, <i>Gold Road</i> also introduces two new group activities to challenge you and your allies: the Lucent Citadel and Mirrormoor Incursions. </p> 
+<p>In the Lucent Citadel Trial, you and your large group (12 players total) must venture into a long-forgotten Daedric vault within the realm of Fargrave, contend with its unique boss encounters, and seek out the mysterious Arcane Knot. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/82f94f90370d384feb55d981391e73aa.jpg" />
+<p style="text-align: center;"><i>Team up to defend West Weald</i></p> 
+<p>Mirrormoor Incursions are a new type of world event plaguing West Weald and threatening to overwhelm the region with the minions of Ithelia. You can discover more about both activities in <a href="https://www.elderscrollsonline.com/en-us/news/post/66085">this preview blog</a>. </p> 
+<p><b>New Rewards</b></p> 
+<p>In addition to a new zone to explore, stories to experience, and challenges to overcome, the <i>Gold Road</i> Chapter is full of new Achievements, items, and collectibles for you to loot and earn. </p> 
+<p>Specifically, West Weald features 10 powerful item sets to loot and craft in addition to three unique Mythic items to uncover using the Antiquities system. Completing Achievements can also earn you a wide range of collectibles, such as style pages for King Nantharion's Royal Armor or even the Wildburn Lynx mount. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/ad5fa21a49f122ad3b119ca16cf333b5.jpg" />
+<p style="text-align: center;"><i>New collectibles, styles, and more</i></p> 
+<p>Rewards also include fragments for the all-new Tales of Tribute patron and deck, Saint Alessia, in addition to a new type of collectible, called Skill Styles. Skill Styles are cosmetic collectibles that allow you to change the visuals for your existing abilities. With <i>Gold Road</i> and Update 42, there are 22 Skill Styles for you to unlock and apply from various sources, including quest rewards, public dungeons, and other activities. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/1d948b29fef327a9c9c14a8ce284f2c1.jpg" />
+<p style="text-align: center;"><i>Great challenges lead to great rewards!</i></p> 
+<p>Finally, <i>Gold Road</i> and Update 42 also introduces the <a href="https://www.elderscrollsonline.com/en-us/news/post/66017">Adventurer Across a Decade</a> Achievement, celebrating <i>ESO</i>'s 10-Year Anniversary by granting you the Fractured Glory skin for having completed the game's story content (including <i>Gold Road</i>) throughout its long history. </p> 
+<h2>Purchase Details &amp; Requirements</h2> 
+<p><i>The Elder Scrolls Online: Gold Road</i> is available <a href="https://www.elderscrollsonline.com/en-us/joinus">to buy now</a>, with four editions:</p> 
+<ul><li><i>The Elder Scrolls Online Deluxe Collection: Gold Road</i> </li><li><i>The Elder Scrolls Online Collection: Gold Road</i> </li><li><i>The Elder Scrolls Online Deluxe Upgrade: Gold Road</i> </li><li><i>The Elder Scrolls Online: Upgrade: Gold Road</i> </li></ul> 
+<p>If you are a brand-new or lapsed player, both <i>Collection </i>editions include the base game, the <i>Gold Road</i> Chapter, and ALL previous Chapters. If you already own <i>ESO</i> and its previous Chapters, both <i>Upgrade </i>editions grant access to the <i>Gold Road</i> Chapter. Note that to run <i>Gold Road</i> on PC/Mac, your machine needs to meet the game's requirements here: <a href="https://www.elderscrollsonline.com/en-us/newplayerguide/minspec">PC</a>, <a href="https://www.elderscrollsonline.com/en-us/newplayerguide/minspec">Mac</a>.</p> 
+<p>In addition to the game, both versions of <i>Gold Road</i> are also available in <i>Deluxe</i> editions, which feature a unique mount, pet, memento, outfit style, and emotes.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/01/be77a18cfe66c3cfa77b66b9c1e021ca.jpg" />
+<p style="text-align: center;"><i>Gold Road Deluxe Edition items</i></p> 
+<p>To find out more about <i>Gold Road</i> and its editions, <a href="https://www.elderscrollsonline.com/en-us/news/post/65365">check out this blog</a>.</p> 
+<h2>Getting Started in Gold Road</h2> 
+<p>Ready to venture into West Weald? You can travel to the new zone and begin your adventure in the following ways: </p> 
+<p><b>Via Wayshrine</b></p> 
+<p>You can teleport directly to the zone by accessing your map, selecting Gold Road, and then selecting the automatically unlocked Skingrad Vineyards Wayshrine.</p> 
+<p><b>Via the Gold Road Main Quest</b></p> 
+<p>You can have the game lead you to West Weald by picking up the Chapter's first main story quest, “Paths of Chaos.” You can find it by navigating to your Collections and then viewing Stories, selecting Chapter, and then Gold Road. </p> 
+<p><b>Via the Tutorial</b></p> 
+<p>You can also travel to West Weald by creating a new character and completing the tutorial. At the end of the tutorial experience, you can select the zone as your destination and begin.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/178df5daaf8d02cd7580ae91c5a6519b.jpg" />
+<p style="text-align: center;"><i>Adventure awaits in Gold Road</i></p> 
+<p>Note that there are no level or story requirements for the <i>Gold Road </i>Chapter, allowing you to jump right in with any of your characters—existing or brand new! </p> 
+<h2>Update 42 </h2> 
+<p>Launching in tandem with Gold Road is Update 42, a free base-game patch for all <i>ESO</i> players. Update 42 introduces a series of balance changes, fixes, and additions with no purchase required (beyond access to the game itself). </p> 
+<p><b>Improvements to In-game Mail</b></p> 
+<p>With Update 42, we've made a series of improvements to in-game mail, focusing on its interface and notifications. This includes the addition of categories (player mail, system mail, and system alerts), improved sorting, attachment preview, and inventory space display. </p> 
+<p>This update also adds a “Delete After Claim” option (helping you keep inboxes under control), a “Take All” function, and notifications for mail with attachments. In addition, messages received from your Hirelings will now be automatically recorded in the Lore Library under “Hireling Correspondence.”</p> 
+<p>Finally, as part of the team's efforts to improve server performance and stability, Update 42's mail changes also include reduced expiration times based on the mail types. </p> 
+<p><b>Environment Sustainability Features</b></p> 
+<p>With this update, we're joining Team Xbox in reducing our game's environmental impact with the following new features:</p> 
+<ul><li>Reduced GPU use during periods of inactivity for PC/Mac, Xbox Series X|S, and PlayStation 5. </li><ul><li>Reducing resolution and imposing a framerate cap during inactivity. </li></ul><li>Screen dimming during periods of inactivity on PC/Mac. </li><ul><li>Note that this already occurs on consoles.</li></ul><li>Reduced GPU use in Contextual Menus for Xbox Series X|S and PlayStation 5. </li><ul><li>When viewing most menus on consoles, the framerate is capped.</li></ul></ul> 
+<p>Note that the improvements to Xbox and PlayStation consoles won't occur until Update 42 launches on those platforms on June 18. </p> 
+<p>For more on Xbox's sustainability efforts, <a href="https://www.xbox.com/en-US/community/sustainability">visit this page</a>. </p> 
+<p>For everything changing and coming with Update 42, be sure to check out the <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">patch notes on the official forums</a>. </p> 
+<h2>Forgotten No More</h2> 
+<p>The Forgotten Prince walks Tamriel, and chaos follows in her wake. Investigate the emergence of Ithelia and confront her scions, explore the Colovian region of West Weald, and unlock and customize new abilities with the Scribing System in <i>The Elder Scrolls Online: Gold Road</i>. Tell us if you're excited to dive deep into this new Chapter via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p> 
+<p><i>The Elder Scrolls Online: Gold Road is now live on PC/Mac and arrives June 18 for Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Gold Road</category>
+            <category>Update 42</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/ab7441b3abfa4ddc788528fb315ab9e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ESO's June 2024 Survival Guide]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66155</link>
@@ -835,27 +982,6 @@
             <category>Events</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/090e3b3410b3e3f18b3eab1d51e72ded.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Claim Free ESO Currency and Consumables with Xbox Game Pass]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/65763</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/65763</guid>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Sign up for Xbox Game Pass Ultimate and collect free perks including a series of in-game ESO rewards!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/683b754a867a6be9f37c32434ca6921d.jpg" /><p><i>Sign up for Xbox Game Pass Ultimate and collect free perks including a series of in-game ESO rewards!</i></p> 
-<p>Starting today, if you're an Xbox player, you can unlock bonus in-game items via your <a href="https://www.xbox.com/en-US/xbox-game-pass">Xbox Game Pass Ultimate</a> subscription. The first set, 10<sup>th</sup> Anniversary Pack #1, is now available via your Ultimate subscription, with more rewards arriving in future packs later in 2024 (be sure to keep an eye out for them). </p> 
-<p>What's in 10<sup>th</sup> Anniversary Pack #1?</p> 
-<ul><li>3× Grand Gold Coast Experience Scrolls</li><li>500 Seals of Endeavor</li></ul> 
-<p>That's a trio of scrolls for massively increased experience gain and a sweet stack of Seals of Endeavor, which you can use to purchase Crown Crate goods. For more information on Seals of Endeavor, see <a href="https://www.elderscrollsonline.com/en-us/news/post/59925">this blog</a>.</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/990e7c27d4c48bcf20d812439d8d58c4.jpg" />
-<p>From now until June 2, 2024 at 12PM EDT, you can claim 10<sup>th</sup> Anniversary Pack #1 from your Xbox dashboard by following these simple steps:</p> 
-<ol><li>Navigate to your Xbox Home dashboard and select Game Pass</li><li>Navigate to Perks</li><li>Find and select the <i>ESO </i>perks (10<sup>th</sup> Anniversary Pack #1)</li><li>Select the Claim button to receive a code</li><li>Select Redeem code and input it into the code field</li><ol><li>It will auto-populate the code field—do not alter it</li></ol><li>Select Check Code and then Next</li><li>Finally, select Confirm to receive your in-game items!</li></ol> 
-<p>Once you've completed this process, you'll be able to get your Grand Gold Coast Experience Scrolls and Seals of Endeavour in game*.</p> 
-<p><a href="https://www.xbox.com/en-US/xbox-game-pass">Purchase an Xbox Game Pass Ultimate Subscription</a>, navigate to your Game Pass perks, and claim your rewards. It's that simple. Ready for some sweet perks? Let us know how you're using your in-game rewards via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p> 
-<p><i>*Note: Items must be claimed within 180 days from in-game mail</i>. <i>Limit one pack per player, per account.</i></p>]]></content:encoded>
-            <category>News</category>
-            <category>Community</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/04/683b754a867a6be9f37c32434ca6921d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
