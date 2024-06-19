@@ -4,10 +4,36 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 18 Jun 2024 09:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 18:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Missing Jubilee Steed Issue - Console Servers (June 18)]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/660775/missing-jubilee-steed-issue-console-servers-june-18</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/660775/missing-jubilee-steed-issue-console-servers-june-18</guid>
+            <pubDate>Tue, 18 Jun 2024 18:44:33 GMT</pubDate>
+            <content:encoded><![CDATA[We are currently investigating an issue that emerged after the Gold Road and Update 42 maintenance on Xbox and PlayStation servers where some players are missing the Jubilee Steed after previously earning it during this year's Anniversary Jubilee event in April. Players who are affected by this will also see their "Jubilee Confetti Conveyor" achievement progress reset to zero. This is occurring on the Xbox and PlayStation servers.<br><br>
+While investigations are ongoing, we will ensure that any players affected by this issue get the Jubilee Steed back. We do not need affected players to submit a Support Ticket at this time. We will follow up here and in <a href="https://forums.elderscrollsonline.com/en/discussion/660761/jubilee-mount-missing-ps5">this discussion thread</a> as we have more information to share.<br><br>
+Thank you!,Hi everyone! We have identified the issue on Xbox and PlayStation servers and are working on a fix. We plan to push this fix during the next console incremental patch, tentatively scheduled for Wednesday, July 10. Here's what you need to know, once the fix is live:
+<ul><li>If you had the Jubilee Steed and completed the "Jubilee Confetti Conveyor" achievement before, you will have the mount back and your achievement will once again be complete.</li>
+<li>If you had <i>partial</i> progress towards the "Jubilee Confetti Conveyor" achievement completion, we will bump you back to where you were before the Update 42 launch on consoles.</li>
+<li>If you use Jubilee Confetti Packs before the fix goes live, you will lose that progress toward the "Jubilee Confetti Conveyor" achievement when it does. We encourage you not to use any additional Jubilee Confetti Packs until after the fix is live on July 10.</li>
+</ul>
+Players affected by this issue do not need to submit a Support Ticket. Thank you all for your patience.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/660783/feedback-on-console-environmental-sustainability-features</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/660783/feedback-on-console-environmental-sustainability-features</guid>
+            <pubDate>Tue, 18 Jun 2024 15:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[Hi all. We're gathering some feedback regarding the Environmental Sustainability Features added in U42. Specifically, we would like feedback on the following patch note:
+<ul><li>Reduced GPU use in Contextual Menus (Xbox Series X|S and PS5): When viewing most menus, (eg. managing inventory, achievements, quest journal, etc) framerate is now capped to 30fps. Some menus are exempt on a case-by-case basis (eg. conversations, various mini-games). Testing in Performance Mode while in these menus shows a 50% reduction in GPU consumption, resulting in overall power consumption going from approximately 63% of the maximum possible on a console down to 37%.</li>
+</ul>
+We're seeing your feedback about menus capped to 30fps is causing issues for some of you. Please let us know how it is impacting your play experience. We are sharing this with our teams to better inform them of your feedback and how we can improve the experience overall. Additionally, if you are experiencing other framerate issues with either your menus or player character, please note those here as well. Thanks, all.]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Welcome To Gold Road! Your One Stop Shop For Gold Road Launch Content]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/659603/welcome-to-gold-road-your-one-stop-shop-for-gold-road-launch-content</link>
