@@ -4,10 +4,24 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 21 Jun 2024 13:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 15:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Vote For The Next Developer Deep Dive Topic]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/661179/vote-for-the-next-developer-deep-dive-topic</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/661179/vote-for-the-next-developer-deep-dive-topic</guid>
+            <pubDate>Mon, 24 Jun 2024 15:33:28 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! We're planning out the next few Developer Deep Dives and we want you to choose which of the highlighted poll topics we tackle first. For those unfamiliar with the developer deep dives, it's a blog series where ESO Dev Team members discuss various elements of ESO game design in detail. Players get to learn about our development process and philosophy and our dev team gets to nerd out a bit.<br><br>
+For the next Developer Deep Dive, you get to vote on next blog focus out of the three topics below.
+<ul><li>Item Sets</li>
+<li>Delves and Public Dungeons</li>
+<li>Stand-alone quests (non-zone story quests)</li>
+</ul>
+We plan on covering all three, but the results of the poll will decide which topic you get to read about first. The poll is live now, and will be available until Friday, June 28 <a href="https://forums.elderscrollsonline.com/en/profile/10am">@10am</a> ET. If the three topics mentioned are not of interest, let us know in the thread what topics you would like to see highlighted in a future Developer Deep Dive. Thanks all and happy voting!]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Workaround for Rarely Occurring Crown Crate Screen Crash - Consoles]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/660994/workaround-for-rarely-occurring-crown-crate-screen-crash-consoles</link>
@@ -248,7 +262,7 @@ We're seeing your feedback about menus capped to 30fps is causing issues for som
             <title><![CDATA[Anniversary Celebration—Dazzle Your Friends with a Flashy Emote from Alienware]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66221</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66221</guid>
-            <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Claim a free in-game emote via this 10-Year Anniversary promotion!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/75f87acfd13a9b3038f589a209fef51b.jpg" /><p><i>Claim a free in-game emote via this 10-Year Anniversary promotion!</i></p> 
 <p>The ongoing 10-Year Anniversary Celebration continues, and we are thrilled to announce more player rewards—this time in partnership with Alienware™! You can now claim the Pyromancer's Quandary emote for <i>ESO</i> while supplies last.</p>
@@ -289,56 +303,6 @@ We're seeing your feedback about menus capped to 30fps is causing issues for som
             <category>ESO Plus</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/40fbc1ad52fcab9c911388a3e617ed90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PC/Mac Update 42 Known Issues]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/659638/pc-mac-update-42-known-issues</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/659638/pc-mac-update-42-known-issues</guid>
-            <pubDate>Mon, 03 Jun 2024 19:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone,<br><br>
-In an effort to collate issues discovered after today's launch of Update 42, below is a list of notable known issues and their current status. We'll make a note in the subject when we make any edits or updates.
-<ul><li><b>Cannot travel to Eyevea Wayshrine</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: Attempting to jump to this Wayshrine will still deduct gold</li>
-</ul></li>
-<li><b>Resource bars appear to be buffed when buffs are not active</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: This is just a UI/visual issue</li>
-</ul></li>
-<li><b>Health bars have a permanent glow</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: This is just a UI/visual issue</li>
-</ul></li>
-<li><b>Game can occasionally crash</b> (both in-game or prior to logging in)
-<ul><li>STATUS: Investigating</li>
-</ul></li>
-<li><b>A second Arcane Knot can appear in rare circumstances if the player character holding the Knot dies to damage from the Knot</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-</ul></li>
-<li><b>Abilities appear to be duplicating on the ability bar after using a Skill Respec Scroll and swapping skills on your ability bar</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: This is just a visual issue affecting the icon; the correct ability will still be used</li>
-</ul></li>
-<li><b>Wrathsun Staff and Basalt Blooded Staff visuals are incorrect</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: This visual issue may be all staves with this specific model - we are investigating.</li>
-</ul></li>
-<li><b>Incorrect directions out of Scholarium during Scribing tutorial</b>
-<ul><li>STATUS: To be fixed in Update 43</li>
-<li>After entering the Scholarium during the Scribing tutorial, while on other quests you are being directed to leave the area via a portal that hasn't yet been unlocked</li>
-</ul></li>
-<li><b>Dragon is occasionally missing during Wing of the Dragon quest</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-<li>NOTE: You can still interact with an invisible Dragon, should she not appear</li>
-</ul></li>
-<li><b>"How To Scribe" Tutorial Book is currently set as an item instead of a Collectible</b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-</ul></li>
-<li><b>One of the components required for the achievement "Gold Sword for Hire" states "Gold Road Sojourner" instead of the intended "Gold Road Professional" </b>
-<ul><li>STATUS: To be fixed in upcoming incremental</li>
-</ul></li>
-</ul>]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Crown Store Showcase—June 2024]]></title>
@@ -751,7 +715,7 @@ In an effort to collate issues discovered after today's launch of Update 42, bel
             <title><![CDATA[Crown Store Showcase—May 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/65943</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/65943</guid>
-            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Check out these ancient artifacts, furry friends, and loads of furnishings that will transform your modest house into a palace, all arriving in the in-game Crown Store this May!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/5cb93b877bc43731b308c9736439a24b.jpg" /><p><i>Check out these ancient artifacts, furry friends, and loads of furnishings that will transform your modest house into a palace, all arriving in the in-game Crown Store this May!</i></p> 
 <p>Take a peek at all the items arriving in the in-game Crown Store during May 2024. You can also check out what is currently available on the <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store page</a>. Do any of these goodies catch your eye? Visit the <a href="https://www.elderscrollsonline.com/en-us/buycrowns">Buy Crowns page</a> to acquire as many crowns as you need! Certain items and offers will be available for a limited time only, so be sure to read their details below and don't miss out.</p><p><br></p> 
