@@ -4,10 +4,40 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 02 Jul 2024 15:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Update 43 Preview—Tour ESO's Upcoming Base-Game Features & Improvements]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66331</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66331</guid>
+            <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Learn about Home Tours, updates to the Infinite Archive, and more with our sneak peek at Update 43!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/a485860acb4ef7db7339db29ead9f8ec.jpg" /><p><i>Learn about Home Tours, updates to the Infinite Archive, and more with our sneak peek at Update 43!</i></p> 
+<p>The Update 43 base-game patch is set to bring a ton of great features and improvements to all <i>ESO</i> players,<b> completely free of charge</b>, on August 19 for PC/Mac and September 4 for Xbox and PlayStation consoles. </p> 
+<p>Eager to check it out? You can test out the new update for yourself on the PC/Mac Public Test Server early next week—keep an eye out for the announcement blog! If you missed the <a href="https://www.twitch.tv/videos/2188253758">preview livestream</a>, or just want more details, check out what's coming below. </p> 
+<h2>Home Tours</h2> 
+<p>One of the year's most anticipated new features for Tamriel's housing enthusiasts is Home Tours, a new entry in the Activity Finder that shares and showcases listed player homes. </p> 
+<p>With Home Tours, you can search for homes owned and decorated by another player you know by searching for their UserID. You can also filter through other criteria like owner-applied labels for theme, such as “Libraries” or “Strongholds.” Of course, the creativity of many players defies such simple categorization, so if you're interested in seeing all sorts of homes or in viewing the most popular creations, you can browse the top player homes in the Recommended tab of Home Tours. Whatever way you search, friends and guildmates will be specially tagged in the feed for easy recognition. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/1fb5d9343a4564711c639ddeada956f3.jpg" />
+<p style="text-align: center;"><i>Tour Tamriel together!</i></p> 
+<p>When you find a home that really impresses you, you can recommend it to others, as well as favorite it for yourself to visit later. You can even favorite homes you visit through other means, regardless of whether they are listed for Home Tours. There's a weekly limit on how many homes you can recommend, but no limit on how many you can visit and enjoy. Your own home may be featured as a recommended home in the Activity Finder if it becomes popular enough! </p> 
+<h2>Infinite Archive Update</h2> 
+<p>Update 43 also adds more depth to the Infinite Archive in the form of new maps, enemies, Verses and Visions, and updated loot, including new class item sets! This includes new hazard stages where the Archive itself presents a danger and a wider pool of foes to battle in maligraphic form. </p> 
+<p>Helping you tackle these new challenges are eight additional Verses and 10 additional Visions. For example, you can use the new Phalanx verse to call on ghostly soldiers to form a wall of defenders, collect the new Necrotic Vision set to unlock an Undead Avatar transformation that allows you to empower yourself with each defeated enemy, and more. You can also earn potent new consumable items that unlock a guaranteed transformation verse like the Undead Avatar, but getting them will not be easy!</p> 
+<p>Once you return to the Index with your hard-won Archival Fortunes, you can spend them on new rewards, whether as part of Filer Ool's rotating stock or purchased from new arrival Filer Brax, who stocks all gear from the class item sets. Filer Brax's inventory isn't limited to the existing seven sets from the Archive's launch, but also includes new sets like the gruesome Corpseburster set for Necromancers that detonates corpses your skills consume. <a href="https://www.elderscrollsonline.com/en-us/news/post/64891">As before</a>, each of these sets is themed around a specific class skill line.</p> 
+<h2>Quality of Life Improvements</h2> 
+<p>The above new features and additions aren't the only focus of Update 43. Several smaller improvements included in Update 43 are aimed at making your time in Tamriel easier and more enjoyable. </p> 
+<p>For example, item curation, the system that prevents duplicate item drops within a set while you are still filling it out in Collections, expands to cover new sources. These include weekly Trial rewards, offerings from Imperial City vendors, and the Dungeon-specific reward chests for monster sets available for Undaunted Keys from Glirion the Redbeard, Maj-al Ragath, and Urgarlag Chief-bane at the Undaunted Enclaves. </p> 
+<p>The update also includes improvements to mount previews in the Crown Store, allowing you to preview and replay animations such as summoning or rearing up without needing to purchase a mount. Finally, many further smaller changes and bug fixes are included in Update 43. For example, Guild Trader and Guild Bank interfaces remember the last player Guild you interacted with in a play session.</p> 
+<p>Update 43 brings a host of new features, improvements, and fixes to Tamriel's adventurers, and you can test them out for yourself on PTS next week. Keep an eye out for those patch notes, too! Are you excited for the changes coming in the next base-game patch? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p> 
+<p><i>The Update 43 base-game patch arrives on August 19 for PC/Mac and September 4 for Xbox and PlayStation consoles. </i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>Update 43</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/a485860acb4ef7db7339db29ead9f8ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cast Your Vote for Which QuakeCon Pets to Bring Back!]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/661723/cast-your-vote-for-which-quakecon-pets-to-bring-back</link>
@@ -935,26 +965,6 @@ We're seeing your feedback about menus capped to 30fps is causing issues for som
             <category>News</category>
             <category>10th Anniversary</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/617acf8193de6405c67e3b1f0adedbd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time is Running Out! Pre-Purchase Gold Road Now to Receive Exclusive Rewards]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66073</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66073</guid>
-            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Don't miss your chance to pre-purchase The Elder Scrolls Online: Gold Road and gain access to unique in-game items at launch!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/b9e68fa29ddb5e9a9178b5bd557c54b9.jpg" /><p><i>Don't miss your chance to pre-purchase The Elder Scrolls Online: Gold Road and gain access to unique in-game items at launch!</i></p> 
-<p>Your adventure across West Weald is just around the corner (June 3 for PC/Mac and June 18 for Xbox and PlayStation consoles), but there is still time to pre-purchase your copy of <i>The Elder Scrolls Online: Gold Road</i>. Even better, by pre-purchasing now, you will immediately receive the <b>Welkyndstone Ruins Wolf mount</b>.</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/695dd22b343dbff1bcd1cbff8cec0b46.png" />
-<p style="text-align: center;"><i>Welkyndstone Ruins Wolf Mount</i></p> 
-<p>In addition to receiving this mount, any pre-purchase of <i>Gold Road</i> will grant you the following bonus items at launch:</p> 
-<ul><li>Eyebright Raven pet</li><li>Strid River Fisherfolk costume</li><li>×1 Diamond Anniversary Crate</li><li>Gold Road Treasure Maps</li><li>×2 Experience Scrolls (+100% for 1 hour)</li></ul>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/61987905918d3f483aa51b4455721207.jpg" />
-<p>These items are only available until the launch of <i>Gold Road</i> in June, so be sure to pick up your copy soon! </p> 
-<p>Struggling to decide which version of <i>ESO:</i> <i>Gold Road </i>suits you? We recommend checking out <a href="https://www.elderscrollsonline.com/en-us/news/post/65365">this blog</a> for a breakdown of what each edition of the Chapter offers. Once you've carefully considered all your options, you can click the button below to pre-purchase <i>Gold Road.</i></p><p><br></p><p>Are you excited to explore West Weald and confront the agents of the Forgotten Prince? Perhaps you're looking forward to tailoring your very own custom skills via the new <a href="https://www.elderscrollsonline.com/en-us/news/post/65899">Scribing system</a>? Let us know which aspects of <i>The Elder Scrolls Online: Gold Road</i> you're most looking forward to<i> </i>via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>!</p><p><i>The Elder Scrolls Online: Gold Road arrives for PC/Mac on June 3, 2024, and for Xbox and PlayStation consoles on June 18, 2024. Pre-purchase Gold Road now to receive unique bonus rewards at launch and immediate access to the Welkyndstone Ruins Wolf mount. Don't miss out!</i> </p>]]></content:encoded>
-            <category>News</category>
-            <category>Gold Road</category>
-            <category>Update 42</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/b9e68fa29ddb5e9a9178b5bd557c54b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
