@@ -4,10 +4,25 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 03 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Update 43 Is Now Available on the PC/Mac Public Test Server]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66365</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66365</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Test out new quality-of-life features, including an all-new system to tour player homes across Tamriel, in the Update 43 base-game patch on the PC/Mac Public Test Server!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/d0e7f87c2db24925ffee9612c3be11d3.jpg" /><p><i>Test out new quality-of-life features, including an all-new system to tour player homes across Tamriel, in the Update 43 base-game patch on the PC/Mac Public Test Server!</i></p> 
+<p>Update 43 is ready for your testing and feedback! The Public Test Server (PTS) has now been updated to include Update 43, giving you access to Home Tours, additions to Infinite Archive, and more. To access the PTS, go to the Settings menu within the PC/Mac <i>ESO</i> launcher by toggling the “Show Public Test Environment” option. You can then download and access the game client. Don't forget to leave feedback and report any bugs you come across by typing “/feedback” or “/bug” in chat.</p> 
+<p>If you want to learn about the features coming in Update 43 or anything else to do with the patch, be sure to check out our recent <a href="https://www.twitch.tv/videos/2188253758">preview livestream</a> and <a href="https://forums.elderscrollsonline.com/en/discussion/662078/">PTS Patch Notes</a> on the <i>ESO</i> forums.</p> 
+<p>Are you excited to see all the improvements in Update 43? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>Update 43</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/d0e7f87c2db24925ffee9612c3be11d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Update 43 Preview—Tour ESO's Upcoming Base-Game Features & Improvements]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66331</link>
@@ -266,7 +281,7 @@ Voting is now open and will close on July 9 at 12:00 PM ET, so cast your vote no
             <title><![CDATA[ESO Live: July 3 @ 1PM EDT—Update 43 Developer Preview]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66329</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66329</guid>
-            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Get a peek at what's ahead with a special reveal livestream for the upcoming Update 43 base-game patch.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/43526465f5479eea75125c4e6e82fa00.jpg" /><p><i>Get a peek at what's ahead with a special reveal livestream for the upcoming Update 43 base-game patch.</i></p> 
 <p>Tune in to <a href="https://www.twitch.tv/bethesda">Twitch.tv/Bethesda</a> this Wednesday, July 3 at 1PM EDT, as Associate Director of Community Management Jessica Folsom, Senior Community Manager Gina Bruno, Senior System Designer Cullen Lee, Senior UI Engineer James Sammartino, and Lead Encounter Designer Mike Finnigan provide a first-look preview of the upcoming Update 43 base-game patch. </p> 
@@ -315,7 +330,7 @@ Voting is now open and will close on July 9 at 12:00 PM ET, so cast your vote no
             <title><![CDATA[Daily Login Rewards—July 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66323</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66323</guid>
-            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Get in gear this July with these rewards you can earn simply by logging in, including a free DLC!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/3328861697c77fac69cedfd4c1b2a64a274613.jpg" /><p><i>Get in gear this July with these rewards you can earn simply by logging in, including a free DLC!</i></p> 
 <p>We're not here to wind you up or grind your gears—there's a free DLC available this month, just one of the great offerings you can acquire by logging in! Curious to learn more about Daily Login Rewards? Check out <a href="https://help.elderscrollsonline.com/#en/answer/41950">this help article</a> to discover all you need to know.</p> 
@@ -613,7 +628,7 @@ We're seeing your feedback about menus capped to 30fps is causing issues for som
             <title><![CDATA[Anniversary Celebration—Dazzle Your Friends with a Flashy Emote from Alienware]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66221</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66221</guid>
-            <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Claim a free in-game emote via this 10-Year Anniversary promotion!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/75f87acfd13a9b3038f589a209fef51b.jpg" /><p><i>Claim a free in-game emote via this 10-Year Anniversary promotion!</i></p> 
 <p>The ongoing 10-Year Anniversary Celebration continues, and we are thrilled to announce more player rewards—this time in partnership with Alienware™! You can now claim the Pyromancer's Quandary emote for <i>ESO</i> while supplies last.</p>
@@ -910,61 +925,6 @@ We're seeing your feedback about menus capped to 30fps is causing issues for som
             <category>News</category>
             <category>Daily Rewards</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/adbdeae6be8c3716dffaf6726a3b6e26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Community Spotlight—Hearth and Homes]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66109</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66109</guid>
-            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Admire this selection of intricately designed homesteads, produced by creative members of the ESO community.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/617acf8193de6405c67e3b1f0adedbd1.jpg" /><p><i>Admire this selection of intricately designed homesteads, produced by creative members of the ESO community.</i></p> 
-<p>To celebrate May's <a href="https://www.elderscrollsonline.com/en-us/news/post/65941">Anniversary Spotlight—Hearth and Homes</a>, we offered the Sword-Singer's Redoubt household as a free login reward to all players. Then, we challenged our passionate community of <i>ESO</i> home designers to transform this vacant abode into a fully decorated home. Well, the submissions are in, and we wanted to share just a few of our favorites with you:</p><p><br></p> 
-<p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8106431/#Comment_8106431">EmperorRemanIV</a></p> 
-<p><i>"The Dragontail Camp, containing its own wayshrine, is the Imperial fortified border between the Daggerfall Covenant and Reman IV's Second Empire of Cyrodiil territory taken from the Tharn's Seventh Legion in the March of Ephesus."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/bc0962d1da9a06cee03e09c4da9613ef.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8106593/#Comment_8106593">Googoo</a></p> 
-<p><i>"Redguard style bedroom. For those who seek rest after a long day of trading at the market. Or mining in the crystal cave."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/b20b8d785d0e6390a64a7d0b94e1e725.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8106749/#Comment_8106749">JohnBlacksad</a></p> 
-<p><i>"Aladdin's cave of Wonders. This is a project I wanted to do for YEARS. Thank you for giving it away like this; it ended up being such an unexpected perfect match."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/39461cc503ba9e1d9b00ccd659c15ea2.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8107403/#Comment_8107403">EdjeSwift</a></p> 
-<p><i>"Because of the split-up nature of the structure, I'm doing various things with it. I'm more of a spartan, yet striking kind of decorator. The Bangkorai doorway is a tribute to the Dark Brotherhood."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/9f1446cf32ab368748dc758783c00e13.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8108660/#Comment_8108660">Olen_Mikko</a></p> 
-<p><i>"Khajiit takeover in Alik'r"</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/aff6de73e04082925bc58cf6cb7f0e66.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8110122/#Comment_8110122">MageCatF4F</a></p> 
-<p><i>"Redguards love technology. After all, they invented cannons while the rest of Tamriel was muttering evil eye curses. Here a gang of international pirates (Inter-Rat) has contracted Mad Scientist Biro Dar to build them an airship raider, the steam powered "Zubenelgenubi" of 10 guns. Join the crew, climb aboard, and wreak havoc from the sky. EHT needed to fire cannons. An EHT open house named: Zubenelgenubi."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/206fe4e21a0de580b39f8badb709363c.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8113043/#Comment_8113043">Wolfcrisp</a></p> 
-<p><i>"Redguards are my favorite race, so I made a small Redguard sword academy. This house is open, it's my sword singer aerie in NA, and I'm </i><a href="https://forums.elderscrollsonline.com/en/profile/wolfcrisp"><i>@wolfcrisp</i></a><i>.</i><i>"</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/79d2db5e1d88d8af20b0422640ae6dcd.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8110832/#Comment_8110832">Grizzbeorn</a></p> 
-<p><i>"I've re-conceptualized the Redoubt as kind of a makeshift Dark Brotherhood sanctuary, having Hilde and Kor onsite as its ‘caretakers,' with a secondary, though related, focus as a space where Hilde can find the inner peace she seeks, based on cues from the DB storyline."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/5c61713086f61f11f220725faf23b94f.png" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8110855/#Comment_8110855">Futerko</a></p> 
-<p><i>"Ganesha temple."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/4c18726307309a7dd5dc70430adc922a.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8111053/#Comment_8111053">Emilyhyoyeon</a></p> 
-<p><i>"The Desert Pass Oasis is a rest stop along a small trade route in Hammerfell, especially known for its refreshing lounge pool and washing pavilions. It's popular among traders and travelers alike with its many cozy gathering tents and quaint amenities. PC EU open for public visit. ign @ emilypumpkin."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/2d5832fe365ea8517565227ad2e21694.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8110895/#Comment_8110895">Seecodenotgames</a></p> 
-<p><i>"This is my new Redguard themed house: Alik'r Oasis Paradise."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/83f770887d93e0a680cad7377f55a5ee.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8112192/#Comment_8112192">Lorros</a></p> 
-<p><i>"I decided to take a different approach to the new Sword-Singer's Redoubt home, turning it into a crafting library and bazaar."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/25c669c0ff0c506b7c64804d61ddc153.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8113148/#Comment_8113148">TeruKisuke</a></p> 
-<p><i>"The build started with an idea for a ‘Pretty Pink Stationery Store.' Then, I built a city around it. TeruKisuke on Xbox NA server."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/25dbdf5bff58f943eb06e471b993cdbf.jpg" />
-<p><br></p><p><a href="https://forums.elderscrollsonline.com/en/discussion/comment/8110567/#Comment_8110567">SilverBride</a></p> 
-<p><i>"My Sword-Singer's Redoubt is a place for travelers to stop and rest on their journeys through Alik'r and Bangkorai. It offers some sitting areas to read and relax, and some food and drink to replenish. There is also a sauna room to soak their weary bones. The underground cave area has some Druidic furnishings and candles that provide a peaceful place to meditate away from the heat of the desert sun."</i></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/09a8df8fb9ba1f1fdd79eb740baba571.jpg" />
-<p><br></p><p>A massive “thank you” to the awesome members of the #ESOFam for sharing their <a href="https://forums.elderscrollsonline.com/en/discussion/657931/show-us-your-sword-singers-redoubt-housing-creations">renovations</a> on the Sword-Singer's Redoubt! Don't forget, there's still time to claim it for yourself, <a href="https://www.elderscrollsonline.com/en-us/news/post/65941">simply by logging in</a>! Have you claimed your free house this month? If so, we'd love to see how you've transformed this desert fortress. Feel free to share your designs with us via <a href="https://twitter.com/TESOnline">X (Formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/ElderScrollsOnline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>10th Anniversary</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/617acf8193de6405c67e3b1f0adedbd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Crown Store Gifting Update – October 2023]]></title>
