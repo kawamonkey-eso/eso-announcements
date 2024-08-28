@@ -577,21 +577,6 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/b26b7108bae413a9c1cebbd2d7fa75b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Missing Jubilee Steed Issue - Console Servers (June 18)]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/660775/missing-jubilee-steed-issue-console-servers-june-18</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/660775/missing-jubilee-steed-issue-console-servers-june-18</guid>
-            <pubDate>Wed, 10 Jul 2024 12:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[We are currently investigating an issue that emerged after the Gold Road and Update 42 maintenance on Xbox and PlayStation servers where some players are missing the Jubilee Steed after previously earning it during this year's Anniversary Jubilee event in April. Players who are affected by this will also see their "Jubilee Confetti Conveyor" achievement progress reset to zero. This is occurring on the Xbox and PlayStation servers.<br><br>
-While investigations are ongoing, we will ensure that any players affected by this issue get the Jubilee Steed back. We do not need affected players to submit a Support Ticket at this time. We will follow up here and in <a href="https://forums.elderscrollsonline.com/en/discussion/660761/jubilee-mount-missing-ps5">this discussion thread</a> as we have more information to share.<br><br>
-Thank you!,Hi everyone! We have identified the issue on Xbox and PlayStation servers and are working on a fix. We plan to push this fix during the next console incremental patch, tentatively scheduled for Wednesday, July 10. Here's what you need to know, once the fix is live:
-<ul><li>If you had the Jubilee Steed and completed the "Jubilee Confetti Conveyor" achievement before, you will have the mount back and your achievement will once again be complete.</li>
-<li>If you had <i>partial</i> progress towards the "Jubilee Confetti Conveyor" achievement completion, we will bump you back to where you were before the Update 42 launch on consoles.</li>
-<li>If you use Jubilee Confetti Packs before the fix goes live, you will lose that progress toward the "Jubilee Confetti Conveyor" achievement when it does. We encourage you not to use any additional Jubilee Confetti Packs until after the fix is live on July 10.</li>
-</ul>
-Players affected by this issue do not need to submit a Support Ticket. Thank you all for your patience.,Hi All. We're updating to note that this issue has been resolved with today's patch. You should be able to use your Jubilee Steed Mount once again. Thanks again for your patience while resolving this issue.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
             <title><![CDATA[Update 43 Is Now Available on the PC/Mac Public Test Server]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66365</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66365</guid>
@@ -932,25 +917,6 @@ Players affected by this issue do not need to submit a Support Ticket. Thank you
             <category>News</category>
             <category>Daily Rewards</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/3328861697c77fac69cedfd4c1b2a64a274613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Workaround for Rarely Occurring Crown Crate Screen Crash - Consoles]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/660994/workaround-for-rarely-occurring-crown-crate-screen-crash-consoles</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/660994/workaround-for-rarely-occurring-crown-crate-screen-crash-consoles</guid>
-            <pubDate>Fri, 21 Jun 2024 13:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[Hi all, we're following up on some reports regarding Xbox and PlayStation players encountering a rarely occurring crash when interacting with the Crown Crate screen. We are working on investigating a solution to this issue. However, we do currently have workarounds for both Xbox and PlayStation players. For those who encounter this issue, clearing your save data is the current workaround. We have next steps on how to clear your save data for Xbox and PlayStation listed below.<br><br><b>How to clear your saved data on Xbox.</b> For more detailed instructions, follow the link <a href="https://help.elderscrollsonline.com/#en/answer/29779">here</a>.
-<ul><li>Restart the Game</li>
-<li>Power Cycle Your Xbox</li>
-<li>Clear Save Data</li>
-<li>Uninstall and Reinstall the Game</li>
-</ul><br><b>How to clear your saved data on PlayStation.</b> For more detailed instructions, follow the link <a href="https://help.elderscrollsonline.com/#en/answer/29777">here</a>.
-<ul><li>Power Cycle Your PlayStation</li>
-<li>Clear Save Data</li>
-<li>After you clear your save data, do not enable the "1080p Enhanced" setting. We have found this can result in the crash reoccurring.</li>
-<li>Uninstall and Reinstall the Game</li>
-</ul><br>
-If you continue to run into issues after following these steps, please place a ticket for us to assist you. Thanks for your patience as we work through this issue.]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
