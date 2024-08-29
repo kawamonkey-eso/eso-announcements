@@ -4,10 +4,37 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 22 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Anniversary Spotlight—Dungeon Runners, Rise Up]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66575</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66575</guid>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Delve deep into special rewards, including free DLC dungeons, during September's Anniversary Spotlight!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/8787fc99a79102570403cf9050d2801b.jpg" /><p><i>Delve deep into special rewards, including free DLC dungeons, during September's Anniversary Spotlight!</i></p> 
+<p>The latest 10-Year Anniversary Spotlight comes to you this September as it shines into the hidden corners of Tamriel's dungeons. Get free dungeon DLC from Daily Login Rewards, unlock and claim a free costume and arms pack, and earn Undaunted Keys as you complete daily Endeavors!</p> 
+<h2>DLC Dungeons Delivered Free</h2> 
+<p>Log in for just a few days during September 2024 to unlock free DLC dungeons. Your third login during the month unlocks the Fang Lair dungeon, while your fourth unlocks the Scalecaller Peak dungeon. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/0a7d6b72b5a8ff28ae7cdddc5205c7cd.jpg" />
+<p style="text-align: center;"><i>Unlock (and survive) Fang Lair</i></p> 
+<p>These exciting dungeons feature unique rewards including item sets, titles, motifs, and more. Challenge the Blackmarrow necromancers or the cult of Peryite to claim them—good luck! </p> 
+<h2>Dress from Success</h2> 
+<p>Of course, the rewards included in the dungeon content itself aren't the only things you can claim. The Anniversary Spotlight also includes additional unlockable rewards. Complete both dungeons to earn the “Fang Lair Vanquisher” and “Scalecaller Peak Vanquisher” achievements and you can acquire the Dungeon Explorer Costume for free by claiming it from the Crown Store between September 3 and September 24. You can also claim the costume if you have the achievements from prior completions of the dungeons.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/643d1913ad7c32b4b4281a842b17166a.jpg" />
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/ef5c43c99a04ccd93eee2c44f004e3b6.jpg" />
+<p style="text-align: center;"><i>Earn achievements to unlock free rewards</i></p> 
+<p>The Undaunted are of course eager to get in on any dungeon-delving action, so you can earn rewards by completing Undaunted Pledges as well. If you earn or already have the achievement “Returned Undaunted” for completing 10 Undaunted Pledges bestowed by Maj al-Ragath, you can claim the Thurvokun Arms Pack from the Crown Store completely free during the same period as the costume.</p> 
+<h2>Endeavor Alongside the Undaunted</h2> 
+<p>Of course, one of the things the Undaunted are most known for is their treasure, shared with the worthy who earn their Undaunted Keys. During the month of September, these rewards are easier to earn than ever, with certain thematic Endeavors available during the month awarding Undaunted Keys in addition to the normal seal amount for the day's Endeavors.</p> 
+<p>Get ready to dive into dungeons and deal with terrible foes! Are you excited for the treasures of this new spotlight? Tell us all about your adventures via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>10th Anniversary</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/8787fc99a79102570403cf9050d2801b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Join the ESO Creator Program & Share Your Love of Tamriel with Us]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66611</link>
@@ -168,7 +195,7 @@
             <title><![CDATA[Save on Gold Road, ESO Base Game, and Crown Packs During the QuakeCon 2024 Sale!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66499</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66499</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Enjoy discounts on select Crown Packs and game editions for a limited time during QuakeCon 2024!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/5264c496ece968b2d6613b9cd730e5cf.jpg" /><p><i>Enjoy discounts on select Crown Packs and game editions for a limited time during QuakeCon 2024!</i></p> 
 <p>Seismic savings are available during the QuakeCon2024 sale. Starting right now, you can grab a copy of <i>The Elder Scrolls Online Standard Edition</i> for up to 70% off, pick up select editions of the new <i>Gold Road</i> Chapter for up to 35% off, and stock up with select Crown Packs at up to 40% off. This sale is active on all platforms for a limited time, although access to discounts for certain <i>Gold Road</i> editions may vary depending on your platform of choice.</p> 
@@ -839,7 +866,7 @@
             <title><![CDATA[ESO Live: July 3 @ 1PM EDT—Update 43 Developer Preview]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66329</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66329</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Get a peek at what's ahead with a special reveal livestream for the upcoming Update 43 base-game patch.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/43526465f5479eea75125c4e6e82fa00.jpg" /><p><i>Get a peek at what's ahead with a special reveal livestream for the upcoming Update 43 base-game patch.</i></p> 
 <p>Tune in to <a href="https://www.twitch.tv/bethesda">Twitch.tv/Bethesda</a> this Wednesday, July 3 at 1PM EDT, as Associate Director of Community Management Jessica Folsom, Senior Community Manager Gina Bruno, Senior System Designer Cullen Lee, Senior UI Engineer James Sammartino, and Lead Encounter Designer Mike Finnigan provide a first-look preview of the upcoming Update 43 base-game patch. </p> 
@@ -883,40 +910,6 @@
             <category>News</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/31ab26889565c05da5022cf3cadc271e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily Login Rewards—July 2024]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66323</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66323</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Get in gear this July with these rewards you can earn simply by logging in, including a free DLC!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/3328861697c77fac69cedfd4c1b2a64a274613.jpg" /><p><i>Get in gear this July with these rewards you can earn simply by logging in, including a free DLC!</i></p> 
-<p>We're not here to wind you up or grind your gears—there's a free DLC available this month, just one of the great offerings you can acquire by logging in! Curious to learn more about Daily Login Rewards? Check out <a href="https://help.elderscrollsonline.com/#en/answer/41950">this help article</a> to discover all you need to know.</p> 
-<p>Now, let's take a peek at some of the highlights you can receive throughout July 2024:</p><p><br></p> 
-<p><b>Clockwork City DLC—Day 2</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/034ddd4aac8839219e1bedf75725641f.jpg" />
-<p style="text-align: center;"><i>Claim a free DLC and set the gears of a new story in motion!</i></p> 
-<p>Log in for just two days this upcoming month to gain the <i>Clockwork City</i> DLC for free! That means a new zone with a unique storyline, encounters, item sets, and more. Enter the realm of Sotha Sil and meet the Clockwork God himself.</p><p><br></p><p> </p> 
-<p><b>Wild Hunt Crown Crates—Day 3-7</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/a54491b018c5a2afb478500d39b27673.jpg" />
-<p style="text-align: center;"><i>Go wild with free crown crates!</i></p> 
-<p>Collect a Wild Hunt Crown Crate every day from your third to your seventh login during the month of July for a total of five crates. You can preview the kinds of items available in Wild Hunt Crown Crates <a href="https://www.elderscrollsonline.com/en-us/news/post/25953">in this blog</a>.</p> 
-<p><b><br></b></p><p><b>Seals of Endeavor×500—Day 9</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/10/cbf054f9fa4122ee9be26996607da8d2.jpg" />
-<p style="text-align: center;"><i>Take your pick of crown crate goods</i></p> 
-<p>Get the Crown Crate item you've been saving up for with this hefty boost in your Seal savings. Claim 500 Seals of Endeavor on Day 9 to cash in. You can learn more about Seals of Endeavor <a href="https://www.elderscrollsonline.com/en-gb/news/post/59925">in this blog</a>.</p> 
-<p><b><br></b></p><p><b>Miscarcand Monocle—Day 14</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/5907f6e4d64bfe64f2af83de4351b629.jpg" />
-<p style="text-align: center;"><i>No one has been this fancy since the Ayleid Empire fell!</i></p> 
-<p style="text-align: center" style="text-align: left;;">Everybody loves monocles, right? They're just so delightfully stylish. And what could represent greater style—nay, <i>grandeur</i>—than an ancient monocle of the finest Ayleid glass? Nothing, that's what. So, claim yours by logging in for fourteen days this July.<br></p> 
-<p><b><br></b></p><p><b>50,000 Gold—Day 21</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/05/4fd2fa272aef9a9fb443be645a775da3.png" />
-<p style="text-align: center;"><i>Log in for a golden opportunity</i></p> 
-<p>They say money can't buy happiness, but maybe the other great login rewards can help with that. In the meantime, you can enjoy a boon of 50,000 gold for logging in at least 21 days this month. Buy yourself something nice!</p><p><br></p> 
-<p>From arcane mysteries to stylish frippery, there's a lot going on with these rewards. Which one are you most excited about? You can let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>Daily Rewards</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/3328861697c77fac69cedfd4c1b2a64a274613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
