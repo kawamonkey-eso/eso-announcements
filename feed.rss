@@ -4,10 +4,25 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 30 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Get a Glimpse of ESO's End-of-Year Adventures in the Update 44 Preview Livestream]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66609</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66609</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover what's in store for The Elder Scrolls Online throughout the rest of 2024 by watching the September preview livestream.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/db3c7043007b37b8e9f28315abf3cfb7.jpg" /><p><i>Discover what's in store for The Elder Scrolls Online throughout the rest of 2024 by watching the September preview livestream. </i></p> <p>Tune in to <a href="https://www.twitch.tv/Bethesda">Twitch.tv/Bethesda</a> on <b>Tuesday, September 10 at 2:30PM EDT</b>, as the team provides a first look at what is coming to <i>ESO</i> with Update 44. </p> <p>Together, they'll reveal all the major (and minor) additions and changes coming to the game, including updates to PvP, the upcoming Fallen Leaves of West Weald event, and more.</p> <p>Watch the livestream on Twitch, and you can earn the brand-new Chaosball Cohort PvP-themed pet as a drop! Be sure to <a href="https://help.elderscrollsonline.com/#en/answer/41809">link</a> your ESO and Twitch accounts.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/1aa19d71f894784c56a085866984d6de.jpg" />
+<p style="text-align: center;"><i>Chaosball Cohort pet </i></p> 
+<p>We'll share additional details about the livestream closer to the date, but if you're eager to discover what lies ahead for <i>ESO</i> in 2024, save the date and don't miss this show!</p> 
+<p>Are you excited to learn more about Update 44 and the rest of the year's adventures? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/db3c7043007b37b8e9f28315abf3cfb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ESO's September 2024 Survival Guide]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66653</link>
@@ -847,21 +862,6 @@
             <category>News</category>
             <category>Events</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/b26b7108bae413a9c1cebbd2d7fa75b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Update 43 Is Now Available on the PC/Mac Public Test Server]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66365</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66365</guid>
-            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Test out new quality-of-life features, including an all-new system to tour player homes across Tamriel, in the Update 43 base-game patch on the PC/Mac Public Test Server!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/d0e7f87c2db24925ffee9612c3be11d3.jpg" /><p><i>Test out new quality-of-life features, including an all-new system to tour player homes across Tamriel, in the Update 43 base-game patch on the PC/Mac Public Test Server!</i></p> 
-<p>Update 43 is ready for your testing and feedback! The Public Test Server (PTS) has now been updated to include Update 43, giving you access to Home Tours, additions to Infinite Archive, and more. To access the PTS, go to the Settings menu within the PC/Mac <i>ESO</i> launcher by toggling the “Show Public Test Environment” option. You can then download and access the game client. Don't forget to leave feedback and report any bugs you come across by typing “/feedback” or “/bug” in chat.</p> 
-<p>If you want to learn about the features coming in Update 43 or anything else to do with the patch, be sure to check out our recent <a href="https://www.twitch.tv/videos/2188253758">preview livestream</a> and <a href="https://forums.elderscrollsonline.com/en/discussion/662078/">PTS Patch Notes</a> on the <i>ESO</i> forums.</p> 
-<p>Are you excited to see all the improvements in Update 43? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>Community</category>
-            <category>Update 43</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/07/d0e7f87c2db24925ffee9612c3be11d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
