@@ -4,10 +4,18 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 30 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 18:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[ESO Guild Survey]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/666764/eso-guild-survey</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/666764/eso-guild-survey</guid>
+            <pubDate>Wed, 02 Oct 2024 18:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone! In a continued effort to improve our systems and provide the experiences you desire out of our systems, we have a survey available to collect your feedback. This survey is focused on the Guild Experience for ESO. The survey is estimated to take about 5-7 minutes of your time on average, but that will also vary depending on how much feedback you provide. The link to the survey is available below. We'll also leave this thread open for any additional feedback on guilds that the survey did not cover. Thanks in advance to all who submit feedback on your guild experience and how it can be improved.<br><br><a href="https://feedback.bethesda.net/jfe/form/SV_26afDnMXbQv9Yp0?utm_source=Community&amp;utm_medium=Social">Link to ESO Guilds Survey</a>]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Crown Store Showcase—October 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66779</link>
