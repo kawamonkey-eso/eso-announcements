@@ -4,7 +4,7 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 29 Oct 2024 22:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 22:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Update 44 Known Issues List]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</guid>
-            <pubDate>Tue, 29 Oct 2024 22:03:32 GMT</pubDate>
+            <pubDate>Wed, 30 Oct 2024 22:31:43 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone, we're following up with a list of known issues after yesterday's PC launch of Update 44. There is a list of all ongoing issues and their status. We also have a hotfix we are working, slated for Oct.30, 2024 to address some identified issues. Thanks for your patience.  This list will be changing as we have several items changing on the fly.<br><br><b>List of Known Issues </b><br><i>Banner Bearer Skill Issue </i>
 <ul><li>The Banner Bearer skill is not working as intended. It is causing a variety of unintended interactions with other skills.</li>
 <li><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024.</li>
@@ -73,8 +73,42 @@
 </ul><br><i>Battleground Spectators Removed For Inactivity</i>
 <ul><li>We have seen a few reports of players being removed for inactivity when spectating in Battlegrounds matches.</li>
 <li>[Status] The issue has been identified and targeting an fix for the next incremental patch.</li>
-</ul>,Sorry to all who commented, this was supped to be a closed thread. Just to make sure there are clear lines for updates. Sorry about that!,Update: Due to the PS NA maintenance happening at the moment, the hotfix will be push to tomorrow, 10/30/2024. We have updated the post above to reflect that.]]></content:encoded>
+</ul><br><i>Cyrodill Repair Kits</i>
+<ul><li>We are aware of the issue regarding Cyrodill Repair Kits not working as intended.</li>
+<li>[Status] This is currently under investigation and we are looking to resolve this as soon as possible. <a href="https://forums.elderscrollsonline.com/en/discussion/668156">Update here</a>.</li>
+</ul>,Sorry to all who commented, this was supped to be a closed thread. Just to make sure there are clear lines for updates. Sorry about that!,Update: Due to the PS NA maintenance happening at the moment, the hotfix will be push to tomorrow, 10/30/2024. We have updated the post above to reflect that.,We have added the Cyrodiil Repair Kit issue to the list.]]></content:encoded>
             <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Share Your Festive Witches Festival (or Halloween) Inspired Creations!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/668101/share-your-festive-witches-festival-or-halloween-inspired-creations</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/668101/share-your-festive-witches-festival-or-halloween-inspired-creations</guid>
+            <pubDate>Wed, 30 Oct 2024 14:39:11 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! As many of you know, it's the spookiest time of the year in Tamriel, and Halloween is almost here. If you're celebrating in-game, show us your creepy (or fun) costumes, haunted housing looks, or creative themed photos in this thread! Anything shared by Tuesday, November 5 may be selecting for our community blog highlight post next week!<br><img src="https://us.v-cdn.net/5020507/uploads/editor/me/px9s4txh9gu3.png"><br>]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Daily Login Rewards—November 2024]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66897</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66897</guid>
+            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wear the cycle of life and death with these free rewards you can claim by logging in to The Elder Scrolls Online this November.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/ba3146d72e5e74a21a27f4c48a8d5c24.jpg" /><p><i>Wear the cycle of life and death with these free rewards you can claim by logging in to The Elder Scrolls Online this November.</i></p> 
+<p>A new month is about to begin, and along with it comes a fresh assortment of free rewards ready to be claimed via the Daily Login Rewards system! Itching to discover what goodies await you this November? Check out a few of the highlights below. And if you are curious to learn how Daily Login Rewards work, be sure to read over <a href="https://help.elderscrollsonline.com/#en/answer/41950">this help article</a> that'll include all you need to know.</p><p><br></p> 
+<p><b>Instant All Research Scroll ×10—Days 7</b> </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/08d020bf2a776549f7ad4fa2b999eee6.jpg" />
+<p style="text-align: center;"><i>Quickly Master New Crafting Traits</i></p> <p>With these Research Scrolls, you can accelerate unlocking new Blacksmithing, Clothing, Woodworking, and Jewelry crafting traits, available on your seventh login this month!</p><p><br></p> <p><b>Face Marking: Cycle Behind the Stars—Days 14</b></p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/a983e4044299c2828e6df05ba9cddf84.jpg" />
+<p style="text-align: center;"><i>Symbolize the wind guardian's embrace</i></p> <p>Update your looks with the Cycle Behind the Stars face markings, ready to be claimed after 14 days of logins this month.</p><p><br></p> <p><b>Body Marking: Cycle Behind the Stars—Days 15</b></p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/28bc619cb9b1001c650297f0ebef19d7.jpg" />
+<p style="text-align: center;"><i>Honor the lost with this decorative body marking</i></p> <p>Preserve the memory of passed loved ones with these ornamental body markings. Unlock the Cycle Behind the Stars body markings after your 15<sup>th</sup> login.</p><p><br></p> <p><b>Seals of Endeavor ×300—Day 21</b></p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/10/cbf054f9fa4122ee9be26996607da8d2.jpg" />
+<p style="text-align: center;"><i>Cash in with these Seals of Endeavor</i></p> 
+<p>Has a Crown Crate goodie caught your eye? Luckily, you can pick up an assortment of 300 Seals of Endeavor. These can help you acquire whatever Crown Crate item you fancy and are available after logging in for 21 days this month. Learn more about Seals of Endeavor <a href="https://www.elderscrollsonline.com/en-us/guides/endeavors">in this guide</a>.</p><p><br></p> 
+<p>This is just a preview of all the rewards you can claim this November. If you want to view a full list, head over to the Daily Rewards section of the in-game Crown Store on November 1 to learn more! Are you excited to unlock 30 complimentary rewards by logging in to <i>ESO</i> every day this month? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Daily Rewards</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/ba3146d72e5e74a21a27f4c48a8d5c24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Update 44 Base-Game Patch Now Live on PC/Mac]]></title>
@@ -111,7 +145,7 @@
 <p>In addition, many of the area's existing vendors have enjoyed upgrades to their wares, including their quality and selection. With Update 44, plundering the capital has never been more rewarding!</p> 
 <h2>Additional Features &amp; Improvements</h2> 
 <p>Arriving in tandem with the above new features are a series of improvements, additions, and features that all <i>ESO</i> players will appreciate. This includes:</p> 
-<ul><li>An increase of furnishing base materials in regular harvest nodes</li><li>HDR support for PC players</li><ul><li>Including various new visual settings such as HDR scene brightness and contrast</li></ul><li>The addition of quest pips for Master Writs</li><ul><li>Including both quest markers and objective tracking</li></ul><li>The addition of bonus PvP perks for ESO Plus members</li><ul><li>10% boost to Alliance Points earned (the currency), your PvP Skill Line ranks, and Alliance rank (not leaderboards or Rewards of the Worthy grant rate)</li><li>10% boost to Tel Var Stones gained from killing monsters</li></ul></ul> 
+<ul><li>An increase of furnishing base materials in regular harvest nodes</li><li>HDR support for PC players</li><ul><li>Including various new visual settings such as HDR scene brightness and contrast</li></ul><li>The addition of quest pips for Master Writs</li><ul><li>Including both quest markers and objective tracking</li></ul><li>The addition of bonus PvP perks for ESO Plus members</li><ul><li>10% boost to Alliance Points earned (the currency), your PvP Skill Line ranks, and Alliance rank (not leaderboards or Rewards for the Worthy grant rate)</li><li>10% boost to Tel Var Stones gained from killing monsters</li></ul></ul> 
 <p>These are just some of the changes and additions coming with Update 44. For more on all of the above and info on the bugfixes and balance tweaks arriving with this new base-game patch, be sure to check out the <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes on our official forums</a>. </p> 
 <h2>New Battles, Allies, and Rewards</h2> 
 <p>Whether you're an experienced veteran of <i>ESO</i>'s fast-paced PvP mode, a humble adventurer seeking new allies, or an explorer of the unknown pursuing new powers and rewards, Update 44 has something for you! Are you ready to rejoin the Battlegrounds? Which Companion will you recruit first? Tell us via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p> 
@@ -922,19 +956,6 @@
             <category>News</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/5a802b2465042119b5044ceed5fcc6b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Elder Scrolls Online is Now Playable on Steam Deck!]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66641</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66641</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[ESO players on Steam can now explore Tamriel using the portable Steam Deck!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/8ec7467b58e0c7aa9dd7f30ed91cc9ba.jpg" /><p><i>ESO players on Steam can now explore Tamriel using the portable Steam Deck! </i></p> 
-<p>We are thrilled to announce that <i>The Elder Scrolls Online </i>now has “Playable” status on the <a href="https://store.steampowered.com/steamdeck">Steam Deck</a>. This means that Steam <i>ESO</i> players can now venture into Tamriel's Second Era using the portable PC gaming device. Never miss a Daily Login Reward again! </p> 
-<p>If you play on Steam and have a Steam Deck, simply find the game in your Library to begin the download. Note that while the game is now officially “Playable,” it won't have full “Verified” status until a future update, meaning you might encounter some unexpected UI issues. </p> 
-<p>To discover more about the Steam Deck, <a href="https://store.steampowered.com/steamdeck">visit their official website</a>. For help or support for your Steam Deck, visit <a href="https://help.steampowered.com/en/wizard/HelpWithSteamDeck">Steam Support here.</a> Can't wait to get started? Tell us if you're excited to explore Tamriel on Steam's portable device via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, or <a href="https://www.facebook.com/ElderScrollsOnline">Facebook</a>—have fun! </p>]]></content:encoded>
-            <category>News</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/8ec7467b58e0c7aa9dd7f30ed91cc9ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
