@@ -4,33 +4,46 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 31 Oct 2024 19:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[ESO's November 2024 Survival Guide]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/66891</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/66891</guid>
+            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Enjoy Update 44 on all platforms, a return to High Isle, and more during another packed month of The Elder Scrolls Online!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/161ac0f2595bd99acc8e4697739ff435.jpg" /><p><i>Enjoy Update 44 on all platforms, a return to High Isle, and more during another packed month of The Elder Scrolls Online!</i></p> <p>November 2024 is here, and it brings a variety of exciting events, offers, and entertainment with it. This month, enjoy everything from the mayhem of new PvP Battlegrounds to a brand-new event. Want to know more? Check out (almost) everything coming to <i>ESO</i> below.</p><p><br></p> <p> <b>Experience Boost Mini-Event (11/7-11/12)</b></p> <p>Want to hit that next level up or collect some more Champion Points? Do it faster with the Experience Boost mini-event that grants a 100% boost to XP earned for the duration. Please note, Event Tickets do not drop during mini-events.</p><p><br></p> <p><b>Update 44 Console Launch (11/13)</b></p> <p>After launching on PC/Mac in October, Update 44 makes its way to Xbox and PlayStation consoles on November 13. Enjoy the company of new companions, the challenge of revamped Battlegrounds, expanded customization options through Scribing and Skill Styles, and more!</p><p><br></p> <p><b>Game Pass Perks (11/13-1/12)</b></p> <p>You can claim more perks with Xbox Game Pass Ultimate in November as our fourth bundle of perks launches on November 13. Look for an official announcement on <a href="https://www.elderscrollsonline.com/en-us/home">elderscrollsonline.com</a> with more information on the day!</p><p><br></p><p><b>Battlegrounds Domination Weekend (11/14-11/19)</b></p><p> </p><p>Take part in Battlegrounds, newly revamped in Update 44, with as many Domination matches as you care to … well, dominate!</p><p><br></p><p><b>November Anniversary Spotlight (11/18-11/25)</b></p><p>Expect the Anniversary Spotlight for November, featuring <i>ESO</i>'s first Golden Pursuits campaign, in the middle of the month. No peeking!</p><p><br></p><p><b><i>ESO</i> Battlegrounds Brawl Livestream (11/20)</b></p><p> </p><p>On November 20, you can spectate a day of Battlegrounds-themed livestreams featuring teams made up of developers, streamers, and our friends from Alienware Hive. Get ready for Twitch Drops and an exciting day of PvP action. You can get in on the PvP action by queuing for Battlegrounds in-game!</p><p><br></p> <p><b>Legacy of the Bretons Celebration (11/21-12/3)</b></p> <p>Cap off the month with a new in-game event that highlights 2022's Legacy of the Bretons storyline and zones. Check out the <a href="https://www.elderscrollsonline.com/en-us/home">official website</a> when we get closer to the event for more details.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/d0c5c3d392002617a91ac583d282fba8.jpg" />
+<p style="text-align: center; "><i>November 2024 Roadmap</i></p> <p>This November is shaping up to be a great month, with events, promotions, and the release of our latest base-game update on all platforms. Which of the month's offerings are you most excited about? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/161ac0f2595bd99acc8e4697739ff435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Update 44 Known Issues List]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</guid>
             <pubDate>Thu, 31 Oct 2024 19:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone, we're following up with a list of known issues after yesterday's PC launch of Update 44. There is a list of all ongoing issues and their status. We also have a hotfix we are working, slated for Oct.30, 2024 to address some identified issues. Thanks for your patience.  This list will be changing as we have several items changing on the fly.<br><br><b>List of Known Issues </b><br><i>Banner Bearer Skill Issue </i>
+            <content:encoded><![CDATA[Hi everyone, we're following up with a list of known issues after yesterday's PC launch of Update 44. There is a list of all ongoing issues and their status. We also have a hotfix we are working, slated for Oct.30, 2024 to address some identified issues. Thanks for your patience.  This list will be changing as we have several items changing on the fly.<br><br><b>List of Known Issues </b><br><i>Banner Bearer Skill Issue </i> <span style="color:blue">Resolved Oct. 30 </span>
 <ul><li>The Banner Bearer skill is not working as intended. It is causing a variety of unintended interactions with other skills.</li>
-<li><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024.</li>
-</ul><br><i>Battlegrounds Competitive Leaderboards </i>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
+</ul><br><i>Battlegrounds Competitive Leaderboards </i> <span style="color:blue">Resolved on Nov.1 </span>
 <ul><li>The Battlegrounds competitive leaderboards are currently not working as intended, including leaderboard reward delivery.</li>
-<li><b>[Status]</b> We are currently investigating this issue to work toward a fix. For the time being, we have locked leaderboards.</li>
-</ul><br><i>Battlegrounds Not Starting Properly</i>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We are currently investigating this issue to work toward a fix. For the time being, we have locked leaderboards. </span></li>
+</ul><br><i>Battlegrounds Not Starting Properly</i> [<span style="color:blue">Resolved on Nov. 1 </span>
 <ul><li>There is currently an issue in 8v8 Battlegrounds where the battleground is not filling all teams correctly and failing to start the battleground.</li>
-<li><b>[Status]</b> We have reproduced this issue and working toward a fix.</li>
-</ul><br><i>Umaril's Radiance Elk Mount </i>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have reproduced this issue and working toward a fix.  </span></li>
+</ul><br><i>Umaril's Radiance Elk Mount </i> <span style="color:blue">Resolved Oct. 30 </span>
 <ul><li>Currently, the Umaril's Radiance Elk is not working as intended and invisible to players.</li>
-<li><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024.</li>
-</ul><br><i>Client Crash Issue </i>
-<ul><li>We have identified an issue where certain effects can result in a rare client to crash to desktop.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
+</ul><br><i>Client Crash Issue </i> <span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>We have identified an issue where certain effects can result in a rare client to crash to desktop.<br><span style="text-decoration: line-through;"></span></li>
 <li><b>[Status]</b> We are investigating the cause of these minor crashes.</li>
-</ul><br><i>Crypt of Hearts I: Death's Leviathan Encounter </i>
+</ul><br><i>Crypt of Hearts I: Death's Leviathan Encounter </i> <span style="color:blue">Resolved Oct. 30 </span>
 <ul><li>When players join the Death's Leviathan Encounter in progress, sometimes the upon the boss death, the encounter does not end and stops progression. This is not intended.</li>
-<li><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
 </ul><br><i>Strid River Valley Battlegrounds Map </i>
 <ul><li>The Strid River Valley Map is missing the river part.</li>
 <li><b>[Status]</b> We have identified the issue to restore the water to the river. In tomorrow's hotfix (Oct. 30) we have temporarily removed the Strid River Valley Battleground from the Battleground Queue options until we are able to get the ship floating in water appropriately, with slaughterfish.</li>
@@ -73,9 +86,12 @@
 </ul><br><i>Battleground Spectators Removed For Inactivity</i>
 <ul><li>We have seen a few reports of players being removed for inactivity when spectating in Battlegrounds matches.</li>
 <li>[Status] The issue has been identified and targeting an fix for the next incremental patch.</li>
-</ul><br><i>Cyrodill Repair Kits</i>
+</ul><br><i>Cyrodill Repair Kits</i> <span style="color:blue">Resolved on Nov. 1 </span>
 <ul><li>We are aware of the issue regarding Cyrodill Repair Kits not working as intended.</li>
-<li>[Status] This is currently under investigation and we are looking to resolve this as soon as possible. <a href="https://forums.elderscrollsonline.com/en/discussion/668156">Update here</a>.</li>
+<li><span style="text-decoration: line-through;">[Status] This is currently under investigation and we are looking to resolve this as soon as possible. <a href="https://forums.elderscrollsonline.com/en/discussion/668156">Update here</a>.<br></span></li>
+</ul><br><br><i>Anniversary Cake Slice not returning to bag. </i> <span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>We identified an issue where when the Anniversary Cake Slice was used, it could not be returned to your bag.</li>
+<li><span style="text-decoration: line-through;">[Status] The issue has been identified and targeting an fix for the Nov. 1 hotfix.</span></li>
 </ul>,Sorry to all who commented, this was supped to be a closed thread. Just to make sure there are clear lines for updates. Sorry about that!,Update: Due to the PS NA maintenance happening at the moment, the hotfix will be push to tomorrow, 10/30/2024. We have updated the post above to reflect that.,We have added the Cyrodiil Repair Kit issue to the list.,Hi All, we have posted an update on maintenance for Nov 1st to address some battlegrounds issues and the Cyrodiil Repair Kit issue. You can read the update here: <a href="https://forums.elderscrollsonline.com/en/discussion/668104">https://forums.elderscrollsonline.com/en/discussion/668104</a>]]></content:encoded>
             <category>Forum</category>
         </item>
@@ -699,7 +715,7 @@
             <title><![CDATA[Daily Login Rewards—October 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66763</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66763</guid>
-            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Create a spooky scene in your home with this month's Daily Login Rewards.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/09/ec9cca28f84ee38379dec1176998163c.jpg" /><p><i>Create a spooky scene in your home with this month's Daily Login Rewards.</i></p> 
 <p>Tamriel's frightful festival is just around the corner, and the Daily Login Rewards are here to help! Seasonal goodies abound, as well as items and currencies that can help you <a href="https://www.elderscrollsonline.com/en-us/news/post/66701">get ready for Update 44</a> (coming October 28 to PC/Mac and November 13 for Xbox and PlayStation consoles).</p> 
@@ -919,42 +935,6 @@
             <category>News</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/db3c7043007b37b8e9f28315abf3cfb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ESO's September 2024 Survival Guide]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66653</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66653</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Celebrate 10 years of ESO AND the full release of Update 43 by not missing a beat during what is set to be a very busy month for The Elder Scrolls Online!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/f99a363886f0be954168a81dc2783c38.jpg" /><p><i>Celebrate 10 years of ESO AND the full release of Update 43 by not missing a beat during what is set to be a very busy month for The Elder Scrolls Online!</i></p> 
-<p>This coming September 2024, you can check out a host of fantastic in-game events, participate in a special community contest, and discover what's coming in Update 44. Here's everything you need to know about this upcoming month!</p> 
-<p> </p> 
-<p><b>Xbox Game Pass Perks (8/14-10/13)</b></p> 
-<p>If you're an Xbox player and have yet to claim the latest Game Pass Perk rewards (one Attribute Respecification Scroll and three Gold Coast Experience Scrolls), there's still time. <a href="https://www.elderscrollsonline.com/en-us/news/post/66537">Visit this blog</a> for more information about this latest wave of goodies.</p><p><br></p><p> </p> 
-<p><b>Anniversary Spotlight: Dungeon Runners, Rise Up (9/1-9/30)</b></p> 
-<p>Our next Anniversary Spotlight focuses on Tamriel's myriad challenging dungeons and the players who take them on. Claim two free DLC dungeons (as Daily Login Rewards), unlock the Dungeon Explorer costume and Thurvokun arms pack, and receive Undaunted Keys when completing dungeon-themed Endeavors. Learn more about this new spotlight <a href="https://www.elderscrollsonline.com/en-us/news/post/66575" target="_blank" style="">in this blog</a>.</p><p><br></p><p> </p> 
-<p><b>Daily Login Rewards (9/1-9/30)</b></p> 
-<p>A new month means new Daily Login Rewards, and September is going to be another great one. Pick up a host of furnishings in addition to the two DLC dungeons and more. Check out our <a href="https://www.elderscrollsonline.com/en-us/news/post/66629" target="_blank" style="">preview blog here</a> for all the details.</p><p><br></p><p> </p> 
-<p><b>U43 Console Launch (9/4)</b></p> 
-<p>Xbox and PlayStation players finally get their hands on <a href="https://www.elderscrollsonline.com/en-us/news/post/66487">Update 43</a>, allowing them to explore all the new additions to the Infinite Archive and make use of the new Home Tours tool.</p><p><br></p><p> </p> 
-<p><b>ESO Home Tours Contest (9/4-10/1)</b></p> 
-<p>In celebration of the new Home Tours tool, we're inviting the community to share their homes with us for a chance to win some fantastic prizes. Keep an eye out for this new contest's official announcement on September 4. We can't wait to see what you create!</p><p><br></p><p> </p> 
-<p><b>U44 Preview Livestream (9/10)</b></p> 
-<p>Discover what lies ahead for <i>ESO </i>throughout the rest of 2024 with a brand-new preview livestream! Tune in to <a href="https://www.twitch.tv/Bethesda">Twitch.tv/Bethesda</a> to learn about the update to PvP, our 10-Year Anniversary plans, and more!</p><p><br></p><p> </p> 
-<p><b>Undaunted Celebration (9/12-9/24)</b></p> 
-<p>WE. ARE. UNDAUNTED! Get bonus rewards when delving into Tamriel's dungeons during the Undaunted Celebration in-game event. Check the <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank">official website</a> for more details closer to the event's kickoff.</p><p><br></p><p> </p> 
-<p><b>ESO 10-Year Anniversary Italian Celebration In-Person Event (9/14)</b></p> 
-<p>The Italian #ESOFam commemorates a decade of <i>ESO</i> with an unforgettable night of mystery and fun in Grazzano Visconti, Italy.</p><p><br></p><p> </p> 
-<p><b>ESO 10-Year Anniversary North American Meetup (9/21)</b></p> 
-<p>Mix and mingle with members of the <i>ESO </i>community and development teams at a new North American gathering in San Diego. Check out <a href="https://www.elderscrollsonline.com/en-us/news/post/66589" target="_blank">the details here</a><b></b>!</p><p><br></p><p> </p> 
-<p><b>Fallen Leaves of West Weald (9/26-10/8)</b></p> 
-<p>Jump back into West Weald and work together to unlock special rewards for the community during the Fallen Leaves of West Weald in-game event. Visit the <a href="https://www.elderscrollsonline.com/en-us/home" target="_blank">official website</a> for more details soon. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/8e092d8cc39433334f71c14feb48214d.jpg" />
-<p style="text-align: center;"><i>September 2024 Roadmap</i></p> 
-<p>September brings your first look at Update 44, fun community gatherings, and rewarding in-game events. Note that some of the above dates and items may change in the coming weeks, so don't forget to keep an eye on <a href="https://www.elderscrollsonline.com/">elderscrollsonline.com</a> for all the latest. Are you ready for another action-packed month for <i>The Elder Scrolls Online</i>? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>Community</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/f99a363886f0be954168a81dc2783c38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
