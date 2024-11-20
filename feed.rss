@@ -4,10 +4,19 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 18 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 22:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Issue with Battlemaster's Worm Fangs]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</guid>
+            <pubDate>Tue, 19 Nov 2024 22:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[Hi all, we have a quick update regarding an unintended interaction with Battlemaster's Worm Fangs. Currently when you use the item, which consumes 5 battlemaster tokens and the item, the appropriate reward Runebound Tome: Fanged Worm Styles are not granted. This is not working as intended.<br><br>
+The team is aware of the issue and working to resolve this, but in the meantime, do not use the Battlemaster's Worm Fangs items if you are trying to obtain Runebound Tome: Fanged Worm Styles. We'll follow up once we have more information regarding the deployment of a fix. Thank you.<br>,Hi All, following up on this. Our team has identified the issue impacting Battlemaster's Worm Fangs and and working toward a fix. However, until a fix is ready, we have hotfixed in a temporary measure to stop the usage or vendor purchase of Battlemaster's Worm Fangs. This is to avoid anyone from attempting to use the item and having it consumed without granting the appropriate reward. We will remove this measure when we have a fix for Battlemaster's Worm Fangs to work as intended. Thanks and we will update once we have more information.]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Anniversary Spotlight—Welcome to Golden Pursuits]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67197</link>
@@ -29,19 +38,10 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/10e89a594c45815b65e00eaa05d65073.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Issue with Battlemaster's Worm Fangs]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</guid>
-            <pubDate>Fri, 15 Nov 2024 22:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[Hi all, we have a quick update regarding an unintended interaction with Battlemaster's Worm Fangs. Currently when you use the item, which consumes 5 battlemaster tokens and the item, the appropriate reward Runebound Tome: Fanged Worm Styles are not granted. This is not working as intended.<br><br>
-The team is aware of the issue and working to resolve this, but in the meantime, do not use the Battlemaster's Worm Fangs items if you are trying to obtain Runebound Tome: Fanged Worm Styles. We'll follow up once we have more information regarding the deployment of a fix. Thank you.<br>]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
             <title><![CDATA[Watch Streamers, Developers, and Special Guests Clash during the ESO Battlegrounds Brawl!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67199</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67199</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Get ready as a mighty assembly of ESO creators, developers, and special guests fight it out on Twitch.TV during an action-packed day of PvP fun.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/7e8f2e2e2b92c59ef8097908b56e3ee5.jpg" /><p><i>Get ready as a mighty assembly of ESO creators, developers, and special guests fight it out on Twitch.TV during an action-packed day of PvP fun.</i></p> <p>Starting next Wednesday, November 20, we've teamed up with our friends from <a href="https://na.alienwarearena.com/page/hive-influencers">Alienware Hive</a> to host the official <i>ESO</i> Battlegrounds Brawl! This special livestream event will see different teams throughout the day compete within the new-look Battlegrounds (introduced with the recent Update 44 base-game patch), including a very special livestream hosted on <a href="https://www.twitch.tv/Bethesda">Twitch.TV/Bethesda</a> starting at 12:30PM ET. </p> <p>If you're a veteran PvPer or brand new to <i>ESO</i>'s Battlegrounds, be sure to queue up during the event for the chance to clash with the following squads:</p><p><br></p><p> </p> <p><b>Team 1 on PC NA (SypherPK and friends) </b> Kicking off at 12:30PM ET on <a href="https://www.twitch.tv/Bethesda">Twitch.TV/Bethesda</a></p> <ul><li>Alienware Hive member <a href="https://www.twitch.tv/sypherpk" target="_blank">SypherPK</a></li><li><i>ESO </i>Lead Combat &amp; PvP Designer Brian Wheeler </li><li><i>ESO </i>Senior Server Engineer Madeline Marsh</li><li>ESO Stream Team member <a href="https://www.twitch.tv/saenyra" target="_blank">Saenyra</a></li></ul><p><br></p> <p><b>Team 2 on PC NA (ESO Livestreamers &amp; Gilliamtherogue)</b></p> <ul><li>ESO Stream Team member <a href="https://www.twitch.tv/painintheaxe" target="_blank">PainInTheAxe</a></li><li>ESO Stream Team member <a href="https://www.twitch.tv/okuy" target="_blank">Okuy</a></li><li>ESO streamer <a href="https://www.twitch.tv/sagetoad11" target="_blank">SageToad11</a></li><li>ESO Senior Combat Designer Gilliamtherogue</li></ul><p><br></p> <p><b>Team 3 on PC NA (Alienware Hive)</b></p> <ul><li>Alienware Hive member <a href="https://www.twitch.tv/pylawn" target="_blank">Pylawn</a></li><li>Alienware Hive member <a href="https://www.twitch.tv/thegeekentry" target="_blank">TheGeekEntry</a></li><li>Alienware Hive member <a href="https://www.twitch.tv/maudegarrett" target="_blank">MaudeGarrett</a></li></ul><p><br></p> <p><b>Team 4 on XBO NA (ESO Creators &amp; Livestreamers)</b></p> <ul><li>ESO Creator Program member <a href="https://www.youtube.com/channel/UCcgrb95AIB6Of5Z3TUR6Btg" target="_blank">JakeClips</a></li><li>ESO Creator Program member <a href="https://www.youtube.com/channel/UCzi9Hys3PTuhwgOYyB3rlXw" target="_blank">CozyCaster</a></li><li><i>ESO </i>player Sunswrath</li><li><i>ESO </i>player Sweetash0ney</li></ul> <p>That's right, in addition to a host of Stream Team members, <i>ESO </i>creators, and developers, SypherPK once again returns to <i>ESO</i> for this special event, and he's bringing a top-tier team with him! </p><p>Note that these are just some of the squads that will be queueing up during the Battlegrounds Brawl. Keep an eye out for even more teams on the day, including <a href="https://www.twitch.tv/bisiobo" target="_blank">Stream Team Partner Bislobo</a> rallying a party for some 8v8 action on PC EU, and a full team from <a href="https://www.twitch.tv/ninjapullsgaming" target="_blank">ESO Stream Team member NinjaPullsGaming</a>! </p> <p>Catch the action live on Twitch on any <i>ESO </i>channel and watch for at least 30 minutes, and you'll also earn the Chaosball Cohort pet as a Twitch drop. Don't forget to link your account first. </p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/1aa19d71f894784c56a085866984d6de.jpg" />
@@ -835,7 +835,7 @@ The team is aware of the issue and working to resolve this, but in the meantime,
             <title><![CDATA[Daily Login Rewards—October 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/66763</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/66763</guid>
-            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Create a spooky scene in your home with this month's Daily Login Rewards.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/09/ec9cca28f84ee38379dec1176998163c.jpg" /><p><i>Create a spooky scene in your home with this month's Daily Login Rewards.</i></p> 
 <p>Tamriel's frightful festival is just around the corner, and the Daily Login Rewards are here to help! Seasonal goodies abound, as well as items and currencies that can help you <a href="https://www.elderscrollsonline.com/en-us/news/post/66701">get ready for Update 44</a> (coming October 28 to PC/Mac and November 13 for Xbox and PlayStation consoles).</p> 
