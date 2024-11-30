@@ -232,6 +232,15 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/7afa94c1f28c9390fb93d802d4a89143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Issue with Battlemaster's Worm Fangs]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</guid>
+            <pubDate>Tue, 19 Nov 2024 22:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[Hi all, we have a quick update regarding an unintended interaction with Battlemaster's Worm Fangs. Currently when you use the item, which consumes 5 battlemaster tokens and the item, the appropriate reward Runebound Tome: Fanged Worm Styles are not granted. This is not working as intended.<br><br>
+The team is aware of the issue and working to resolve this, but in the meantime, do not use the Battlemaster's Worm Fangs items if you are trying to obtain Runebound Tome: Fanged Worm Styles. We'll follow up once we have more information regarding the deployment of a fix. Thank you.<br>,Hi All, following up on this. Our team has identified the issue impacting Battlemaster's Worm Fangs and and working toward a fix. However, until a fix is ready, we have hotfixed in a temporary measure to stop the usage or vendor purchase of Battlemaster's Worm Fangs. This is to avoid anyone from attempting to use the item and having it consumed without granting the appropriate reward. We will remove this measure when we have a fix for Battlemaster's Worm Fangs to work as intended. Thanks and we will update once we have more information.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
             <title><![CDATA[Anniversary Spotlight—Welcome to Golden Pursuits]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67197</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67197</guid>
@@ -1031,6 +1040,13 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/09/3cbf05a253c6170679dc18563f6bc5f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 ESO Gift Exchange!!!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</guid>
+            <pubDate>Invalid Date</pubDate>
+            <category>Forum</category>
+        </item>
+        <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/660783/feedback-on-console-environmental-sustainability-features</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/660783/feedback-on-console-environmental-sustainability-features</guid>
@@ -1039,22 +1055,6 @@
 <ul><li>Reduced GPU use in Contextual Menus (Xbox Series X|S and PS5): When viewing most menus, (eg. managing inventory, achievements, quest journal, etc) framerate is now capped to 30fps. Some menus are exempt on a case-by-case basis (eg. conversations, various mini-games). Testing in Performance Mode while in these menus shows a 50% reduction in GPU consumption, resulting in overall power consumption going from approximately 63% of the maximum possible on a console down to 37%.</li>
 </ul>
 We're seeing your feedback about menus capped to 30fps is causing issues for some of you. Please let us know how it is impacting your play experience. We are sharing this with our teams to better inform them of your feedback and how we can improve the experience overall. Additionally, if you are experiencing other framerate issues with either your menus or player character, please note those here as well. Thanks, all.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[2024 ESO Gift Exchange!!!]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</guid>
-            <pubDate>Invalid Date</pubDate>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Issue with Battlemaster's Worm Fangs]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</guid>
-            <pubDate>Tue, 19 Nov 2024 22:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[Hi all, we have a quick update regarding an unintended interaction with Battlemaster's Worm Fangs. Currently when you use the item, which consumes 5 battlemaster tokens and the item, the appropriate reward Runebound Tome: Fanged Worm Styles are not granted. This is not working as intended.<br><br>
-The team is aware of the issue and working to resolve this, but in the meantime, do not use the Battlemaster's Worm Fangs items if you are trying to obtain Runebound Tome: Fanged Worm Styles. We'll follow up once we have more information regarding the deployment of a fix. Thank you.<br>,Hi All, following up on this. Our team has identified the issue impacting Battlemaster's Worm Fangs and and working toward a fix. However, until a fix is ready, we have hotfixed in a temporary measure to stop the usage or vendor purchase of Battlemaster's Worm Fangs. This is to avoid anyone from attempting to use the item and having it consumed without granting the appropriate reward. We will remove this measure when we have a fix for Battlemaster's Worm Fangs to work as intended. Thanks and we will update once we have more information.]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
