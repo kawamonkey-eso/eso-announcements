@@ -4,10 +4,42 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 05:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[ESO NA & EU Megaservers Offline - Dec 12]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/670288/eso-na-eu-megaservers-offline-dec-12</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/670288/eso-na-eu-megaservers-offline-dec-12</guid>
+            <pubDate>Fri, 13 Dec 2024 05:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone,<br><br>
+We are currently running into an issue where all ESO NA and EU megaservers, plus the ESO account page, are offline due to a datacenter power failure. We are working as quickly as possible to restore power and will let you know when we have an ETA.<br><br>
+Thanks for your patience!,While we continue to investigate, we want to let you know this outage is going to take a significant amount of time to recover from. At this time, we are estimating it could be at least 12 hours until we're up and running, however there's a chance it could take longer. The extent of this outage is unprecedented for ESO, and we will need to take time to ensure all realms come back online safely and efficiently. We'll continue to provide updates in this thread as we have information to share and appreciate your patience.,Just to give everyone an update, some power has been restored to a number of critical pieces in the datacenter, but there is still a lot of work to be done. We'll plan to provide another update in a couple hours.,Hi all, just providing an update. We are still hard at work getting systems back online. Based on what we know right now, we believe the Megaservers will most likely be offline longer than the original 12 hour estimation. We hope to provide more clarity on timeframe once we have a little more time to complete more work.<br><br>
+Regarding the scope of work, this issue we ran into today was an edge-case emergency power outage at the data center  that did not trigger standard backup failsafes for multiple tenants affected by the outage. (This type of outage is designed to cut ALL power in the event of a fire/flood scenario.) The outage now requires us to do a full reboot of our hardware while recovering from a full loss of power. Rebuilding piece by piece involves a methodical and lengthy process, including additional verification and testing as we bring the hardware online.<br><br>
+Hopefully this provides some clarity on the work happening right now. Thanks again for the continued patience.,Hi All, minor update as we are hearing back from some teams working on getting our hardware back online. Work is progressing smoothly right now. However, it's still too early to clock timing for when megaservers will be back online. We're hoping to get a bit more work done and checks verified before giving estimated times. We should know more in a few hours and provide an update then.,Update: We are still hard at work trying to get all live realms back up and running as soon as possible, and are making good progress on PC NA. The current plan is to open realms by platform (NA and EU together) as they come back online; the current order is not known but we will keep you posted.<br><br>
+Thanks for your continued patience and we'll check back in with everyone in a couple hours.,A bit more of a substantial update this time! We are making solid progress, though there is still a great deal of work to be done. We are anticipating work continuing through the night to get all Live realms tested and ready to be brought back online.<br><br>
+With that said, we are currently targeting opening PC NA and EU servers around 10am EST/3pm GMT on Friday, December 13 and will update on the status of console realms shortly after. The PTS will remain offline through the weekend with plans to bring it back online early next week.<br><br>
+We'll provide the latest status of everything in the morning (EST). The ongoing patience from everyone has been greatly appreciated.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Experience ESO Plus for FREE and Enjoy Access to DLC, Unlimited Crafting Space, and More!]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/67323</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/67323</guid>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Discover the benefits of an ESO Plus]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/12/7fd5508ee7240766d6f5d5bf21520f3c.jpg" /><p><i>Discover the benefits of an ESO Plus</i><i>™</i><i> Membership during a new free trial period, from now until December 19!</i></p> <h2>Experience the Advantages of ESO Plus</h2> <p>The ESO Plus Free Trial is now live and continues until December 19 at 10AM EST. Throughout this trial period, you can enjoy the following exclusive ESO Plus benefits free of charge:</p> <ul><li>Full access to over 20 DLC game packs—new zones, quests, dungeons, and more</li><ul><li>Includes 28 group dungeons, systems such as Antiquities and Tales of Tribute, and more!</li></ul><li>A Craft Bag providing unlimited storage for all your crafting materials</li><li>Double Bank space for all characters on your account</li><li>10% increase to experience, gold, and Archival Fortune acquisition, crafting inspiration, Alliance Points, Tel Var Stones, and trait research rates</li><li>Double furnishings and collectibles space in player housing </li><li>Exclusive ability to dye costumes </li><li>Double Transmute Crystal storage</li></ul> <p>Ready to try out ESO Plus for free? Follow these steps below to get started:</p> <ol><li>Log into <i>The Elder Scrolls Online</i></li><li>Navigate to the Crown Store</li><li>Select the ESO Plus tab</li><li>Select “Free Trial!”</li></ol> <p>Once you've activated your trial, all the benefits listed above will be available to you until December 19. Please note that this free trial does <b>not</b> grant access to the regular ESO Plus crowns stipend nor the Companions introduced in base-game Update 44, <i>Blackwood</i>, <i>High Isle</i>, or <i>Necrom</i> Chapters.</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/06/9db07c7eb9e9a2428a3e49640779ef4d.jpg" />
+<p>Want to continue enjoying the benefits of ESO Plus beyond this trial period? Then be sure to pick up a full membership including monthly crown stipends, exclusive in-game deals, and more via our ESO Plus page! Check out our <a href="https://www.elderscrollsonline.com/en-us/guides/esoplusguide">ESO Plus guide</a> to learn more.</p> 
+<h2>ESO Plus, At No Cost</h2> 
+<p>Increases to XP and gold gains, additional bag space, DLC access, and more are all available free of charge during this new ESO Plus Trial. Are you ready to experience the advantages of membership at zero cost? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p> 
+<p><i>The ESO Plus Free Trial is now live and will run until 10AM EST on Thursday, December 19, 2024.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>ESO Plus</category>
+            <category>Crown Store</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/12/7fd5508ee7240766d6f5d5bf21520f3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ESO LIVE: December 13 @ 1 PM EST—Cozy Cooking Stream]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67309</link>
@@ -786,29 +818,6 @@ The team is aware of the issue and working to resolve this, but in the meantime,
             <category>News</category>
             <category>Crown Store</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/05358eda1bee7c1ff2448cc5e93f4ca9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daily Login Rewards—November 2024]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/66897</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/66897</guid>
-            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Wear the cycle of life and death with these free rewards you can claim by logging in to The Elder Scrolls Online this November.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/ba3146d72e5e74a21a27f4c48a8d5c24.jpg" /><p><i>Wear the cycle of life and death with these free rewards you can claim by logging in to The Elder Scrolls Online this November.</i></p> 
-<p>A new month is about to begin, and along with it comes a fresh assortment of free rewards ready to be claimed via the Daily Login Rewards system! Itching to discover what goodies await you this November? Check out a few of the highlights below. And if you are curious to learn how Daily Login Rewards work, be sure to read over <a href="https://help.elderscrollsonline.com/#en/answer/41950">this help article</a> that'll include all you need to know.</p><p><br></p> 
-<p><b>Instant All Research Scroll ×10—Days 7</b> </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/08d020bf2a776549f7ad4fa2b999eee6.jpg" />
-<p style="text-align: center;"><i>Quickly Master New Crafting Traits</i></p> <p>With these Research Scrolls, you can accelerate unlocking new Blacksmithing, Clothing, Woodworking, and Jewelry crafting traits, available on your seventh login this month!</p><p><br></p> <p><b>Face Marking: Cycle Behind the Stars—Days 14</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/a983e4044299c2828e6df05ba9cddf84.jpg" />
-<p style="text-align: center;"><i>Symbolize the wind guardian's embrace</i></p> <p>Update your looks with the Cycle Behind the Stars face markings, ready to be claimed after 14 days of logins this month.</p><p><br></p> <p><b>Body Marking: Cycle Behind the Stars—Days 15</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/28bc619cb9b1001c650297f0ebef19d7.jpg" />
-<p style="text-align: center;"><i>Honor the lost with this decorative body marking</i></p> <p>Preserve the memory of passed loved ones with these ornamental body markings. Unlock the Cycle Behind the Stars body markings after your 15<sup>th</sup> login.</p><p><br></p> <p><b>Seals of Endeavor ×300—Day 21</b></p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2023/10/cbf054f9fa4122ee9be26996607da8d2.jpg" />
-<p style="text-align: center;"><i>Cash in with these Seals of Endeavor</i></p> 
-<p>Has a Crown Crate goodie caught your eye? Luckily, you can pick up an assortment of 300 Seals of Endeavor. These can help you acquire whatever Crown Crate item you fancy and are available after logging in for 21 days this month. Learn more about Seals of Endeavor <a href="https://www.elderscrollsonline.com/en-us/guides/endeavors">in this guide</a>.</p><p><br></p> 
-<p>This is just a preview of all the rewards you can claim this November. If you want to view a full list, head over to the Daily Rewards section of the in-game Crown Store on November 1 to learn more! Are you excited to unlock 30 complimentary rewards by logging in to <i>ESO</i> every day this month? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>Daily Rewards</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/ba3146d72e5e74a21a27f4c48a8d5c24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 ESO Gift Exchange!!!]]></title>
