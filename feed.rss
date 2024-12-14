@@ -4,15 +4,27 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 13 Dec 2024 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 22:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
         <item>
+            <title><![CDATA[Thanks For Your Patience During The Outage]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/670497/thanks-for-your-patience-during-the-outage</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/670497/thanks-for-your-patience-during-the-outage</guid>
+            <pubDate>Fri, 13 Dec 2024 22:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[Hello everyone. As communicated earlier, we now have all live megaservers online and available to players. We understand the outage was frustrating, but we want to thank you for your patience as we worked to bring the game back online.<br><br>
+We are extending the current ESO Plus Free Trial by one day to December 20, 2024. Additionally, we will be enhancing the first two days of the January 2025 Daily Login Rewards. They will consist of the following:<br><ul><li>Day One- 1000 Seals of Endeavor</li>
+<li>Day Two- (Qty. 5) Grand Gold Coast Experience Scrolls (150% EXP Scrolls)</li>
+</ul>
+We appreciate those who expressed kind words of encouragement during the process and thank you for your patience as we resolved the outage.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
             <title><![CDATA[ESO NA & EU Megaservers Offline - Dec 12]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/670288/eso-na-eu-megaservers-offline-dec-12</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/670288/eso-na-eu-megaservers-offline-dec-12</guid>
-            <pubDate>Fri, 13 Dec 2024 05:43:17 GMT</pubDate>
+            <pubDate>Fri, 13 Dec 2024 19:29:37 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone,<br><br>
 We are currently running into an issue where all ESO NA and EU megaservers, plus the ESO account page, are offline due to a datacenter power failure. We are working as quickly as possible to restore power and will let you know when we have an ETA.<br><br>
 Thanks for your patience!,While we continue to investigate, we want to let you know this outage is going to take a significant amount of time to recover from. At this time, we are estimating it could be at least 12 hours until we're up and running, however there's a chance it could take longer. The extent of this outage is unprecedented for ESO, and we will need to take time to ensure all realms come back online safely and efficiently. We'll continue to provide updates in this thread as we have information to share and appreciate your patience.,Just to give everyone an update, some power has been restored to a number of critical pieces in the datacenter, but there is still a lot of work to be done. We'll plan to provide another update in a couple hours.,Hi all, just providing an update. We are still hard at work getting systems back online. Based on what we know right now, we believe the Megaservers will most likely be offline longer than the original 12 hour estimation. We hope to provide more clarity on timeframe once we have a little more time to complete more work.<br><br>
@@ -20,7 +32,9 @@ Regarding the scope of work, this issue we ran into today was an edge-case emerg
 Hopefully this provides some clarity on the work happening right now. Thanks again for the continued patience.,Hi All, minor update as we are hearing back from some teams working on getting our hardware back online. Work is progressing smoothly right now. However, it's still too early to clock timing for when megaservers will be back online. We're hoping to get a bit more work done and checks verified before giving estimated times. We should know more in a few hours and provide an update then.,Update: We are still hard at work trying to get all live realms back up and running as soon as possible, and are making good progress on PC NA. The current plan is to open realms by platform (NA and EU together) as they come back online; the current order is not known but we will keep you posted.<br><br>
 Thanks for your continued patience and we'll check back in with everyone in a couple hours.,A bit more of a substantial update this time! We are making solid progress, though there is still a great deal of work to be done. We are anticipating work continuing through the night to get all Live realms tested and ready to be brought back online.<br><br>
 With that said, we are currently targeting opening PC NA and EU servers around 10am EST/3pm GMT on Friday, December 13 and will update on the status of console realms shortly after. The PTS will remain offline through the weekend with plans to bring it back online early next week.<br><br>
-We'll provide the latest status of everything in the morning (EST). The ongoing patience from everyone has been greatly appreciated.]]></content:encoded>
+We'll provide the latest status of everything in the morning (EST). The ongoing patience from everyone has been greatly appreciated.,Hi All. We have opened the PC NA and PC EU megaservers. We have been monitoring stability and keeping a close eye on things before issuing this wider all-clear on the realms.<br><br>
+The team is now working on the other platforms and anticipate, barring any unforeseen issues, opening these later today.  Thank you again for your patience as we resolve this.,Thanks again for everyone's continued patience! As mentioned above, PC NA and EU are back online; please submit a ticket with Customer Support if you notice any issues with your character. Additionally, the ESO account page is also back online.<br><br>
+We are currently focusing on getting console realms tested and expect both Xbox and PlayStation servers to be back online later today. We'll keep you posted on status and will provide an ETA when we can.,We have opened all of the Xbox and PlayStation realms. We will continue to monitor all realms for stability. Thank you for your patience as we have worked to bring the servers back online.]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
@@ -416,15 +430,6 @@ We'll provide the latest status of everything in the morning (EST). The ongoing 
             <category>News</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/7afa94c1f28c9390fb93d802d4a89143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Issue with Battlemaster's Worm Fangs]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/668956/issue-with-battlemasters-worm-fangs</guid>
-            <pubDate>Tue, 19 Nov 2024 22:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[Hi all, we have a quick update regarding an unintended interaction with Battlemaster's Worm Fangs. Currently when you use the item, which consumes 5 battlemaster tokens and the item, the appropriate reward Runebound Tome: Fanged Worm Styles are not granted. This is not working as intended.<br><br>
-The team is aware of the issue and working to resolve this, but in the meantime, do not use the Battlemaster's Worm Fangs items if you are trying to obtain Runebound Tome: Fanged Worm Styles. We'll follow up once we have more information regarding the deployment of a fix. Thank you.<br>,Hi All, following up on this. Our team has identified the issue impacting Battlemaster's Worm Fangs and and working toward a fix. However, until a fix is ready, we have hotfixed in a temporary measure to stop the usage or vendor purchase of Battlemaster's Worm Fangs. This is to avoid anyone from attempting to use the item and having it consumed without granting the appropriate reward. We will remove this measure when we have a fix for Battlemaster's Worm Fangs to work as intended. Thanks and we will update once we have more information.]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Anniversary Spotlight—Welcome to Golden Pursuits]]></title>
