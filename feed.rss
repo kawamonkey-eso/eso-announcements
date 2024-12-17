@@ -104,14 +104,6 @@ We are currently focusing on getting console realms tested and expect both Xbox 
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/12/8c61b2234341a96ecbe8bacfaeb96b0d227845.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[An Update on the 2025 ESO 10-Year Anniversary Celebration In-person Event Plans]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/669977/an-update-on-the-2025-eso-10-year-anniversary-celebration-in-person-event-plans</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/669977/an-update-on-the-2025-eso-10-year-anniversary-celebration-in-person-event-plans</guid>
-            <pubDate>Fri, 06 Dec 2024 15:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[Earlier this year we had the great pleasure of meeting so many of you in Amsterdam when we celebrated the 10-year anniversary of The Elder Scrolls Online. At the time, we had also planned a North American gathering for 2025. While we will continue to celebrate a decade of ESO with in-game content, activities, rewards and more, we will no longer be hosting an additional large-scale in-person event in North America. This was a difficult decision to make – we love hanging with the ESO family! – and we plan to continue holding smaller gatherings in various global locations, including meetups at industry events. Meanwhile, our focus, as always, continues to be on the game itself – on delivering fun, engaging, welcoming and challenging content for longtime and new players alike. From all of us at ZeniMax Online Studios, thank you for being such a dedicated part of the ESO community.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
             <title><![CDATA[Find Oblivion's Lost Treasures with the New Mirrormoor Crown Crates]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67159</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67159</guid>
@@ -593,80 +585,6 @@ We are currently focusing on getting console realms tested and expect both Xbox 
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/10/161ac0f2595bd99acc8e4697739ff435.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Update 44 Known Issues List]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</guid>
-            <pubDate>Thu, 31 Oct 2024 19:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone, we're following up with a list of known issues after yesterday's PC launch of Update 44. There is a list of all ongoing issues and their status. We also have a hotfix we are working, slated for Oct.30, 2024 to address some identified issues. Thanks for your patience.  This list will be changing as we have several items changing on the fly.<br><br><b>List of Known Issues </b><br><i>Banner Bearer Skill Issue </i> <span style="color:blue">Resolved Oct. 30 </span>
-<ul><li>The Banner Bearer skill is not working as intended. It is causing a variety of unintended interactions with other skills.</li>
-<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
-</ul><br><i>Battlegrounds Competitive Leaderboards </i> <span style="color:blue">Resolved on Nov.1 </span>
-<ul><li>The Battlegrounds competitive leaderboards are currently not working as intended, including leaderboard reward delivery.</li>
-<li><span style="text-decoration: line-through;"><b>[Status]</b> We are currently investigating this issue to work toward a fix. For the time being, we have locked leaderboards. </span></li>
-</ul><br><i>Battlegrounds Not Starting Properly</i> [<span style="color:blue">Resolved on Nov. 1 </span>
-<ul><li>There is currently an issue in 8v8 Battlegrounds where the battleground is not filling all teams correctly and failing to start the battleground.</li>
-<li><span style="text-decoration: line-through;"><b>[Status]</b> We have reproduced this issue and working toward a fix.  </span></li>
-</ul><br><i>Umaril's Radiance Elk Mount </i> <span style="color:blue">Resolved Oct. 30 </span>
-<ul><li>Currently, the Umaril's Radiance Elk is not working as intended and invisible to players.</li>
-<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
-</ul><br><i>Client Crash Issue </i> <span style="color:blue">Resolved on Nov. 1 </span>
-<ul><li>We have identified an issue where certain effects can result in a rare client to crash to desktop.<br><span style="text-decoration: line-through;"></span></li>
-<li><b>[Status]</b> We are investigating the cause of these minor crashes.</li>
-</ul><br><i>Crypt of Hearts I: Death's Leviathan Encounter </i> <span style="color:blue">Resolved Oct. 30 </span>
-<ul><li>When players join the Death's Leviathan Encounter in progress, sometimes the upon the boss death, the encounter does not end and stops progression. This is not intended.</li>
-<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
-</ul><br><i>Strid River Valley Battlegrounds Map </i>
-<ul><li>The Strid River Valley Map is missing the river part.</li>
-<li><b>[Status]</b> We have identified the issue to restore the water to the river. In tomorrow's hotfix (Oct. 30) we have temporarily removed the Strid River Valley Battleground from the Battleground Queue options until we are able to get the ship floating in water appropriately, with slaughterfish.</li>
-</ul><br><i>Chaosball Cannot Be Picked Up In A Transformed State </i>
-<ul><li>Players who are transformed into forms other than their standard humanoid form will no longer be able to pick up Chaos Balls which also Transform you into Behemoths or Vampire Lords. Standard Chaos Balls can be picked up while transformed if the Chaosball is in its native location, but not in the wild if you are transformed.</li>
-<li><b>[Status]</b> This is currently working as intended because we found issues during PTS would be problematic on the live server. This was the best way we could address it in the time we had before launch. However, we plan to address this in a future update to be consistent regardless of your transformation status when interacting with the Chaosball.</li>
-</ul><br><i>Ranked Competitor Achievement </i>
-<ul><li>Currently this achievement in being incorrectly gained through standard queue play, rather than competitive play.</li>
-<li><b>[Status]</b> We are working on a fix and this will be resolved in a future update.</li>
-</ul><br><i>Pumpkin Spectre Polymorph </i>
-<ul><li>The Pumpkin Spectre Polymorph is currently displaying the incorrect visual color.</li>
-<li><b>[Status]</b> We have identified the issue and this will be fixed in a future incremental update.</li>
-</ul><br><i>Infinite Archive Bugs </i>
-<ul><li>Various resolved bugs have creeped back up.</li>
-<li><b>[Status]</b> We are investigating what bugs are back and working to resolve these issues again.</li>
-</ul><br><i>Seeker Synthesis Set </i>
-<ul><li>The Seeker Synthesis Set is currently not working as intended. The set is locking potions in a permanent cooldown.</li>
-<li><b>[Status]</b> We are actively investigating this issue.</li>
-</ul><br><i>Chatbox Text disappearing </i>
-<ul><li>We have identified an issue where clicking in and out of the chatbox with text already in the chatbox causes the text to disappear.</li>
-<li><b>[Status]</b> We are investigating this issue currently.</li>
-</ul><br><i>Excavation Bonus Items  </i>
-<ul><li>We have reports of several purple quality excavations that didn't register the bonus rewards.</li>
-<li><b>[Status]</b> We have identified the issue and are working toward a fix for the next incremental patch.</li>
-</ul><br><i>Missing Spanish Translation for Tanlorin Quest </i>
-<ul><li>During Tanlorin's questline, some of the Spanish translation is missing when you arrive at the greenhouse to talk to Jacinto.</li>
-<li><b>[Status]</b> We have identified the issue and are working toward a fix.</li>
-</ul><br><i>Decorative Wall Drape, Mauve </i>
-<ul><li>This furnishing is not displaying the correct color, Mauve.</li>
-<li><b>[Status]</b> We have identified a fix and will have this fixed in our next incremental patch.</li>
-</ul><br><i>UserSettings.txt bug</i>
-<ul><li>Players identified an issue where the UserSettings.txt was not working as intended.</li>
-<li><b>[Status]</b> This bug as been identified and we are working on a fix for the next incremental patch.</li>
-</ul><br><i>Breton Interior Assets </i>
-<ul><li>Some of the Breton interior walls in the Fells Run Inn are invisible.</li>
-<li><b>[Status]</b> We have identified the issue and working toward a fix for our next incremental patch.</li>
-</ul><br><i>The Grip of Madness Quest</i>
-<ul><li>We have seen reports of players who are unable to continue the quest after entering the "East Sepulcher" during the quest step "Lower the Bridge".</li>
-<li><b>[Status]</b> The issue has been identified and targeting an fix for the next incremental patch.</li>
-</ul><br><i>Battleground Spectators Removed For Inactivity</i>
-<ul><li>We have seen a few reports of players being removed for inactivity when spectating in Battlegrounds matches.</li>
-<li>[Status] The issue has been identified and targeting an fix for the next incremental patch.</li>
-</ul><br><i>Cyrodill Repair Kits</i> <span style="color:blue">Resolved on Nov. 1 </span>
-<ul><li>We are aware of the issue regarding Cyrodill Repair Kits not working as intended.</li>
-<li><span style="text-decoration: line-through;">[Status] This is currently under investigation and we are looking to resolve this as soon as possible. <a href="https://forums.elderscrollsonline.com/en/discussion/668156">Update here</a>.<br></span></li>
-</ul><br><br><i>Anniversary Cake Slice not returning to bag. </i> <span style="color:blue">Resolved on Nov. 1 </span>
-<ul><li>We identified an issue where when the Anniversary Cake Slice was used, it could not be returned to your bag.</li>
-<li><span style="text-decoration: line-through;">[Status] The issue has been identified and targeting an fix for the Nov. 1 hotfix.</span></li>
-</ul>,Sorry to all who commented, this was supped to be a closed thread. Just to make sure there are clear lines for updates. Sorry about that!,Update: Due to the PS NA maintenance happening at the moment, the hotfix will be push to tomorrow, 10/30/2024. We have updated the post above to reflect that.,We have added the Cyrodiil Repair Kit issue to the list.,Hi All, we have posted an update on maintenance for Nov 1st to address some battlegrounds issues and the Cyrodiil Repair Kit issue. You can read the update here: <a href="https://forums.elderscrollsonline.com/en/discussion/668104">https://forums.elderscrollsonline.com/en/discussion/668104</a>]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
             <title><![CDATA[Crown Store Showcase—November 2024]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67109</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67109</guid>
@@ -829,6 +747,88 @@ We are currently focusing on getting console realms tested and expect both Xbox 
             <link>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/669467/2024-eso-gift-exchange</guid>
             <pubDate>Invalid Date</pubDate>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Datacenter Follow-Up]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/670628/datacenter-follow-up</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/670628/datacenter-follow-up</guid>
+            <pubDate>Mon, 16 Dec 2024 17:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[Hey everyone, I wanted to update everyone that we are recovering from the most severe system outage in ten years of ESO. Thank you all for being patient as we recover from this near worst case scenario where one of our datacenters lost all power for the first time ever. We will be dealing with the internal ramifications of this for weeks, but for now, all public live Realms are back online. I want to also extend thanks and gratitude to the many (many!) people at ZOS who have pitched in on 24-hour schedules to right the ship. This work continues, and shows the dedication and extreme pride in ESO that everyone at ZOS holds dear.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Update 44 Known Issues List]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/667619/update-44-known-issues-list</guid>
+            <pubDate>Thu, 31 Oct 2024 19:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone, we're following up with a list of known issues after yesterday's PC launch of Update 44. There is a list of all ongoing issues and their status. We also have a hotfix we are working, slated for Oct.30, 2024 to address some identified issues. Thanks for your patience.  This list will be changing as we have several items changing on the fly.<br><br><b>List of Known Issues </b><br><i>Banner Bearer Skill Issue </i> <span style="color:blue">Resolved Oct. 30 </span>
+<ul><li>The Banner Bearer skill is not working as intended. It is causing a variety of unintended interactions with other skills.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
+</ul><br><i>Battlegrounds Competitive Leaderboards </i> <span style="color:blue">Resolved on Nov.1 </span>
+<ul><li>The Battlegrounds competitive leaderboards are currently not working as intended, including leaderboard reward delivery.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We are currently investigating this issue to work toward a fix. For the time being, we have locked leaderboards. </span></li>
+</ul><br><i>Battlegrounds Not Starting Properly</i> [<span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>There is currently an issue in 8v8 Battlegrounds where the battleground is not filling all teams correctly and failing to start the battleground.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have reproduced this issue and working toward a fix.  </span></li>
+</ul><br><i>Umaril's Radiance Elk Mount </i> <span style="color:blue">Resolved Oct. 30 </span>
+<ul><li>Currently, the Umaril's Radiance Elk is not working as intended and invisible to players.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
+</ul><br><i>Client Crash Issue </i> <span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>We have identified an issue where certain effects can result in a rare client to crash to desktop.<br><span style="text-decoration: line-through;"></span></li>
+<li><b>[Status]</b> We are investigating the cause of these minor crashes.</li>
+</ul><br><i>Crypt of Hearts I: Death's Leviathan Encounter </i> <span style="color:blue">Resolved Oct. 30 </span>
+<ul><li>When players join the Death's Leviathan Encounter in progress, sometimes the upon the boss death, the encounter does not end and stops progression. This is not intended.</li>
+<li><span style="text-decoration: line-through;"><b>[Status]</b> We have identified the issue and this will be resolved via a hotfix on October 30, 2024. </span></li>
+</ul><br><i>Strid River Valley Battlegrounds Map </i>
+<ul><li>The Strid River Valley Map is missing the river part.</li>
+<li><b>[Status]</b> We have identified the issue to restore the water to the river. In tomorrow's hotfix (Oct. 30) we have temporarily removed the Strid River Valley Battleground from the Battleground Queue options until we are able to get the ship floating in water appropriately, with slaughterfish.</li>
+</ul><br><i>Chaosball Cannot Be Picked Up In A Transformed State </i>
+<ul><li>Players who are transformed into forms other than their standard humanoid form will no longer be able to pick up Chaos Balls which also Transform you into Behemoths or Vampire Lords. Standard Chaos Balls can be picked up while transformed if the Chaosball is in its native location, but not in the wild if you are transformed.</li>
+<li><b>[Status]</b> This is currently working as intended because we found issues during PTS would be problematic on the live server. This was the best way we could address it in the time we had before launch. However, we plan to address this in a future update to be consistent regardless of your transformation status when interacting with the Chaosball.</li>
+</ul><br><i>Ranked Competitor Achievement </i>
+<ul><li>Currently this achievement in being incorrectly gained through standard queue play, rather than competitive play.</li>
+<li><b>[Status]</b> We are working on a fix and this will be resolved in a future update.</li>
+</ul><br><i>Pumpkin Spectre Polymorph </i>
+<ul><li>The Pumpkin Spectre Polymorph is currently displaying the incorrect visual color.</li>
+<li><b>[Status]</b> We have identified the issue and this will be fixed in a future incremental update.</li>
+</ul><br><i>Infinite Archive Bugs </i>
+<ul><li>Various resolved bugs have creeped back up.</li>
+<li><b>[Status]</b> We are investigating what bugs are back and working to resolve these issues again.</li>
+</ul><br><i>Seeker Synthesis Set </i>
+<ul><li>The Seeker Synthesis Set is currently not working as intended. The set is locking potions in a permanent cooldown.</li>
+<li><b>[Status]</b> We are actively investigating this issue.</li>
+</ul><br><i>Chatbox Text disappearing </i>
+<ul><li>We have identified an issue where clicking in and out of the chatbox with text already in the chatbox causes the text to disappear.</li>
+<li><b>[Status]</b> We are investigating this issue currently.</li>
+</ul><br><i>Excavation Bonus Items  </i>
+<ul><li>We have reports of several purple quality excavations that didn't register the bonus rewards.</li>
+<li><b>[Status]</b> We have identified the issue and are working toward a fix for the next incremental patch.</li>
+</ul><br><i>Missing Spanish Translation for Tanlorin Quest </i>
+<ul><li>During Tanlorin's questline, some of the Spanish translation is missing when you arrive at the greenhouse to talk to Jacinto.</li>
+<li><b>[Status]</b> We have identified the issue and are working toward a fix.</li>
+</ul><br><i>Decorative Wall Drape, Mauve </i>
+<ul><li>This furnishing is not displaying the correct color, Mauve.</li>
+<li><b>[Status]</b> We have identified a fix and will have this fixed in our next incremental patch.</li>
+</ul><br><i>UserSettings.txt bug</i>
+<ul><li>Players identified an issue where the UserSettings.txt was not working as intended.</li>
+<li><b>[Status]</b> This bug as been identified and we are working on a fix for the next incremental patch.</li>
+</ul><br><i>Breton Interior Assets </i>
+<ul><li>Some of the Breton interior walls in the Fells Run Inn are invisible.</li>
+<li><b>[Status]</b> We have identified the issue and working toward a fix for our next incremental patch.</li>
+</ul><br><i>The Grip of Madness Quest</i>
+<ul><li>We have seen reports of players who are unable to continue the quest after entering the "East Sepulcher" during the quest step "Lower the Bridge".</li>
+<li><b>[Status]</b> The issue has been identified and targeting an fix for the next incremental patch.</li>
+</ul><br><i>Battleground Spectators Removed For Inactivity</i>
+<ul><li>We have seen a few reports of players being removed for inactivity when spectating in Battlegrounds matches.</li>
+<li>[Status] The issue has been identified and targeting an fix for the next incremental patch.</li>
+</ul><br><i>Cyrodill Repair Kits</i> <span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>We are aware of the issue regarding Cyrodill Repair Kits not working as intended.</li>
+<li><span style="text-decoration: line-through;">[Status] This is currently under investigation and we are looking to resolve this as soon as possible. <a href="https://forums.elderscrollsonline.com/en/discussion/668156">Update here</a>.<br></span></li>
+</ul><br><br><i>Anniversary Cake Slice not returning to bag. </i> <span style="color:blue">Resolved on Nov. 1 </span>
+<ul><li>We identified an issue where when the Anniversary Cake Slice was used, it could not be returned to your bag.</li>
+<li><span style="text-decoration: line-through;">[Status] The issue has been identified and targeting an fix for the Nov. 1 hotfix.</span></li>
+</ul>,Sorry to all who commented, this was supped to be a closed thread. Just to make sure there are clear lines for updates. Sorry about that!,Update: Due to the PS NA maintenance happening at the moment, the hotfix will be push to tomorrow, 10/30/2024. We have updated the post above to reflect that.,We have added the Cyrodiil Repair Kit issue to the list.,Hi All, we have posted an update on maintenance for Nov 1st to address some battlegrounds issues and the Cyrodiil Repair Kit issue. You can read the update here: <a href="https://forums.elderscrollsonline.com/en/discussion/668104">https://forums.elderscrollsonline.com/en/discussion/668104</a>]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
