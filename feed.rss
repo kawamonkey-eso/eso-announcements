@@ -4,10 +4,25 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 09 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Fallen Banners & Update 45 Now Live on the Public Test Server]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/67429</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/67429</guid>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dive into 2025's new adventures by helping test Fallen Banners and Update 45 on the PC/Mac Public Test Server!]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/8b4dc004f1c6cfb7a41734634c78c209.jpg" /><p><i>Dive into 2025's new adventures by helping test Fallen Banners and Update 45 on the PC/Mac Public Test Server!</i></p> 
+<p>The Public Test Server (PTS) has now been updated to include both the upcoming <i>Fallen Banners</i> dungeon pack and the Update 45 base-game patch, giving you access to two new dungeons, refreshed starter zones, the features for the Cyrodiil Champions Test campaign, and a host of quality-of-life improvements, including improvements to Craft (green) Champion points! </p> 
+<p>To access the PTS, go to the Settings menu within the PC/Mac <i>ESO</i> launcher by toggling the “Show Public Test Environment” option. You can then download and access the game client, which also grants you immediate access to the <i>Fallen Banners</i> dungeons to test. As a result, you shouldn't need to purchase it on the test server's Crown Store. Don't forget to leave feedback and report any bugs you come across by typing “/feedback” or “/bug” in chat. If you want to learn about the features coming in Update 45 or anything else to do with the patch, be sure to check out the <a href="https://www.elderscrollsonline.com/en-us/news/post/67411">preview blog</a> and <a href="https://forums.elderscrollsonline.com/en/discussion/671932">PTS Patch Notes</a> on the <i>ESO </i>forums.</p> 
+<p>Which of Update 45's new features do you expect to shake up your year the most? Let us know via <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
+            <category>News</category>
+            <category>Community</category>
+            <category>Update 45</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/8b4dc004f1c6cfb7a41734634c78c209.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Update 45 Preview—Fallen Banners]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67411</link>
@@ -272,11 +287,11 @@
 <p><b>Highhallow Hold</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/b90ab1642b66fca71f0bd470bd0292b5.jpg" />
 <p><i>Variously held by both House Dufort and Mornard, this stately manor near the edge of Gonfalon Bay is now available to the adventurer-about-town. It commands a majestic view of the water and provides easy access to the jewel of High Isle.</i></p> 
-<p>The Highhallow Hold home returns to the Crown Store on all platforms for a limited time, from January 2, 2025 at 10AM EST, to January 23, 2025 at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
+<p>The Highhallow Hold home returns to the Crown Store on all platforms for a limited time, from January 2, 2025 at 10AM EST, to January 9, 2025 at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
 <p><b>Forgemaster Falls</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/62bb7fc2b803bb774d69caf3e0e9931f.jpg" />
 <p><i>Thunderous waterfalls, an imposing smithy, and a magnificent view of the Great Bay make this brisk coastal village the perfect refuge for adventurers seeking a rugged Orcish lifestyle.</i></p> 
-<p>The Forgemaster Falls returns to the Crown Store on all platforms for a limited time, from January 9, 2025 at 10AM EST, to January 13, 2025 at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
+<p>The Forgemaster Falls returns to the Crown Store on all platforms for a limited time, from January 9, 2025 at 10AM EST, to January 23, 2025 at 10AM EST. Furnished and unfurnished versions will be available.</p><p><br></p> 
 <p><b>Frostvault Chasm</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/a930c437a421eb455f559965ab5b0524.jpg" />
 <p><i>This side entrance to Frostvault leads down to a deep and spacious side grotto that was cut off from the main caverns long ago, though power still flows into it through conduits from the central source. Careful, those platforms have no handrails!</i></p> 
@@ -850,26 +865,6 @@ We appreciate those who expressed kind words of encouragement during the process
             <category>News</category>
             <category>Daily Rewards</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/fa868de6cbac6676a8f59c06c53a7f8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch Streamers, Developers, and Special Guests Clash during the ESO Battlegrounds Brawl!]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/67199</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/67199</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[A mighty assembly of ESO creators, developers, and special guests fight it out on Twitch.TV during an action-packed day of PvP fun—and you can join in!]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/7afa94c1f28c9390fb93d802d4a89143.jpg" /><p><i>A mighty assembly of ESO creators, developers, and special guests fight it out on Twitch.TV during an action-packed day of PvP fun—and you can join in! </i></p><p> </p><p><b>Update:</b> The Battlegrounds Brawl has begun! Visit <a href="https://www.twitch.tv/directory/category/the-elder-scrolls-online">Twitch's <i>ESO</i> category</a> to watch the action unfold live and don't forget to tune into the <a href="https://www.twitch.tv/Bethesda">official Bethesda Twitch channel</a> at 12:30 PM ET to see SypherPK and his team take on the <i>ESO</i> community. Think you have what it takes to compete? Queue up for Battlegrounds yourself and you may face any one of the amazing teams playing today—good luck!</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/4def2bc01330c02e4ac814a2d2f115d1.jpg" />
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/d5868ea07fe66d5959b3486efd056f4e.jpg" />
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/537cd29742b0e28345af4de4481c0c09.jpg" />
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/f7c400266e40c772f95a57fba06d611f.jpg" />
-<p style="text-align: center; "><i>The Battlegrounds Brawl teams</i></p><p><i><br></i>Starting next Wednesday, November 20, we've teamed up with our friends from <a href="https://na.alienwarearena.com/page/hive-influencers">Alienware Hive</a> to host the official <i>ESO</i> Battlegrounds Brawl! This special livestream event will see different teams throughout the day compete within the new-look Battlegrounds (introduced with the recent Update 44 base-game patch), including a very special livestream hosted on <a href="https://www.twitch.tv/Bethesda">Twitch.TV/Bethesda</a> starting at 12:30PM ET.</p> <p>If you're a veteran PvPer or brand new to <i>ESO</i>'s Battlegrounds, be sure to queue up during the event for the chance to clash with the following squads:</p><p><br></p><p> </p> <p><b>Team 1 on PC NA (SypherPK and friends) </b> Kicking off at 12:30PM ET on <a href="https://www.twitch.tv/Bethesda">Twitch.TV/Bethesda</a></p> <ul><li>Alienware Hive member <a href="https://www.twitch.tv/sypherpk" target="_blank">SypherPK</a></li><li><i>ESO </i>Lead Combat &amp; PvP Designer Brian Wheeler </li><li><i>ESO </i>Senior Server Engineer Madeline Marsh</li><li>ESO Stream Team member <a href="https://www.twitch.tv/saenyra" target="_blank">Saenyra</a></li></ul><p><br></p> <p><b>Team 2 on PC NA (ESO Livestreamers &amp; Gilliamtherogue)</b></p> <ul><li>ESO Stream Team member <a href="https://www.twitch.tv/painintheaxe" target="_blank">PainInTheAxe</a></li><li>ESO Stream Team member <a href="https://www.twitch.tv/okuy" target="_blank">Okuy</a></li><li>ESO streamer <a href="https://www.twitch.tv/sagetoad11" target="_blank">SageToad11</a></li><li>ESO Senior Combat Designer Gilliamtherogue</li></ul><ul></ul><p><br></p> <p><b>Team 3 on XBO NA (ESO Creators &amp; Livestreamers)</b></p> <ul><li>ESO Creator Program member <a href="https://www.youtube.com/channel/UCcgrb95AIB6Of5Z3TUR6Btg" target="_blank">JakeClips</a></li><li>ESO Creator Program member <a href="https://www.youtube.com/channel/UCzi9Hys3PTuhwgOYyB3rlXw" target="_blank">CozyCaster</a></li><li><i>ESO </i>player Sunswrath</li><li><i>ESO </i>player Sweetash0ney</li></ul> <p>That's right, in addition to a host of Stream Team members, <i>ESO </i>creators, and developers, SypherPK once again returns to <i>ESO</i> for this special event, and he's bringing a top-tier team with him! </p><p>Note that these are just some of the squads that will be queueing up during the Battlegrounds Brawl. Keep an eye out for even more teams on the day, including <a href="https://www.twitch.tv/bisiobo" target="_blank">Stream Team Partner Bislobo</a> rallying a party for some 8v8 action on PC EU, and a full team from <a href="https://www.twitch.tv/ninjapullsgaming" target="_blank">ESO Stream Team member NinjaPullsGaming</a>! </p> <p>Catch the action live on Twitch on any <i>ESO </i>channel and watch for at least 30 minutes, and you'll also earn the Chaosball Cohort pet as a Twitch drop. Don't forget to link your account first. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/08/1aa19d71f894784c56a085866984d6de.jpg" />
-<p style="text-align: center;"><i>Earn this pet via Twitch drops</i></p> 
-<p>In addition to the above drops, keep an eye out for a special Alienware giveaway on our social channels or the <a href="https://na.alienwarearena.com/">Alienware Arena official website</a> closer to the livestream start date. </p> 
-<p>The Battlegrounds Brawl celebrates and showcases the chaos of <i>ESO</i>'s fast-paced 4v4 and 8v8 PvP mode and kicks off this coming Wednesday, November 20. Are you planning to log in and queue up for a chance to battle it out with our teams? Or will you watch safely from the comfort of <a href="https://www.twitch.tv/Bethesda">Twitch.TV/Bethesda</a>? Let us know <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>. </p>]]></content:encoded>
-            <category>News</category>
-            <category>Community</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/11/7afa94c1f28c9390fb93d802d4a89143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Feedback On Console Environmental Sustainability Features]]></title>
