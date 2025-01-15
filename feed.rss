@@ -4,10 +4,27 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 22:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[U45 Purchasing Clarification & Recent Network Attacks]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/672037/u45-purchasing-clarification-recent-network-attacks</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/672037/u45-purchasing-clarification-recent-network-attacks</guid>
+            <pubDate>Tue, 14 Jan 2025 22:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[Everyone, just a few quick updates to concerns from the community over the weekend.<br><br>
+First, in the Update 45 preview article, which we published to support the preview livestream, we told everyone that the new Dungeons would be available for ESO Plus members, but didn't list the other ways that it will be available. We apologize for the confusion, and want to provide more of an explanation of what's going on.<br><br>
+Because 2025 is a transition year between the old Chapter model and our new model evolution for ESO, this year (2025) will have some aspects of Chapters and some of the new cadence. Next year (2026), we will fully implement the new model, which we will talk about more this April. For now, please know that you will be able to purchase the Update 45 dungeons using Crowns (plus other ways) as well as access through ESO Plus membership. Due to the aforementioned transition, Update 45 dungeons will be available for purchase in the Crown Store after Update 45 console launch.<br><br>
+Additionally, I've seen the commentary over the weekend about server stability, lag spikes, and players being put into queues after being disconnected. As all of you know, this has been a far-too-often occurrence, and we have been very vague about addressing it. There are reasons for this, but because network/server stability has been a concern for many of you for a long time, here is what has been happening.<br><br>
+Our simple rule is that if a server or other game issue happens due to a bug  or other configuration problem within our control, we tell the community what is happening and what we are doing to fix it - the recent datacenter power outage as an example of this. However, if a problem happens that we cannot control - like a partner's network is having problems or if there is a malicious network attack against us, we usually do not post about it.<br><br>
+Recently - especially over the last year - we have had a rising number of malicious network attacks against the ESO service. These mostly fall under the DDOS type of attack. When these happen, depending on the type of attack, we will initiate a mitigation strategy. I'm not going to get into what exactly we do to counter these, but each time the ESO service is under attack, players on the service experience lag, disconnects, etc. We have different types of mitigation to combat this, and some do a great job of protecting the service from DDOS traffic, but they can also introduce additional ping times when they are active, like many of you have been reporting.<br><br>
+Malicious network attacks are unfortunately part and parcel of running an online service and the methods of attack are constantly evolving. Despite this, we will always strive to find the best mitigation strategy that has the least impact on player moment-to-moment gameplay.<br><br>
+Part of why we have not publicly addressed this sooner is because by even just talking about malicious network attacks against ESO, we run the risk of incurring more of them. This is why the standard playbook for internet companies is to not talk about them publicly - but this is information that I think you all need to know.<br><br>
+Thanks as always for being the best community in Tamriel!<br><br>
+Matt]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Fallen Banners & Update 45 Now Live on the Public Test Server]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67429</link>
@@ -29,7 +46,7 @@
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67411</guid>
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Learn more about the upcoming Update 45 base-game patch and the new Fallen Banners dungeon DLC.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" /><p><i>Learn more about the upcoming Update 45 base-game patch and the new Fallen Banners dungeon DLC. </i></p> <p>The Update 45 base-game patch and <i>Fallen Banners</i> dungeon DLC arrives March 10 on PC/Mac and March 25 for Xbox and PlayStation consoles. While the U45 base-game patch is free for all <i>ESO </i>players, an ESO Plus™ membership is required to access and play the <i>Fallen Banners</i> dungeon DLC.</p> <h2>Fallen Banners</h2> <p>Kicking off the year's adventures and challenges, <i>Fallen Banners</i> introduces two new four-player dungeons for you and your team to explore. </p> <p><b>Exiled Redoubt</b></p> <p>As the continent-spanning Alliance War continues to ravage Tamriel, the Imperial Battlemage Lucilla needs your help investigating the mysterious disappearances of its soldiers. Join Lucilla in infiltrating the stronghold of the once-proud House Albus and discover a plot that threatens to condemn the people of Cyrodiil to endless war. </p>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" /><p><i>Learn more about the upcoming Update 45 base-game patch and the new Fallen Banners dungeon DLC.</i></p><p><b>** UPDATE FOR Jan. 14, 2025 - Please note that the Update 45 dungeons will be available for purchase in the Crown Store shortly after console launch.</b> <b>For more information, <a href="https://forums.elderscrollsonline.com/en/discussion/672037/u45-purchasing-clarification-recent-network-attacks#latest" target="_blank">check out this message</a> from Matt Firor. **</b></p><p> </p> <p>The Update 45 base-game patch and <i>Fallen Banners</i> dungeon DLC arrives March 10 on PC/Mac and March 25 for Xbox and PlayStation consoles. While the U45 base-game patch is free for all <i>ESO </i>players, an ESO Plus™ membership is required to access and play the <i>Fallen Banners</i> dungeon DLC.</p> <h2>Fallen Banners</h2> <p>Kicking off the year's adventures and challenges, <i>Fallen Banners</i> introduces two new four-player dungeons for you and your team to explore. </p> <p><b>Exiled Redoubt</b></p> <p>As the continent-spanning Alliance War continues to ravage Tamriel, the Imperial Battlemage Lucilla needs your help investigating the mysterious disappearances of its soldiers. Join Lucilla in infiltrating the stronghold of the once-proud House Albus and discover a plot that threatens to condemn the people of Cyrodiil to endless war. </p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/bcc3c1512bce49e7fadda987c4ece050.jpg" />
 <p style="text-align: center;"><i>Fight for peace in Exiled Redoubt</i></p> 
 <p><b>Lep Seclusa</b></p> 
@@ -524,18 +541,6 @@ Matt&nbsp;<br>]]></content:encoded>
             <category>News</category>
             <category>Community</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/12/811230cb66553a3824e5bf23684a1e87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thanks For Your Patience During The Outage]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/670497/thanks-for-your-patience-during-the-outage</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/670497/thanks-for-your-patience-during-the-outage</guid>
-            <pubDate>Fri, 13 Dec 2024 22:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[Hello everyone. As communicated earlier, we now have all live megaservers online and available to players. We understand the outage was frustrating, but we want to thank you for your patience as we worked to bring the game back online.<br><br>
-We are extending the current ESO Plus Free Trial by one day to December 20, 2024. Additionally, we will be enhancing the first two days of the January 2025 Daily Login Rewards. They will consist of the following:<br><ul><li>Day One- 1000 Seals of Endeavor</li>
-<li>Day Two- (Qty. 5) Grand Gold Coast Experience Scrolls (150% EXP Scrolls)</li>
-</ul>
-We appreciate those who expressed kind words of encouragement during the process and thank you for your patience as we resolved the outage.]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Experience ESO Plus for FREE and Enjoy Access to DLC, Unlimited Crafting Space, and More!]]></title>
