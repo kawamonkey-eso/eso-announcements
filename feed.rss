@@ -4,10 +4,20 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 14:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Cyrodiil Champions Test Q&A Livestream - Jan 24 @ 1pm EST]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/672417/cyrodiil-champions-test-q-a-livestream-jan-24-1pm-est</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/672417/cyrodiil-champions-test-q-a-livestream-jan-24-1pm-est</guid>
+            <pubDate>Fri, 24 Jan 2025 14:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone!<br><br>
+We've been seeing a lot of questions about the Cyrodiil Champions test currently on the PTS. To help clarify a few points, we will be hosting a very brief (15-20 minute) livestream today at 1pm EST on twitch.tv/bethesda to answer some common questions including what the goals of this test are, how this current test is different from what will be on Live, what success looks like from our end, and more. This is <i>not </i>taking the place of the written Q&amp;A that is in progress and we do not plan to cover any other topics.<br><br>
+Looking forward to seeing you all in a few hours!]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Golden Pursuits—Kick off a New Adventure This January]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67353</link>
