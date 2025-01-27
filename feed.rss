@@ -4,10 +4,19 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Fri, 24 Jan 2025 14:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 12:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Loremaster's Archive: Elder Scrolls and Moth Priests]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/672532/loremasters-archive-elder-scrolls-and-moth-priests</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/672532/loremasters-archive-elder-scrolls-and-moth-priests</guid>
+            <pubDate>Mon, 27 Jan 2025 12:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[Hi everyone! We're happy to bring you the very first Loremaster's Archive for 2025! With the Fallen Banners dungeon pack arriving in March (which includes Lep Seclusa), we'd like to give the community a chance to delve into the lore surrounding Elder Scrolls and Moth Priests, no blindfolds required! To help, we've enlisted Sister Chana to answer your burning questions about Elder Scrolls, Moth Priests, their work, and their sanctuaries. Submit your questions between now and Feb. 1 at 10am ET, and we'll select a few for the initiate to answer*.<br><br>
+*We will move this to the lore section once the question period is over.]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Cyrodiil Champions Test Q&A Livestream - Jan 24 @ 1pm EST]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/672417/cyrodiil-champions-test-q-a-livestream-jan-24-1pm-est</link>
