@@ -4,10 +4,18 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Mon, 27 Jan 2025 12:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 15:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Morphing Collectible Chart 2025]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/672610/morphing-collectible-chart-2025</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/672610/morphing-collectible-chart-2025</guid>
+            <pubDate>Wed, 29 Jan 2025 15:59:12 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All! We put together a guide to show the earnable quarterly collectibles for the 2025 morphing collectible. We'll update this per quarter. If you have any feedback, please let us know. Hopefully, this will help everyone keep track of some collectible goals!<br><img src="https://us.v-cdn.net/5020507/uploads/editor/el/6ad9gs0h4isv.jpg"><br>]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Loremaster's Archive: Elder Scrolls and Moth Priests]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/672532/loremasters-archive-elder-scrolls-and-moth-priests</link>
@@ -15,16 +23,6 @@
             <pubDate>Mon, 27 Jan 2025 12:13:58 GMT</pubDate>
             <content:encoded><![CDATA[Hi everyone! We're happy to bring you the very first Loremaster's Archive for 2025! With the Fallen Banners dungeon pack arriving in March (which includes Lep Seclusa), we'd like to give the community a chance to delve into the lore surrounding Elder Scrolls and Moth Priests, no blindfolds required! To help, we've enlisted Sister Chana to answer your burning questions about Elder Scrolls, Moth Priests, their work, and their sanctuaries. Submit your questions between now and Feb. 1 at 10am ET, and we'll select a few for the initiate to answer*.<br><br>
 *We will move this to the lore section once the question period is over.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[Cyrodiil Champions Test Q&A Livestream - Jan 24 @ 1pm EST]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/672417/cyrodiil-champions-test-q-a-livestream-jan-24-1pm-est</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/672417/cyrodiil-champions-test-q-a-livestream-jan-24-1pm-est</guid>
-            <pubDate>Fri, 24 Jan 2025 14:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[Hi everyone!<br><br>
-We've been seeing a lot of questions about the Cyrodiil Champions test currently on the PTS. To help clarify a few points, we will be hosting a very brief (15-20 minute) livestream today at 1pm EST on twitch.tv/bethesda to answer some common questions including what the goals of this test are, how this current test is different from what will be on Live, what success looks like from our end, and more. This is <i>not </i>taking the place of the written Q&amp;A that is in progress and we do not plan to cover any other topics.<br><br>
-Looking forward to seeing you all in a few hours!]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
@@ -74,23 +72,6 @@ Looking forward to seeing you all in a few hours!]]></content:encoded>
             <category>News</category>
             <category>Events</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/0c77c7ce1e775751681bd7822cc25eae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[U45 Purchasing Clarification & Recent Network Attacks]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/672037/u45-purchasing-clarification-recent-network-attacks</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/672037/u45-purchasing-clarification-recent-network-attacks</guid>
-            <pubDate>Tue, 14 Jan 2025 22:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[Everyone, just a few quick updates to concerns from the community over the weekend.<br><br>
-First, in the Update 45 preview article, which we published to support the preview livestream, we told everyone that the new Dungeons would be available for ESO Plus members, but didn't list the other ways that it will be available. We apologize for the confusion, and want to provide more of an explanation of what's going on.<br><br>
-Because 2025 is a transition year between the old Chapter model and our new model evolution for ESO, this year (2025) will have some aspects of Chapters and some of the new cadence. Next year (2026), we will fully implement the new model, which we will talk about more this April. For now, please know that you will be able to purchase the Update 45 dungeons using Crowns (plus other ways) as well as access through ESO Plus membership. Due to the aforementioned transition, Update 45 dungeons will be available for purchase in the Crown Store after Update 45 console launch.<br><br>
-Additionally, I've seen the commentary over the weekend about server stability, lag spikes, and players being put into queues after being disconnected. As all of you know, this has been a far-too-often occurrence, and we have been very vague about addressing it. There are reasons for this, but because network/server stability has been a concern for many of you for a long time, here is what has been happening.<br><br>
-Our simple rule is that if a server or other game issue happens due to a bug  or other configuration problem within our control, we tell the community what is happening and what we are doing to fix it - the recent datacenter power outage as an example of this. However, if a problem happens that we cannot control - like a partner's network is having problems or if there is a malicious network attack against us, we usually do not post about it.<br><br>
-Recently - especially over the last year - we have had a rising number of malicious network attacks against the ESO service. These mostly fall under the DDOS type of attack. When these happen, depending on the type of attack, we will initiate a mitigation strategy. I'm not going to get into what exactly we do to counter these, but each time the ESO service is under attack, players on the service experience lag, disconnects, etc. We have different types of mitigation to combat this, and some do a great job of protecting the service from DDOS traffic, but they can also introduce additional ping times when they are active, like many of you have been reporting.<br><br>
-Malicious network attacks are unfortunately part and parcel of running an online service and the methods of attack are constantly evolving. Despite this, we will always strive to find the best mitigation strategy that has the least impact on player moment-to-moment gameplay.<br><br>
-Part of why we have not publicly addressed this sooner is because by even just talking about malicious network attacks against ESO, we run the risk of incurring more of them. This is why the standard playbook for internet companies is to not talk about them publicly - but this is information that I think you all need to know.<br><br>
-Thanks as always for being the best community in Tamriel!<br><br>
-Matt]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Fallen Banners & Update 45 Now Live on the Public Test Server]]></title>
