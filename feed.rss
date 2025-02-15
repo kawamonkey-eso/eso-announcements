@@ -4,10 +4,30 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 21:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Survey To Assist in Lag/ Rubber-banding/ General Performance Investigation]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/673385/survey-to-assist-in-lag-rubber-banding-general-performance-investigation</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/673385/survey-to-assist-in-lag-rubber-banding-general-performance-investigation</guid>
+            <pubDate>Fri, 14 Feb 2025 21:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[Hi All. The ESO Team has been working on a survey to help us better track your experience when hitting lag spikes, rubberbanding, and general performance dips. The idea of the survey is to collect the same standard of data for our engineers to look at and work on improving your general experience in-game. In addition to English, the survey is available is the following languages: German, French, Spanish, Italian, Japanese, Simplified Chinese, Polish, and Brazilian Portuguese.<br><br>
+You can access the survey link here: <a href="https://feedback.bethesda.net/jfe/form/SV_5dLZWx81Em0b3oO?utm_source=Bethesda">https://feedback.bethesda.net/jfe/form/SV_5dLZWx81Em0b3oO?utm_source=Bethesda</a><br><br>
+If you run into a rough patch while you play, this is the form you should fill out to clearly define your experience. The information goes directly to our engineers who are using the information you send to guide their work. We want to thank everyone in advance for filling out the form and thank our forum community who helped in getting this survey in such a detailed state.<br><br>
+So as to not split the ongoing conversation, if you have comments or follow-up about your experience with lag, rubber-banding, and general performance dips, please go to the existing thread on this topic: <a href="https://forums.elderscrollsonline.com/en/discussion/658253">Conversation on lag spikes and connection performance</a>.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Happy Hearts Day!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/673354/happy-hearts-day</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/673354/happy-hearts-day</guid>
+            <pubDate>Fri, 14 Feb 2025 15:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[Happy Hearts Day from ZOS to you!<br><br>
+Which is your favorite chocolate?<br><img src="https://us.v-cdn.net/5020507/uploads/editor/po/rwxuo3j2a8dd.jpg"><br>]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Seize Victory in Battle and Reap the Rewards During Whitestrake's Mayhem!]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67595</link>
@@ -1030,34 +1050,6 @@ In September, we temporarily disabled Crown Store gifting due to a rapidly growi
 Gifting eligibility is determined by an evolving list of factors including but not limited to the account being at least 180 days past its first login and previous engagement with in-game features. You may check if you have access to gifting in-game via the Crown Store as well as via <a href="https://account.elderscrollsonline.com/en-us/account/billing/billing-history">your billing history page</a> in the ESO account center. If you have access to Crown Store gifting, you will see "Allow Crown Store Gifting" in your billing history. If you try to send a gift via the in-game Crown Store and do not have access, you will see a "Gifting Locked" pop-up message. Please note that we are exploring better ways to display this information in-game in the future, such as updating the Gifting Tutorial.<br><br>
 If you do not have access to Crown Store gifting after it is re-enabled on October 11, 2023, and wish for a review of your account, please visit <a href="https://help.elderscrollsonline.com">https://help.elderscrollsonline.com</a> and submit a Customer Support ticket. Please choose the Billing / Purchase / Code category then Platform &gt; I have a question about a sale / offer &gt; I want to send gift items from this account.<br><br>
 We appreciate everyone's understanding and patience while we get this solution up and running. Multiple teams have worked long hours to evaluate the best technical solutions that we could stand up in a reasonably short time, while also prioritizing the Crown Store gifting player experience. We are dedicated to continuing to explore ways to make this better and reduce fraudulent activity in ESO. Thanks again for being a part of our community and for your continued support.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
-            <title><![CDATA[New Patcher Rollout]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/642066/new-patcher-rollout</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/642066/new-patcher-rollout</guid>
-            <pubDate>Wed, 30 Aug 2023 20:49:19 GMT</pubDate>
-            <content:encoded><![CDATA[Hello everyone! After plenty of testing <a href="https://forums.elderscrollsonline.com/en-gb/discussion/632782/new-eso-launcher-testing-and-launch-plan-pc-and-mac">during the last PTS period</a>, we are pleased to announce the rollout of our new patcher on the live servers for PC/Mac. The rollout of the new patcher will happen in four phases, with new countries being added during each phase. As we give countries access to the new patcher, we will make note of it in the list below by noting next to the country name (has the new patcher.) We will also note what phase we are currently in by specifying whether it has not started, in progress, or complete, next to the phase number. The countries getting the patcher are listed in order below.<br><br>
-Thanks for your patience as we roll this out to all countries listed below. A special thanks to everyone who helped test out the launcher during the last PTS and provided feedback.<br><br>
-Edit for 3/4/2024: All phases have now been complete.<br><br><b>Phase 1 (Complete) </b>
-<ol><li>Netherlands (Has the new patcher)</li>
-<li>Sweden (Has the new patcher)</li>
-<li>Czech Republic/ Finland (Has the new patcher)</li>
-<li>Norway/ Denmark (Has the new patcher)</li>
-<li>Hungary/ Switzerland/ Romania (Has the new patcher)</li>
-</ol><br><b>Phase 2 (Complete) </b>
-<ol><li>Poland (Has the new patcher)</li>
-<li>Spain/ Turkey (Has the new patcher)</li>
-<li>Italy/ Austria/ Belgium/ Portugal/ Greece/ Ireland (Has the new patcher)</li>
-</ol><br><b>Phase 3 (Complete) </b>
-<ol><li>United Kingdom of Great Britain and Northern Ireland/ France (Has the new patcher)</li>
-<li>Germany (Has the new patcher)</li>
-<li>United States of America (Has the new patcher)</li>
-</ol><br><b>Phase 4  (Complete) </b><br>
-This phase will encompass all other countries where ESO is available, that are not listed above.  (All countries where ESO is available now have access to the launcher.)<br><br><b>Known Issues</b>
-<ul><li>Some Czech Republic players may not have their country recognized, thus making them unable to upgrade the patch at this time. We are aware of the issue and working toward a solution.</li>
-<li>Audio issues with sound volume and sound effects. We have a bug in for this and are working on a fix for the future.</li>
-</ul>]]></content:encoded>
             <category>Forum</category>
         </item>
     </channel>
