@@ -4,10 +4,59 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 25 Mar 2025 14:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 22:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Known Console U45 Issue: Character Faces Not Displaying Correctly (Info & Fix Timing)]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/675203/known-console-u45-issue-character-faces-not-displaying-correctly-info-fix-timing</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/675203/known-console-u45-issue-character-faces-not-displaying-correctly-info-fix-timing</guid>
+            <pubDate>Wed, 26 Mar 2025 22:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[With today's launch of Update 45 on the consoles servers, we identified a display issue with some in-game face/body markings and skin collectibles, including makeup, that are resulting in character faces not displaying correctly (specifically, lighting and textures appearing dark and pixelated.)  We have a fix readied as part of the next console incremental patch, which has been moved up to April 2nd to address the issue as quickly as possible.<br><br>
+In the meantime, we recommend players on our console servers please unequip any face/body markings and skins that are not displaying properly. We are aware that some of the affected body/face markings cannot be removed due to being set at character creation, and we apologize for the inconvenience. When this issue is fixed, it will automatically apply to any equipped or unequipped body/face markings or skins.<br><br>
+Lastly, please be aware that there are a handful of body/face markings in the Carnaval Crown Crate launching tomorrow that may be affected. However, these will also be fixed with the incremental patch on April 2nd.<br><br>
+Thank you all for your patience and understanding while we work to fix this visual issue.]]></content:encoded>
+            <category>Forum</category>
+        </item>
+        <item>
+            <title><![CDATA[Fallen Banners & Update 45 Now Live on All Platforms]]></title>
+            <link>https://www.elderscrollsonline.com/en-us/news/post/67679</link>
+            <guid>https://www.elderscrollsonline.com/en-us/news/post/67679</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Defend an Elder Scroll and experience a host of changes and additions to the game with the Fallen Banners dungeon pack and Update 45 base-game patch.]]></description>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" /><p><i>Defend an Elder Scroll and experience a host of changes and additions to the game with the Fallen Banners dungeon pack and Update 45 base-game patch. </i></p> <p>The <i>Fallen Banners </i>dungeon pack and free Update 45 base-game patch are now live on PC/Mac, Xbox One, Xbox Series X|S, PlayStation 4, and PlayStation 5. In this release, you can save Cyrodiil from plunging further into chaos with two new dungeons and experience a host of changes and quality-of-life additions. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/6a99ceaf637e19dc2680e92c25db153a.jpg" />
+<p style="text-align: center"><i>Fallen Banners dungeon pack</i></p> <p>You can get access to the <i>Fallen Banners</i> dungeon pack at launch via <a href="https://www.elderscrollsonline.com/en-us/esoplus;">ESO Plus™ membership</a>. Note that alternative means of acquiring it will be revealed as part of the upcoming ESO Direct on April 10.</p> <h2>Fallen Banners</h2> <p>Gather your party for two challenging new PvE dungeon experiences: Lep Seclusa and Exiled Redoubt. Unlock new achievements and earn new rewards including item sets, collectibles, and more as you fight to preserve what little peace remains in the war-torn region of Cyrodiil. </p> <p><b>Lep Seclusa</b></p> <p>The Moth Priests of Lep Seclusa are besieged, and the cunning Orpheon the Tactician is set on seizing the power of the Elder Scroll they safeguard. You must help Sister Chana defend the sanctuary against an army of deserters, protect its people and secrets, and confront Orpheon before he can use the power of the scroll to forever change the face of Cyrodiil. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/3e890dfac396411246bb61663793e8dc.jpg" />
+<p style="text-align: center;"><i>Defend the Moth Priest sanctuary</i></p> 
+<p>To learn more about Lep Seclusa, check out <a href="https://www.elderscrollsonline.com/en-us/news/post/67577">this preview blog</a>. </p> 
+<p><b>Exiled Redoubt</b></p> 
+<p>Soldiers of the Alliance War, regardless of their faction, are vanishing, and all trails lead to the Imperial fortress known as the Exiled Redoubt. Team up with the Battlemage Lucilla, infiltrate this mysterious stronghold, and put a stop to the schemes of a once noble Imperial house before its chaos can spread beyond its stone walls and throughout Tamriel. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/3c5a1e34a6048948637a9f085afad681.jpg" />
+<p style="text-align: center;"><i>Battle your way into an Imperial stronghold</i></p> 
+<p>To learn more about the Exiled Redoubt, check out <a href="https://www.elderscrollsonline.com/en-us/news/post/67647">this preview blog</a>. </p> 
+<p><b>New Dungeon Loot</b></p> 
+<p>Those who brave Lep Seclusa and the Exiled Redoubt also have a chance to loot and unlock a host of special rewards, such as new collectibles, item sets, and Achievements. This includes the Tactician's Gold Lattice Skin, earned by completing both dungeons on veteran difficulty—no easy task!</p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/be3c94df60cf7ffc72b87d3d7322ca8c.jpg" />
+<p style="text-align: center;"><i>Unlock a new Cyrodiil-inspired skin</i></p> 
+<h2>Getting Started</h2> 
+<p>At launch, you can access the <i>Fallen Banners</i> dungeon pack with an ESO Plus membership. If your ESO Plus membership lapses, you will lose access to the DLC until you renew your membership or acquire it by other means. </p> 
+<p>Note that while at launch ESO Plus membership is the only way to access the dungeon pack, there will be additional ways to acquire it in the future—stay tuned for more information during the April ESO Direct. </p> 
+<p>Once you have access to <i>Fallen Banners</i>, you can dive right into the two new dungeons via the following methods: </p> 
+<ul><li>By teleporting directly into the two dungeons from your map</li><li>By using the Dungeon Finder tool </li><li>By visiting their specific dungeon entrances within the Hew's Bane (Lep Seclusa) and West Weald (Exiled Redoubt) zones</li></ul> 
+<p>As a base-game patch, Update 45 will be automatically downloaded by your game clients when it launches. </p> 
+<h2>Update 45 Base-Game Patch</h2> 
+<p>Arriving in tandem with the dungeon pack is the Update 45 base-game patch, a free update for all <i>ESO</i> players that features additions, bugfixes, and improvements to the game. </p> 
+<p><b>Starter Zone Refresh</b></p> 
+<p>To help keep <i>ESO</i> as welcoming to new (and returning) players as possible, the game's starter zones have received a visual refresh, bringing them closer to the quality of more recent additions. Bleakrock Isle, Bal Foyen, Stros M'kai, Betnikh, and Khenarthi's Roost have each received improvements to their lighting, enhanced ground and water textures, updated structures, and the addition of more clutter or props. </p>
+<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/6f2cd232f72d4e943f714e6005cd0e4f.jpg" />
+<p style="text-align: center"><i>Discover updated starter zones</i></p> <p><b>Cyrodiil Champions PC/Mac Test</b></p> <p><i>ESO</i>'s Alliance War veterans can help the team test future changes and iterations on the game's open-world PvP with a PC/Mac-only test called Cyrodiil Champions. With the goal of improving stability and performance in Cyrodiil (and perhaps other environments), look for a special Alliance War campaign called Vengeance to participate from March 24-31, 2025. </p> <p><b>General Changes and Improvements </b></p> <p>Along with the above, Update 45 also boosts mount starting speed, overhauls the Craft constellation to ease micromanagement, and introduces a general UI cleanup of the in-game map to help improve readability. It also moves the game's disguises out of the inventory and into your collections and improves the visibility of Mundus Stone boons—phew! </p> <p>You can discover more about the update's features in <a href="https://www.elderscrollsonline.com/en-us/news/post/67601">this preview blog</a>. For everything arriving as part of the base-game patch, check out the <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes on our official forums</a>. Don't forget, the Update 45 base-game patch is FREE for all <i>ESO</i> players and is downloaded automatically at launch.</p> <h2>Delve into the Endless Conflict</h2> <p>Gather your party and prepare to delve into two challenging new PvE experiences with the <i>Fallen Banners</i> dungeon pack. Are you ready to witness the true cost of the Alliance War? Are you excited to make use of the base-game patch's various improvements and additions? Let us know via <a href="https://bsky.app/profile/elderscrollsonline.com">Bluesky</a>, <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline;">Facebook</a>.</p> <p><i>The Fallen Banners dungeon pack and Update 45 is now live for ESO Plus members on PC/Mac and Xbox and PlayStation consoles. Look for more details on additional ways to acquire Fallen Banners during the upcoming April ESO Direct.</i></p>]]></content:encoded>
+            <category>News</category>
+            <category>Fallen Banners</category>
+            <category>Update 45</category>
+            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cyrodiil Champions FAQ]]></title>
             <link>https://forums.elderscrollsonline.com/en/discussion/674932/cyrodiil-champions-faq</link>
@@ -132,14 +181,9 @@ We made this decision due to the focus of the test being game performance, and i
             <title><![CDATA[Celebrate Sanguine with the New Carnaval Crown Crates]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67651</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67651</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Lord of Revelry invites you to go wild with desire for the items and collectibles found in the new Carnaval Crown Crates.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/84c6f516abad6d9a80fc494c23ff0e75.jpg" /><p><i>The Lord of Revelry invites you to go wild with desire for the items and collectibles found in the new Carnaval Crown Crates.</i></p> 
-<p>***</p> 
-<p><i>Blood on the air, wine in your cup, and music all around you. It must be? It is! Carnaval is here! The Daedric Prince Sanguine is throwing a party and everyone is just dying to get in. This raucous party celebrates living at its most debauched. Will you dance till you drop? Perhaps drink deeply of the dangerous brew in the kettle? And most importantly, will you walk away from this celebration with your soul intact? Let's find out together at Car-na-val!</i></p> 
-<p>***</p> 
-<p>The new Carnaval Crown Crates arrive in the Crown Store this Thursday, March 27, 2025 at 10AM EDT. When opening these crates, you have a chance to find items spectacular and scandalous in the form of new and returning items and collectibles.</p> 
-<p>These goods include unique mounts, pets, furnishings, and much more. You can see just some of the items available within Carnaval Crown Crates below.</p>
+            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/84c6f516abad6d9a80fc494c23ff0e75.jpg" /><p><i>The Lord of Revelry invites you to go wild with desire for the items and collectibles found in the new Carnaval Crown Crates.</i></p> <p>***</p> <p><i>Blood on the air, wine in your cup, and music all around you. It must be? It is! Carnaval is here! The Daedric Prince Sanguine is throwing a party and everyone is just dying to get in. This raucous party celebrates living at its most debauched. Will you dance till you drop? Perhaps drink deeply of the dangerous brew in the kettle? And most importantly, will you walk away from this celebration with your soul intact? Let's find out together at Car-na-val!</i></p> <p>***</p> <p><b>** Update for Mar. 27, 2026 - Due to an issue with Update 45 on consoles, some body/face markings and skins found within the Carnaval Crown Crate may display incorrectly. This bug will be fixed as part of the incremental patch on April 2, 2025. You can find out more information on this issue in </b><b><a target="_blank" delay="150" navigationtraceid="E55SJ2GSJ-to-Channel:C05UCM6HW7R" href="https://forums.elderscrollsonline.com/en/discussion/675203" rel="noopener noreferrer">this forum post</a></b><b>. Thank you for your patience. **</b></p><p><br></p><p>The new Carnaval Crown Crates arrive in the Crown Store this Thursday, March 27, 2025 at 10AM EDT. When opening these crates, you have a chance to find items spectacular and scandalous in the form of new and returning items and collectibles.</p> <p>These goods include unique mounts, pets, furnishings, and much more. You can see just some of the items available within Carnaval Crown Crates below.</p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/6f96f02b1ca3812a98eac99392e4c0bf.jpg" />
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/21de2aef6bbe537edf2e1dcd023ef2be.jpg" />
 <p style="text-align: center;"><i>Carnaval Celebrant costume and Featherdance Carnaval Recall customized action</i></p>
@@ -204,7 +248,7 @@ We made this decision due to the focus of the test being game performance, and i
             <title><![CDATA[Madcap Merriment Marks Marvelous Rewards as the Jester's Festival Event Returns]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67653</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67653</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Spread cheer and chaos in equal measure to receive raucous rewards during this year's Jester's Festival in-game event!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/57908f210a6709eeb15614594e114daa.jpg" /><p><i>Spread cheer and chaos in equal measure to receive raucous rewards during this year's Jester's Festival in-game event!</i></p> 
 <h2>A Festive Frolic for All</h2> 
@@ -239,53 +283,6 @@ We made this decision due to the focus of the test being game performance, and i
             <category>News</category>
             <category>Events</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/57908f210a6709eeb15614594e114daa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 ESO Guild Recruitment Drive]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/674798/2025-eso-guild-recruitment-drive</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/674798/2025-eso-guild-recruitment-drive</guid>
-            <pubDate>Tue, 18 Mar 2025 15:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div>
-<b><u>Welcome to the 2025 ESO Guild Recruitment Drive!</u></b>
-</div>
-<br><b><u>Guild Recruitment Intro</u></b><br>
-Starting on March 18 through March 21, we are hosting a virtual Guild Recruitment Fair here on the ESO Forum!
-<ul><li><b>Guild Leaders</b>: Are you looking to promote your guild and gain new members? Then this is the place for you to promote what your guild has to offer.</li>
-<li><b>Prospective New Guild Members</b>: Are you looking to take the leap and join a group of like-mined players? Or maybe you are looking for a group with similar in-game goals? Then this is the place to be to find your future guild home.</li>
-</ul><br>
-When trying to promote a guild, Leaders should create a single post in the appropriate guild section on the ESO Forum for their guild. The guild forum sections are listed here:
-<ul><li><a href="https://forums.elderscrollsonline.com/en/categories/en-pc-mac-na">PC NA</a></li>
-<li><a href="https://forums.elderscrollsonline.com/en/categories/en-pc-mac-eu">PC EU</a></li>
-<li><a href="https://forums.elderscrollsonline.com/en/categories/en-xbox-na">XB NA</a></li>
-<li><a href="https://forums.elderscrollsonline.com/en/categories/en-xbox-eu">XB EU</a></li>
-<li><a href="https://forums.elderscrollsonline.com/en/categories/en-ps-na">PS NA</a></li>
-<li><a href="https://forums.elderscrollsonline.com/en/categories/en-ps-eu">PS EU</a></li>
-</ul>
-Best practice is to use the prompt below for post guidance. This will give prospective members options they can browse and ask questions to guild leaders that most closely match their interests. Multiple or spammed posts will be removed.<br><br>
-We hope this serves as a way for you to promote or find a guild that aligns with your play style and preferences. To make that process a little easier, we have some guidelines for Guild Leaders to help in the guild recruitment process.<br><br><br><b><u>Guidelines </u></b><br>
-We have some general guidelines listed below to help with the overall guild recruitment process.<br><br>
-First and foremost, please remember to abide by the ESO Forums Terms of Service and Community Guidelines.<br><br>
-Please make sure you are using English in your post. You are free to provide translation to another language as well, but please make sure English is included. If your guild speaks another language primarily in game, please indicate that in your posting.<br><br>
-No spamming of guilds. Spamming will result in your recruitment threads being removed.<br><br><b>Guild Leaders</b>: When promoting your guild in the guild recruitment section, use the "Title" section to place your guild name. Select relevant tags for your guild when posting (platform and server). In the "Enter a message section," we suggest using the following template for your post to best highlight your guild:<br><br><b><u>Guild Recruitment Prompt</u></b><br><b>Title</b>: Please place your guild name as the title. In brackets, you can place the focus of the guild. You will follow the Guild Name [Guild Focus] format. So for example, the post title could be: <i>Raiders of the Lost Trial [Dungeons/Trials] [Trader]</i>.<br><br><b>Post Body Text</b>: Please follow the prompt when posting your guild recruitment post.
-<ul><li>Guild Intro/ Guild Pitch</li>
-<li>Guild Primary Focus<br>
-Bulleted are some examples of categories. But you are not limited to these. Please place what best fit represents your guild.
-<ul><li><b>Dungeons/Trials</b>:</li>
-<li><b>PvP Guilds</b></li>
-<li><b>Trading Guilds</b></li>
-<li><b>Social Guilds</b></li>
-<li><b>Roleplay Guilds</b></li>
-<li><b>Housing Guilds</b></li>
-</ul></li>
-<li>Guild Requirements (if any)</li>
-<li>Link to Guild Community (Discord, Facebook Group, WhatsApp, etc.)</li>
-<li>Primary Guild Points-of-Contact (specify if Forums Username or ESO names)</li>
-<li>Any upcoming guild activities</li>
-</ul><br>
-Prospective New Guild Members: During the Guild Recruitment drive, feel free to hop into any of the open threads from guild leaders. Ask questions and chat with Guild Leaders to get more information about the guild you're interested in. If you find a guild you're interested in please comment in their thread or if you are shy, you can react with the awesome reaction indicating your interest in joining. Guild Leaders can then reach out accordingly.<br><br><b><u>Timing</u></b><br>
-The recruitment drive kicks off on Tuesday, March 18 at 11am ET (15:00 UTC). Each day, the Guild Recruitment ESO Forum sections will be open for posting and active conversation for Guild Leaders and Prospective Guild Members.<br><br>
-Thanks to everyone who plans to participate and we hope the Guild Recruitment Drive helps you strengthen your guilds and find even more folks to play with. We look forward to seeing everyone find their new guild home!,Also feel free to use this template image to make sharing guild info easier!<br><img src="https://us.v-cdn.net/5020507/uploads/editor/ju/2hutwalbw9v8.jpg"><br>]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Discover Deep Deals on ESO: Gold Road and Base Game with the 2025 March Sale]]></title>
@@ -362,92 +359,6 @@ Thanks to everyone who plans to participate and we hope the Guild Recruitment Dr
             <category>News</category>
             <category>Free Play</category>
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/03/b0d7469f15502abf69180b596e230fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fallen Banners & Update 45 Now Live on PC/Mac]]></title>
-            <link>https://www.elderscrollsonline.com/en-us/news/post/67679</link>
-            <guid>https://www.elderscrollsonline.com/en-us/news/post/67679</guid>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Defend an Elder Scroll and experience a host of changes and additions to the game with the Fallen Banners dungeon pack and Update 45 base-game patch.]]></description>
-            <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" /><p><i>Defend an Elder Scroll and experience a host of changes and additions to the game with the Fallen Banners dungeon pack and Update 45 base-game patch. </i></p> 
-<p>The <i>Fallen Banners</i> dungeon pack and free Update 45 base-game patch are now live on PC/Mac and arrives March 26 for Xbox and PlayStation consoles. In this release, you can save Cyrodiil from plunging further into chaos with two new dungeons and experience a host of changes and quality-of-life additions. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/6a99ceaf637e19dc2680e92c25db153a.jpg" />
-<p style="text-align: center"><i>Fallen Banners dungeon pack</i></p> <p>You can get access to the <i>Fallen Banners</i> dungeon pack at launch via <a href="https://www.elderscrollsonline.com/en-us/esoplus;">ESO Plus™ membership</a>. Note that alternative means of acquiring it will be revealed as part of the upcoming ESO Direct on April 10.</p> <h2>Fallen Banners</h2> <p>Gather your party for two challenging new PvE dungeon experiences: Lep Seclusa and Exiled Redoubt. Unlock new achievements and earn new rewards including item sets, collectibles, and more as you fight to preserve what little peace remains in the war-torn region of Cyrodiil. </p> <p><b>Lep Seclusa</b></p> <p>The Moth Priests of Lep Seclusa are besieged, and the cunning Orpheon the Tactician is set on seizing the power of the Elder Scroll they safeguard. You must help Sister Chana defend the sanctuary against an army of deserters, protect its people and secrets, and confront Orpheon before he can use the power of the scroll to forever change the face of Cyrodiil. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/3e890dfac396411246bb61663793e8dc.jpg" />
-<p style="text-align: center;"><i>Defend the Moth Priest sanctuary</i></p> 
-<p>To learn more about Lep Seclusa, check out <a href="https://www.elderscrollsonline.com/en-us/news/post/67577">this preview blog</a>. </p> 
-<p><b>Exiled Redoubt</b></p> 
-<p>Soldiers of the Alliance War, regardless of their faction, are vanishing, and all trails lead to the Imperial fortress known as the Exiled Redoubt. Team up with the Battlemage Lucilla, infiltrate this mysterious stronghold, and put a stop to the schemes of a once noble Imperial house before its chaos can spread beyond its stone walls and throughout Tamriel. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/3c5a1e34a6048948637a9f085afad681.jpg" />
-<p style="text-align: center;"><i>Battle your way into an Imperial stronghold</i></p> 
-<p>To learn more about the Exiled Redoubt, check out <a href="https://www.elderscrollsonline.com/en-us/news/post/67647">this preview blog</a>. </p> 
-<p><b>New Dungeon Loot</b></p> 
-<p>Those who brave Lep Seclusa and the Exiled Redoubt also have a chance to loot and unlock a host of special rewards, such as new collectibles, item sets, and Achievements. This includes the Tactician's Gold Lattice Skin, earned by completing both dungeons on veteran difficulty—no easy task!</p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/be3c94df60cf7ffc72b87d3d7322ca8c.jpg" />
-<p style="text-align: center;"><i>Unlock a new Cyrodiil-inspired skin</i></p> 
-<h2>Getting Started</h2> 
-<p>At launch, you can access the <i>Fallen Banners</i> dungeon pack with an ESO Plus membership. If your ESO Plus membership lapses, you will lose access to the DLC until you renew your membership or acquire it by other means. </p> 
-<p>Note that while at launch ESO Plus membership is the only way to access the dungeon pack, there will be additional ways to acquire it in the future—stay tuned for more information during the April ESO Direct. </p> 
-<p>Once you have access to <i>Fallen Banners</i>, you can dive right into the two new dungeons via the following methods: </p> 
-<ul><li>By teleporting directly into the two dungeons from your map</li><li>By using the Dungeon Finder tool </li><li>By visiting their specific dungeon entrances within the Hew's Bane (Lep Seclusa) and West Weald (Exiled Redoubt) zones</li></ul> 
-<p>As a base-game patch, Update 45 will be automatically downloaded by your game clients when it launches. </p> 
-<h2>Update 45 Base-Game Patch</h2> 
-<p>Arriving in tandem with the dungeon pack is the Update 45 base-game patch, a free update for all <i>ESO</i> players that features additions, bugfixes, and improvements to the game. </p> 
-<p><b>Starter Zone Refresh</b></p> 
-<p>To help keep <i>ESO</i> as welcoming to new (and returning) players as possible, the game's starter zones have received a visual refresh, bringing them closer to the quality of more recent additions. Bleakrock Isle, Bal Foyen, Stros M'kai, Betnikh, and Khenarthi's Roost have each received improvements to their lighting, enhanced ground and water textures, updated structures, and the addition of more clutter or props. </p>
-<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/6f2cd232f72d4e943f714e6005cd0e4f.jpg" />
-<p style="text-align: center;"><i>Discover updated starter zones</i></p> 
-<p><b>Cyrodiil Champions PC/Mac Test</b></p> 
-<p><i>ESO</i>'s Alliance War veterans can help the team test future changes and iterations on the game's open-world PvP with a PC/Mac-only test called Cyrodiil Champions. With the goal of improving stability and performance in Cyrodiil (and perhaps other environments), look for a special Alliance War campaign called Vengeance to participate from March 24-31, 2025. </p> 
-<p><b>General Changes and Improvements </b></p> 
-<p>Along with the above, Update 45 also boosts mount starting speed, overhauls the Craft constellation to ease micromanagement, and introduces a general UI cleanup of the in-game map to help improve readability. It also moves the game's disguises out of the inventory and into your collections and improves the visibility of Mundus Stone boons—phew! </p> 
-<p>You can discover more about the update's features in <a href="https://www.elderscrollsonline.com/en-us/news/post/67601">this preview blog</a>. For everything arriving as part of the base-game patch, check out the <a href="https://forums.elderscrollsonline.com/en/categories/patch-notes">Patch Notes on our official forums</a>. Don't forget, the Update 45 base-game patch is FREE for all <i>ESO</i> players and is downloaded automatically at launch.</p> 
-<h2>Delve into the Endless Conflict</h2> 
-<p>Gather your party and prepare to delve into two challenging new PvE experiences with the <i>Fallen Banners</i> dungeon pack. Are you ready to witness the true cost of the Alliance War? Are you excited to make use of the base-game patch's various improvements and additions? Let us know via <a href="https://bsky.app/profile/elderscrollsonline.com">Bluesky</a>, <a href="https://twitter.com/TESOnline">X (formerly Twitter)</a>, <a href="https://www.instagram.com/elderscrollsonline/">Instagram</a>, and <a href="https://www.facebook.com/elderscrollsonline">Facebook</a>.</p> 
-<p><i>The Fallen Banners dungeon pack and Update 45 is now live for ESO Plus members on PC/Mac and arrives March 26 for Xbox and PlayStation consoles. Look for more details on additional ways to acquire Fallen Banners during the upcoming April ESO Direct.</i></p>]]></content:encoded>
-            <category>News</category>
-            <category>Fallen Banners</category>
-            <category>Update 45</category>
-            <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/01/1b8ed7104cb38ea5dadd00b4d2fe8630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fallen Banners and Update 45 Known Issues]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/674243/fallen-banners-and-update-45-known-issues</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/674243/fallen-banners-and-update-45-known-issues</guid>
-            <pubDate>Fri, 07 Mar 2025 15:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All. Below is a current list of known issues related to the Update 45 PC/Mac Launch and their status. We will be updating this throughout the day.<br><br>
-Also as a quick reminder, the Fallen Banners Dungeon pack. It is currently available for ESO+ Members. There will be additional ways to acquire the Dungeon Pack after Update 45 Console Launch, including in the Crown Store. Please see <a href="https://forums.elderscrollsonline.com/en/discussion/672037">Matt Firor's post here</a> for the original statement, and stay tuned for more information during the April ESO Direct.<br><br><b><u>Known Issues</u></b>
-<ul><li><b>Undaunted Masks in Lep Seclusa and Exiled Redoubt are currently not curated.</b>
-<ul><li>This will be fixed in an upcoming incremental patch.</li>
-</ul></li>
-</ul><br><ul><li><b>A treasure map dig site in Stros M'Kai is partially blocked by rubble. </b>
-<ul><li>This is a known issue and we have a bug in place for this. Estimated fix will be in Update 46.</li>
-</ul></li>
-</ul><br><ul><li><b>UI Error noting to "buy DLC in crown store", referencing the Fallen Banners Dungeon Pack. </b>
-<ul><li>Please refer to the reminder at the top of the known issues page regarding the Fallen Banners Dungeon pack currently only available to ESO+ Members.</li>
-</ul></li>
-</ul><br><ul><li><b>No music is currently playing in Battlegrounds. This is not working as intended.</b>
-<ul><li><span style="text-decoration: line-through;">This has been identified and investigations are currently underway to resolve this.</span></li>
-<li>Update: This will be fixed in an upcoming incremental.</li>
-</ul></li>
-</ul><br><ul><li><b>Currently, the achievement "Commemorative Safebox Looter" is not working as intended in several ways:</b>
-<ul><li>You are able to get the achievement completed before all components are done – only 34 are needed.</li>
-<li>Safeboxes in Wrothgar and Northern Elsweyr will not trigger, making the component incompletable.</li>
-<li>There are no safeboxes in Artaeum, by design, making completing this component impossible.</li>
-</ul>
-Due to the complexity involved in addressing the issues, this achievement will be fixed in a future update. In the meantime you will still be able to get the associated dye, the "10-Year Anniversary Gold Leaf" if you are able to trigger the achievement, and progress will be carried over in the future when the achievement will be fixed.</li>
-</ul><br><ul><li><b>The ability to change the waypoint color from the login screen is not working as intended on both Keyboard/Mouse and Gamepad. Attempting to change the color current causes ESO to freeze and/or crash. </b>
-<ul><li>Current workaround, you can change the color either in the Character Selection screen or after loading into a zone. <span style="text-decoration: line-through;">A fix for the core issue is being investigated.</span></li>
-<li>A fix has been identified and will be worked on for an upcoming incremental.</li>
-</ul></li>
-</ul><br><ul><li><b>Tales of Tribute currently has a chance of a UI error occurring when selecting Patrons.</b>
-<ul><li>We have been able to reproduce the issue and have a bug in for this. This will be resolved in a future incremental patch. Currently a work-around is to restart the game client and load back in-game with a few characters. Our testing has shown Patrons reappear after that process.</li>
-</ul></li>
-</ul><ul><li><b>Twice Struck achievement for Lep Secusa is not registering properly and the Lep Seclusa Champion Meta Achievement cannot be properly completed as a result.</b>
-<ul><li>A fix has been identified and will be worked on for an upcoming incremental.</li>
-</ul></li>
-</ul>]]></content:encoded>
-            <category>Forum</category>
         </item>
         <item>
             <title><![CDATA[Celebrate 10 Years of Amazing Stories and Characters with this New Wallpaper]]></title>
