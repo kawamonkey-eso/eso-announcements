@@ -4,10 +4,30 @@
         <title>ESO Announcements</title>
         <link>https://www.elderscrollsonline.com/</link>
         <description>Combined ESO blog and forum post announcements feed</description>
-        <lastBuildDate>Tue, 01 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 16:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Magic</generator>
         <language>en-us</language>
+        <item>
+            <title><![CDATA[Thank you for participating in the Cyrodiil Champions Test!]]></title>
+            <link>https://forums.elderscrollsonline.com/en/discussion/675548/thank-you-for-participating-in-the-cyrodiil-champions-test</link>
+            <guid>https://forums.elderscrollsonline.com/en/discussion/675548/thank-you-for-participating-in-the-cyrodiil-champions-test</guid>
+            <pubDate>Wed, 02 Apr 2025 16:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[Now that the Cyrodiil Champions test has come to a close, we want to thank everyone who took part. We know you're eager to learn the results and next steps – so are we! We do need some time to go through the data, analyze it, and extract the findings. When we're done with that next step, we will share the test results with you. Test participants, please keep an eye out for a post-test survey in the next week. (To ensure you receive it, please make sure you're opted-in to get emails from us <a href="https://account.elderscrollsonline.com/en-us/account/marketing-preferences">here</a>!)<br>
+In the meantime, we'd like to leave you with a summary of some of the incredible history-breaking records we were able to hit during this test, thanks to you, as well as a few screenshots of the fun. (We'd love to see yours, too!)
+<ul><li><b>Most players ever in Cyrodiil at one time, in a single campaign</b>
+<ul><li>We were able to hit triple the amount of players that is currently possible in a single Cyrodiil campaign.</li>
+</ul></li>
+</ul><ul><li><b>Largest sustained battles we've ever had in Cyrodiil</b>
+<ul><li>We hit a new record with the amount of players not only in a single campaign, but also in a single battle. We saw almost double the amount of players that were possible in an entire campaign before the Cyrodiil Champions test in a single sustained battle on the Vengeance campaign.</li>
+</ul></li>
+</ul><ul><li><b>Best overall game performance we've ever seen in Cyrodiil&nbsp;</b>
+<ul><li>We had three times the number of players in a single Cyrodiil campaign with little to no performance problems.</li>
+</ul></li>
+</ul>
+Thank you again for helping us with the Cyrodiil Champions test. Your participation will help us shape the future of Cyrodiil!&nbsp;<br><img src="https://us.v-cdn.net/5020507/uploads/editor/ey/x9xye82463ra.jpg"><br><img src="https://us.v-cdn.net/5020507/uploads/editor/sb/s1zgbyucxbpw.jpg"><br><img src="https://us.v-cdn.net/5020507/uploads/editor/yh/ms6xqluekl55.jpg"><br>]]></content:encoded>
+            <category>Forum</category>
+        </item>
         <item>
             <title><![CDATA[Indulge in Cake, XP Buffs, and Bonus Rewards during the 2025 Anniversary Jubilee Event]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67657</link>
@@ -173,17 +193,6 @@
             <enclosure url="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/f22b26ceae995817a42ee6a45d325201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Known Console U45 Issue: Character Faces Not Displaying Correctly (Info & Fix Timing)]]></title>
-            <link>https://forums.elderscrollsonline.com/en/discussion/675203/known-console-u45-issue-character-faces-not-displaying-correctly-info-fix-timing</link>
-            <guid>https://forums.elderscrollsonline.com/en/discussion/675203/known-console-u45-issue-character-faces-not-displaying-correctly-info-fix-timing</guid>
-            <pubDate>Wed, 26 Mar 2025 22:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[With today's launch of Update 45 on the consoles servers, we identified a display issue with some in-game face/body markings and skin collectibles, including makeup, that are resulting in character faces not displaying correctly (specifically, lighting and textures appearing dark and pixelated.)  We have a fix readied as part of the next console incremental patch, which has been moved up to April 2nd to address the issue as quickly as possible.<br><br>
-In the meantime, we recommend players on our console servers please unequip any face/body markings and skins that are not displaying properly. We are aware that some of the affected body/face markings cannot be removed due to being set at character creation, and we apologize for the inconvenience. When this issue is fixed, it will automatically apply to any equipped or unequipped body/face markings or skins.<br><br>
-Lastly, please be aware that there are a handful of body/face markings in the Carnaval Crown Crate launching tomorrow that may be affected. However, these will also be fixed with the incremental patch on April 2nd.<br><br>
-Thank you all for your patience and understanding while we work to fix this visual issue.]]></content:encoded>
-            <category>Forum</category>
-        </item>
-        <item>
             <title><![CDATA[Fallen Banners & Update 45 Now Live on All Platforms]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67679</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67679</guid>
@@ -225,7 +234,7 @@ Thank you all for your patience and understanding while we work to fix this visu
             <title><![CDATA[Celebrate Sanguine with the New Carnaval Crown Crates]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67651</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67651</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[The Lord of Revelry invites you to go wild with desire for the items and collectibles found in the new Carnaval Crown Crates.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/84c6f516abad6d9a80fc494c23ff0e75.jpg" /><p><i>The Lord of Revelry invites you to go wild with desire for the items and collectibles found in the new Carnaval Crown Crates.</i></p> <p>***</p> <p><i>Blood on the air, wine in your cup, and music all around you. It must be? It is! Carnaval is here! The Daedric Prince Sanguine is throwing a party and everyone is just dying to get in. This raucous party celebrates living at its most debauched. Will you dance till you drop? Perhaps drink deeply of the dangerous brew in the kettle? And most importantly, will you walk away from this celebration with your soul intact? Let's find out together at Car-na-val!</i></p> <p>***</p> <p><b>** Update for Mar. 27, 2026 - Due to an issue with Update 45 on consoles, some body/face markings and skins found within the Carnaval Crown Crate may display incorrectly. This bug will be fixed as part of the incremental patch on April 2, 2025. You can find out more information on this issue in </b><b><a target="_blank" delay="150" navigationtraceid="E55SJ2GSJ-to-Channel:C05UCM6HW7R" href="https://forums.elderscrollsonline.com/en/discussion/675203" rel="noopener noreferrer">this forum post</a></b><b>. Thank you for your patience. **</b></p><p><br></p><p>The new Carnaval Crown Crates arrive in the Crown Store this Thursday, March 27, 2025 at 10AM EDT. When opening these crates, you have a chance to find items spectacular and scandalous in the form of new and returning items and collectibles.</p> <p>These goods include unique mounts, pets, furnishings, and much more. You can see just some of the items available within Carnaval Crown Crates below.</p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/6f96f02b1ca3812a98eac99392e4c0bf.jpg" />
@@ -292,7 +301,7 @@ Thank you all for your patience and understanding while we work to fix this visu
             <title><![CDATA[Madcap Merriment Marks Marvelous Rewards as the Jester's Festival Event Returns]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67653</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67653</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Spread cheer and chaos in equal measure to receive raucous rewards during this year's Jester's Festival in-game event!]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/03/57908f210a6709eeb15614594e114daa.jpg" /><p><i>Spread cheer and chaos in equal measure to receive raucous rewards during this year's Jester's Festival in-game event!</i></p> 
 <h2>A Festive Frolic for All</h2> 
@@ -425,7 +434,7 @@ Thank you all for your patience and understanding while we work to fix this visu
             <title><![CDATA[Crown Store Showcase—March 2025]]></title>
             <link>https://www.elderscrollsonline.com/en-us/news/post/67631</link>
             <guid>https://www.elderscrollsonline.com/en-us/news/post/67631</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Saddle up and check out what's coming to the Crown Store this March 2025.]]></description>
             <content:encoded><![CDATA[<img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/5f6469630995f12548b077bf3c94dc5d.jpg" /><p><i>Saddle up and check out what's coming to the Crown Store this March 2025.</i></p> <p>As March begins, we have for you a selection of the finest goods in Tamriel for your perusal and purchasing. Among them are whimsical wares and perilous prizes, as well as a broad refresh of many of the common Crown Store mounts.</p> <p>Remember, you can always check out what's currently available by visiting the <a href="https://www.elderscrollsonline.com/en-us/crownstore">Crown Store page</a>. Something catch your eye? Be sure to visit the <a href="https://www.elderscrollsonline.com/en-us/buycrowns">Buy Crowns page</a> to acquire however many crowns you need! Certain items and offers are available for a limited time only, so be sure to read their details below and don't miss out.</p> <p>All ESO Plus™ members have access to a monthly selection of exclusive deals and items. You can find more information about them in <a href="https://www.elderscrollsonline.com/en-us/news/post/54825">this article</a>. Any discounted or free items have a special callout.</p><p><br></p><p><b>UPDATE FOR FEB. 28, 2025 -</b> A previous version of this Showcase contained incorrect sourcing for the monster mask matching the Roksa the Warped Arms Pack. The sourcing has now been updated with the correct information. Thank you for your understanding.</p><p><br></p> <h2>New Items</h2> <p>These are new items coming to the Crown Store for the first time. The dates listed below are the times you can expect to find them in the Crown Store.</p><p><br></p> <h3>ESO Plus Exclusives</h3> <ul><li><b>Statuette: Imperial Knight—</b>March 27, 2025 to May 12, 2025. FREE, exclusively to ESO Plus Members.</li></ul> <p><br></p><h3>Costumes</h3> <p><b>Clockwork Tinker</b></p>
 <img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2025/02/273fafa7f39dc7c9f79dc8df877a5522.jpg" />
@@ -716,7 +725,7 @@ As always, please keep the <a href="https://forums.elderscrollsonline.com/en/dis
             <link>https://forums.elderscrollsonline.com/en/discussion/672610/morphing-collectible-chart-2025</link>
             <guid>https://forums.elderscrollsonline.com/en/discussion/672610/morphing-collectible-chart-2025</guid>
             <pubDate>Wed, 29 Jan 2025 15:59:12 GMT</pubDate>
-            <content:encoded><![CDATA[Hi All! We put together a guide to show the earnable quarterly collectibles for the 2025 morphing collectible. We'll update this per quarter. If you have any feedback, please let us know. Hopefully, this will help everyone keep track of some collectible goals!<br><img src="https://us.v-cdn.net/5020507/uploads/editor/el/6ad9gs0h4isv.jpg"><br>]]></content:encoded>
+            <content:encoded><![CDATA[Hi All! We put together a guide to show the earnable quarterly collectibles for the 2025 morphing collectible. We'll update this per quarter. If you have any feedback, please let us know. Hopefully, this will help everyone keep track of some collectible goals!<br><img src="https://us.v-cdn.net/5020507/uploads/editor/bg/5xjukampryn0.jpg"><br>]]></content:encoded>
             <category>Forum</category>
         </item>
         <item>
